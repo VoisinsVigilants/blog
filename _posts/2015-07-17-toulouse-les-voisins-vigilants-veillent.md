@@ -1,0 +1,20 @@
+---
+id: 649
+title: À Toulouse, les Voisins Vigilants veillent !
+date: 2015-07-17T11:17:35+00:00
+author: Voisins Vigilants
+layout: post
+guid: http://blog.voisinsvigilants.org/?p=649
+permalink: /blog/toulouse-les-voisins-vigilants-veillent/
+categories:
+  - France 3 Midi-Pyrénées
+tags:
+  - bienveillance
+  - solidarite
+  - Toulouse
+  - voisins
+  - voisins vigilants
+---
+<p style="text-align: justify;">
+  À Toulouse, le concept des Voisins Vigilants est bien ancré ! France 3 Midi-Pyrénées s&rsquo;est intéressé à ce phénomène qui ne cesse de s&rsquo;étendre. Retrouvez le témoignage de deux voisins vigilants !
+</p>

@@ -1,0 +1,32 @@
+.site-branding {
+    // float: right;
+}
+.link-vv {
+    font-family: 'calibri';
+    text-align: right;
+    font-size: small;    
+}
+
+.link-vv a {
+  color: $dark-gray;
+  text-decoration: none;
+  // transition: color 0.1s linear;
+
+  &:active,
+  &:focus,
+  &:hover {
+    color: darken($dark-gray, 10%);
+    text-decoration: underline;
+  }
+
+  &:active,
+  &:focus {
+    outline: none;
+  }
+}    
+
+.subtitle{
+  font-family: 'Lobster', cursive;
+  font-size: 2.1rem;
+  font-weight:200;
+}

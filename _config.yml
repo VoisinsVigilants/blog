@@ -28,7 +28,6 @@ inter_post_navigation: false
 highlightjs_theme: "monokai-sublime"
 #theme: jekyll-theme-cayman
 remote_theme: bencentra/centrarium 
-
 # Pagination Settings V2
 # https://github.com/sverrirs/jekyll-paginate-v2/blob/master/README-GENERATOR.md#site-configuration
 #pagination:

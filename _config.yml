@@ -1,7 +1,7 @@
 # External plugins
 # See http://ixti.net/software/2013/01/28/using-jekyll-plugins-on-github-pages.html for making `jekyll archives` work.
 plugins:
-  - jekyll-archives # Sorry, not GitHub pages friendly!
+#  - jekyll-archives # Sorry, not GitHub pages friendly!
   - jekyll-sitemap
   - jekyll-paginate-v2
 
@@ -27,6 +27,7 @@ logo: "/assets/logoBlog.png"
 markdown: kramdown
 inter_post_navigation: false
 highlightjs_theme: "monokai-sublime"
+#theme: jekyll-theme-cayman
 remote_theme: bencentra/centrarium 
 
 # Pagination Settings V2
@@ -95,5 +96,3 @@ protocols:
     os_repo: "https://github.com/bencentra/centrarium.com"
     os_rcs_type: "git"
     os_src: "git@github.com:bencentra/centrarium.com.git"
-
-theme: jekyll-theme-cayman

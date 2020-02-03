@@ -1,5 +1,3 @@
-# External plugins
-# See http://ixti.net/software/2013/01/28/using-jekyll-plugins-on-github-pages.html for making `jekyll archives` work.
 plugins:
   - jekyll-archives # Sorry, not GitHub pages friendly!
   - jekyll-sitemap
@@ -14,28 +12,16 @@ subtitle: Le blog officiel
 email: support@voisinsvigilants.org
 name: Voisins Vigilants et Solidaires
 
-# Base URL of site (i.e. /blog). It should always start with a slash,
-# and never end with a slash. Set it to a blank value if hosting at the
-# root of your server.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 cover: "/assets/header_voisinsvigilantsorg.jpg"
 logo: "/assets/logoBlog.png"
 iconevvs: "/assets/oeil.png"
 
-# Build settings
 markdown: kramdown
 inter_post_navigation: false
 highlightjs_theme: "monokai-sublime"
-#theme: jekyll-theme-cayman
 remote_theme: bencentra/centrarium 
-# Pagination Settings V2
-# https://github.com/sverrirs/jekyll-paginate-v2/blob/master/README-GENERATOR.md#site-configuration
-#pagination:
-#  enabled: true
-#  per_page: 5
-#  permalink: "/page/:num/"
-#  sort_reverse: true
 
 # PAGINATION GITHUB-PAGE
 paginate: 5
@@ -56,6 +42,12 @@ collections:
     output: true # générer la page HTML
     permalink: /:collection/:name/index.html
 
+defaults:
+  - scope:
+      path: ""
+      type: category
+    values:
+      layout: "posts_by_category"
 protocols:
     fb_image: "/assets/logo.png"
     fb_image_width: 612

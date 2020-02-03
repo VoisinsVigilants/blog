@@ -51,7 +51,7 @@ jekyll-archives:
     category: '/category/:name/'
     tag: '/tag/:name/'
 
-categories: [tf1]
+categories: [tf1, Tf1]
 # Disqus comments
 # disqus_shortname: bencentra
 

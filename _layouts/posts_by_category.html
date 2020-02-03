@@ -12,8 +12,8 @@ layout: default
 		<article class="post-content">
 			<ul class="posts-list">
 				<li>{{page.categories}}</li>
-			{% if site.categories[page.categories] %}
-				{% for post in site.categories[page.categories] %}
+			{% if site.categories[page.title] %}
+				{% for post in site.categories[page.title] %}
 					<li><strong><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title
 					}}</a></strong><span class="post-date"> - Posté le {% assign m = post.date | date: "%-m" %}
 {{ post.date | date: "%-d" }}

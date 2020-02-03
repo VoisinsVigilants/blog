@@ -1,5 +1,5 @@
 ---
-layout: posts_by_category
+layout: archive
 categories: python
 title: Python
 permalink: /category/Tf1

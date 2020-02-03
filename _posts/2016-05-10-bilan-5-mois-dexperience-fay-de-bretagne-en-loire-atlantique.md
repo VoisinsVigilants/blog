@@ -10,8 +10,8 @@ categories:
   - Breizh-info
 tags:
   - Fay-de-Bretagne
-  - Mairie Vigilante
-  - voisins vigilants
+  - Mairie Vigilante et Solidaire
+  - Voisins Vigilants et Solidaires
 ---
 <p style="color: #000000; text-align: justify;">
   <strong>Le dispositif des Voisins Vigilants, censé développer l’implication des citoyens dans leur environnement direct pour contrecarrer l’explosion du nombre de cambriolages et de démarchages douteux, ne cesse de s’étendre.</strong>

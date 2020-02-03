@@ -7,8 +7,8 @@ layout: post
 guid: http://blog.voisinsvigilants.org/?p=207
 permalink: /blog/langage-des-cambrioleurs/
 categories:
-  - Europe 1
-  - Radio
+  - EUROPE 1
+  - RADIO
 tags:
   - langage des cambrioleurs
   - Paris

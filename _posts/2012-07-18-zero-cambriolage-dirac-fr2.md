@@ -7,7 +7,7 @@ layout: post
 guid: http://blog.voisinsvigilants.org/?p=185
 permalink: /blog/zero-cambriolage-dirac-fr2/
 categories:
-  - France 2
+  - FRANCE_2
   - Presse
   - TV
 tags:

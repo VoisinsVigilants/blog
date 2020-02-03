@@ -7,18 +7,17 @@ layout: post
 guid: http://blog.voisinsvigilants.org/?p=1651
 permalink: /blog/devenir-mairie-vigilante/
 categories:
-  - Mairie Vigilante
+  - Mairie Vigilante et Solidaire
 tags:
   - dispositif voisins vigilants
-  - Mairie Vigilante
+  - Mairie Vigilante et Solidaire
 ---
+
 <p style="font-weight: 500; text-align: justify;">
   <strong>Pourquoi soutenir l&rsquo;initiative Voisins Vigilants auprès de votre Mairie ? Associer votre communauté à une Mairie Vigilante, c&rsquo;est optimiser l&rsquo;efficacité du dispositif Voisins Vigilants. </strong>
 </p>
 
-<p style="font-weight: 500; text-align: justify;">
-  <a href="http://blog.voisinsvigilants.org/wp-content/uploads/2015/11/Mairie-Vigilante.jpg"><img class="aligncenter  wp-image-1666" src="http://blog.voisinsvigilants.org/wp-content/uploads/2015/11/Mairie-Vigilante.jpg" alt="Mairie Vigilante" width="955" height="518" /></a>
-</p>
+[<img class="aligncenter size-full wp-image-3292" src="./../../images/2015/11/Mairie-Vigilante.jpg" alt="Mairie Vigilante c'est quoi" />](./../../images/2015/11/Mairie-Vigilante.jpg)
 
 <p style="font-weight: 500; text-align: justify;">
   En souscrivant à une offre Mairie Vigilante, votre Mairie et votre Police Municipale, pourront vous alerter de tout problème de sécurité (cambriolages, intempéries, risques sanitaires, accidents de la route&#8230;) et de tout événement inhabituel pouvant occasionner une gêne (grève des services publiques, fermeture exceptionnelle de l&rsquo;école&#8230;).

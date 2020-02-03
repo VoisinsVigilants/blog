@@ -15,7 +15,7 @@ tags:
   - faux démarcheurs
   - Gargenville
 ---
-[<img class="aligncenter wp-image-3220 size-large" src="./../../images/2018/03/démarcheurs-1024x575.jpg" alt="démarcheurs" width="640" height="359" />](./../../images/2018/03/démarcheurs.jpg)
+[<img class="aligncenter wp-image-3220 size-large" src="./../../images/2018/03/demarcheurs.jpg" alt="démarcheurs" width="640" height="359" />](./../../images/2018/03/demarcheurs.jpg)
 
 &nbsp;
 

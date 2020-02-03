@@ -5,12 +5,12 @@ date: 2019-01-24T16:28:04+00:00
 author: Voisins Vigilants
 layout: post
 guid: http://blog.voisinsvigilants.org/?p=3299
-permalink: blog/tmc-met-lhonneur-dispositif-voisins-vigilants-solidaires-lapplication-cartonne/
+permalink: blog/tmc-met-lhonneur-dispositif-voisins-vigilants-solidaires-lapplication-cartonne/  
 categories:
   - TMC
-  - 90-enquetes
+  - 90 minutes enquetes   
 tags:
-  - reportage
+  - reportage  
 ---
 « L’application cartonne »  
 « Ici 1 habitant sur 4 utilise ce système »  

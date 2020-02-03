@@ -11,8 +11,8 @@ categories:
 tags:
   - La Voix Du Nord
   - Leers
-  - Mairie Vigilante
-  - voisins vigilants
+  - Mairie Vigilante et Solidaire
+  - Voisins Vigilants et Solidaires
 ---
 [<img class="aligncenter size-full wp-image-1330" src="http://blog.voisinsvigilants.org/wp-content/uploads/2015/10/Image4.jpg" alt="Image4" width="953" height="2081" />](http://blog.voisinsvigilants.org/wp-content/uploads/2015/10/Image4.jpg)
 

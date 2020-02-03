@@ -11,8 +11,8 @@ categories:
   - PACA
 tags:
   - Alleins
-  - Mairie Vigilante
-  - voisins vigilants
+  - Mairie Vigilante et Solidaire
+  - Voisins Vigilants et Solidaires
 ---
 **La Mairie d&rsquo;Alleins a à son tour succombé au dispositif des Voisins Vigilants et devient Mairie Vigilante ! **
 

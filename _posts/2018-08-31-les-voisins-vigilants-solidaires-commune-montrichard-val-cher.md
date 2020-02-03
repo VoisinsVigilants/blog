@@ -7,10 +7,10 @@ layout: post
 guid: http://blog.voisinsvigilants.org/?p=3277
 permalink: /blog/les-voisins-vigilants-solidaires-commune-montrichard-val-cher/
 categories:
-  - Mairie Vigilante
+  - Mairie Vigilante et Solidaire
   - Voisins Vigilants et Solidaires
 tags:
-  - Mairie Vigilante
+  - Mairie Vigilante et Solidaire
   - Montrichard
 ---
 &nbsp;

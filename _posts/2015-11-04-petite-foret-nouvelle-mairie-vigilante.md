@@ -9,9 +9,9 @@ permalink: /blog/petite-foret-nouvelle-mairie-vigilante/
 categories:
   - La Voix du Nord
 tags:
-  - Mairie Vigilante
+  - Mairie Vigilante et Solidaire
   - Petite-Forêt
-  - voisins vigilants
+  - Voisins Vigilants et Solidaires
 ---
 [<img class="aligncenter  wp-image-1369" src="http://blog.voisinsvigilants.org/wp-content/uploads/2015/10/logo-la-voix-du-nord.jpg" alt="logo-la-voix-du-nord" width="898" height="170" />](http://blog.voisinsvigilants.org/wp-content/uploads/2015/10/logo-la-voix-du-nord.jpg)
 

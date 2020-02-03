@@ -7,9 +7,9 @@ layout: post
 guid: http://blog.voisinsvigilants.org/?p=253
 permalink: /blog/outil-efficace-contre-les-cambriolages/
 categories:
-  - Europe 1
-  - Presse
-  - Radio
+  - EUROPE 1
+  - PRESSE
+  - RADIO
 tags:
   - Île-de-France
   - Prévention des cambriolages

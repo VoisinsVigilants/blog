@@ -9,7 +9,7 @@ permalink: /blog/deja-250-mairies-vigilantes-en-france/
 categories:
   - RTL
 tags:
-  - Mairie Vigilante
+  - Mairie Vigilante et Solidaire
   - Municipalité
   - RTL
   - voisins vigilants

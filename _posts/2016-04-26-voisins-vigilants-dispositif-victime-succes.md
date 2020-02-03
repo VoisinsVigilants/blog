@@ -9,9 +9,9 @@ permalink: /blog/voisins-vigilants-dispositif-victime-succes/
 categories:
   - 78actu
 tags:
-  - Mairie Vigilante
+  - Mairie Vigilante et Solidaire
   - Montesson
-  - voisins vigilants
+  - Voisins Vigilants et Solidaires
 ---
 <p class="bigger mts mbs" style="color: #29292b; text-align: justify;" data-role="chapo">
   <span style="color: #000000;"><strong>Montesson est la ville des Yvelines où les “voisins vigilants” sont le plus nombreux, avec </strong><strong>1119 voisins répartis à travers 15 communautés.</strong></span>

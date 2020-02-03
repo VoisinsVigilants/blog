@@ -7,20 +7,18 @@ layout: post
 guid: http://blog.voisinsvigilants.org/?p=498
 permalink: /blog/chaumontel-mairie-vigilante-succes/
 categories:
-  - Mairie Vigilante
+  - Mairie Vigilante et Solidaire
 tags:
   - Chaumontel
   - communication
   - entraide
   - habitants
-  - Mairie Vigilante
-  - voisins vigilants
+  - Mairie Vigilante et Solidaire
+  - Voisins Vigilants et Solidaires
 ---
 ## **Christophe Vigier, adjoint au maire de Chaumontel et élu à la sécurité, a partagé avec nous son expérience de Voisin Vigilant. Depuis peu, sa municipalité est Mairie Vigilante. Zoom sur cette _success story_ !**
 
-<p style="text-align: center;">
-  <a href="http://blog.voisinsvigilants.org/wp-content/uploads/2015/03/chaumontel.jpg"><img class="size-large wp-image-500 aligncenter" src="http://blog.voisinsvigilants.org/wp-content/uploads/2015/03/chaumontel.jpg" alt="chaumontel" width="524" height="366" /></a>
-</p>
+[<img class="aligncenter size-full wp-image-3292" src="./../../images/2015/03/chaumontel.jpg" alt="Chaumontel" />](./../../images/2015/03/chaumontel.jpg)
 
 <h3 style="text-align: justify;">
   <strong>Un abonnement <em>«très peu coûteux»</em> pour la commune</strong>

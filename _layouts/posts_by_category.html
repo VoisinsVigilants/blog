@@ -11,7 +11,7 @@ layout: default
 		{% include page_divider.html %}
 		<article class="post-content">
 			<ul class="posts-list">
-				<li>{{page.categories}}</li>
+				<li>{{page.categories}}-{{page.title}}*</li>
 			{% if site.categories[page.title] %}
 				{% for post in site.categories[page.title] %}
 					<li><strong><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title

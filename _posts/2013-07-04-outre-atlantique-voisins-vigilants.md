@@ -16,3 +16,5 @@ tags:
   - Prévention des cambriolages
 ---
 Fondé sur la solidarité de voisinage, le dispositif Voisins Vigilants lutte contre l&rsquo;indifférence et développe l&rsquo;entraide au sein de nos quartiers : un moyen efficace de décourager les cambrioleurs qui agissent en bandes organisées.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kB96dQjGlEc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

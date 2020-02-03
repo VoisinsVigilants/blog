@@ -7,14 +7,14 @@ layout: post
 guid: http://blog.voisinsvigilants.org/?p=308
 permalink: /blog/nouvelle-mairie-vigilante-haute-garonne/
 categories:
-  - Mairie Vigilante
+  - Mairie Vigilante et Solidaire
 tags:
-  - Mairie Vigilante
+  - Mairie Vigilante et Solidaire
   - Sécurité
 ---
 #### La mairie d’Auterive adhère au dispositif  Mairie Vigilante afin de lutter contre les cambriolages.
 
-[<img class="alignnone size-full wp-image-309" src="http://blog.voisinsvigilants.org/wp-content/uploads/2014/12/Photo-article-AUTERIVE.jpg" alt="Photo article AUTERIVE" width="766" height="503" />](http://blog.voisinsvigilants.org/wp-content/uploads/2014/12/Photo-article-AUTERIVE.jpg)
+[<img class="aligncenter size-full wp-image-3292" src="./../../images/2014/12/Photo-article-AUTERIVE.jpg" alt="Auterive - Nouvelle Mairie Vigilante et Solidaire" />](./../../images/22014/12/Photo-article-AUTERIVE.jpg.jpg)
 
 Dans la Haute Garonne, les habitants et le maire de la commune d’Auterive voient avec inquiétude l’augmentation conséquente des vols et cambriolages.
 

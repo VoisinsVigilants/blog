@@ -14,6 +14,8 @@ tags:
   - solidarite
   - voisins vigilants
 ---
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_VZ8aOW11ZI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 <div class="pub167894">
   <div style="text-align: justify;" align="justify">
     <span style="color: #000000;">Jean-Luc Duhamel est le héros du jour. Samedi soir, cet homme a sauvé quatre personnes de la noyade dans un garage inondé de Mandelieu. Ce juriste n&rsquo;a pas hésité à mettre en danger sa propre vie pour sauver un premier couple de voisins coincé à contre-courant dans la pente du sous-soul inondé.</span>

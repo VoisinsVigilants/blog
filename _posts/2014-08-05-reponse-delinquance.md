@@ -12,7 +12,7 @@ categories:
   - Presse
 tags:
   - délinquance
-  - Mairie Vigilante
+  - Mairie Vigilante et Solidaire
   - Politique
   - www.voisinsvigilants.org
 ---

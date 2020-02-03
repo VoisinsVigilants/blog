@@ -7,10 +7,9 @@ layout: post
 guid: http://blog.voisinsvigilants.org/?p=1629
 permalink: /blog/etre-mairie-vigilante-cest/
 categories:
-  - Mairie Vigilante
+  - Mairie Vigilante et Solidaire
 tags:
-  - dispositif voisins vigilants
-  - Mairie Vigilante
+  - Mairie Vigilante et Solidaire
 ---
 <ul style="list-style-type: square;">
   <li style="text-align: justify;">
@@ -18,9 +17,8 @@ tags:
   </li>
 </ul>
 
-<p style="text-align: justify;">
-  <img class="aligncenter  wp-image-1684" src="http://blog.voisinsvigilants.org/wp-content/uploads/2015/11/10.jpg" alt="10" width="670" height="447" />
-</p>
+[<img class="aligncenter size-full wp-image-3292" src="./../../images/2015/11/10.jpg" alt="Mairie Vigilantes et Solidaires" />](./../../images/2015/11/10.jpg)
+
 
 <ul style="list-style-type: disc;">
   <li style="text-align: justify;">

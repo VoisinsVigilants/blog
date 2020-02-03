@@ -17,3 +17,5 @@ tags:
   - Témoignage
 ---
 Cambriolage déjoué dans la Drôme : un Voisin Vigilant témoigne dans la matinale de Jean-Jacques Bourdin sur RMC.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/V887d-VaWqs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

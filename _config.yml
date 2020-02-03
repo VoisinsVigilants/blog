@@ -1,5 +1,3 @@
-# External plugins
-# See http://ixti.net/software/2013/01/28/using-jekyll-plugins-on-github-pages.html for making `jekyll archives` work.
 plugins:
   - jekyll-archives # Sorry, not GitHub pages friendly!
   - jekyll-sitemap
@@ -14,69 +12,43 @@ subtitle: Le blog officiel
 email: support@voisinsvigilants.org
 name: Voisins Vigilants et Solidaires
 
-# Base URL of site (i.e. /blog). It should always start with a slash,
-# and never end with a slash. Set it to a blank value if hosting at the
-# root of your server.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 cover: "/assets/header_voisinsvigilantsorg.jpg"
 logo: "/assets/logoBlog.png"
 iconevvs: "/assets/oeil.png"
 
-# Build settings
 markdown: kramdown
 inter_post_navigation: false
 highlightjs_theme: "monokai-sublime"
-#theme: jekyll-theme-cayman
 remote_theme: bencentra/centrarium 
-# Pagination Settings V2
-# https://github.com/sverrirs/jekyll-paginate-v2/blob/master/README-GENERATOR.md#site-configuration
-#pagination:
-#  enabled: true
-#  per_page: 5
-#  permalink: "/page/:num/"
-#  sort_reverse: true
 
 # PAGINATION GITHUB-PAGE
 paginate: 5
 paginate_path: "blog/page:num"
 
 # Archive settings (see https://github.com/jekyll/jekyll-archives/)
-jekyll-archives:
-  enabled:
-    - categories
-    - tags
-  layout: 'archive'
-  permalinks:
-    category: '/category/:name/'
-    tag: '/tag/:name/'
+#jekyll-archives:
+#  enabled:
+#    - categories
+#    - tags
+#  layout: 'archive'
+#  permalinks:
+#    category: '/category/:name/'
+#    tag: '/tag/:name/'
+    
+collections:
+  category:
+    output: true # générer la page HTML
+    permalink: /:collection/:name/index.html
 
-# Disqus comments
-# disqus_shortname: bencentra
+defaults:
+  - scope:
+      path: ""
+      type: category
+    values:
+      layout: "posts_by_category"
 
-# Google analytics
-# ga_tracking_id: "UA-XXXX-1"
-
-
-# Social icons and sharing options
-#
-# Social settings are used in two places:
-# * In the footer, as links to your personal profiles
-# * After each blog post for sharing widgets
-#
-# Example:
-#
-# social:
-#   - name: Twitter                         # Name of the service
-#     icon: twitter                         # Font Awesome icon to use (minus fa- prefix)
-#     username: "@TheBenCentra"             # (User) Name to display in the footer link
-#     url: https://twitter.com/TheBenCentra # URL of your profile (leave blank to not display in footer)
-#     desc: Follow me on Twitter            # Description to display as link title, etc
-#     share: true                           # Include in the "Share" section of posts
-
-# Social sharing protocols
-# These are for automatically generating sharing metadata for FB and Twitter
-# OS Protocol is for sharing the source of your site, if you're interested. For more, see osprotocol.com
 protocols:
     fb_image: "/assets/logo.png"
     fb_image_width: 612

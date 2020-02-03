@@ -10,8 +10,8 @@ categories:
   - Sud Ouest
 tags:
   - Coutras
-  - Mairie Vigilante
-  - voisins vigilants
+  - Mairie Vigilante et Solidaire
+  - Voisins Vigilants et Solidaires
 ---
 [<img class="aligncenter  wp-image-1351" src="http://blog.voisinsvigilants.org/wp-content/uploads/2015/10/Sans-titre.png" alt="Sans titre" width="1035" height="140" />](http://blog.voisinsvigilants.org/wp-content/uploads/2015/10/Sans-titre.png)
 

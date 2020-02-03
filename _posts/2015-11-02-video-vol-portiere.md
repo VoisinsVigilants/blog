@@ -13,6 +13,10 @@ tags:
   - voisins vigilants
   - vol à la portière
 ---
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LRwEUbW5ZxQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 <p style="text-align: justify;">
   <strong style="color: #000000;">Les vols à la portière sont devenus un véritable fléau dans les grandes villes. Voici une vidéo illustrant cette technique de vol :</strong><strong style="color: #000000;"> </strong>
 </p>

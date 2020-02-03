@@ -16,7 +16,7 @@ tags:
   <strong><span style="color: #2c2c2c;">Face à une personne inconsciente, la première urgence est de vérifier si elle respire. Si c&rsquo;est le cas, deux seules choses à faire : contacter les secours et la placer en position latérale de sécurité (PLS) pour sécuriser la victime et éviter qu&rsquo;elle ne s&rsquo;étouffe.</span></strong>
 </p>
 
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4i4pej8G5t8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <p style="color: #2c2c2c; text-align: justify;">
   La personne est inconsciente mais elle respire. On la met alors en <strong>position latérale de sécurité</strong> (ou PLS).

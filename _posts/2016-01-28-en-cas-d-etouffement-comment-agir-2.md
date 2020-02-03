@@ -17,7 +17,7 @@ tags:
   <span style="font-weight: bold; color: #373430;">L’étouffement est un accident qui survient généralement au cours d’un repas : un aliment fait « fausse-route » et vient obstruer les voies respiratoires. </span>
 </p>
 
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3iOXhY4hQLE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <p style="color: #373430; text-align: justify;">
   <span style="color: #000000;">Un éclat de rire avec des aliments dans la bouche et l&rsquo;on avale de travers. La glotte, chargée de fermer l&rsquo;entrée de la trachée afin de permettre aux aliments d&rsquo;aller vers l&rsquo;estomac, n&rsquo;a pas fait son travail.</span>

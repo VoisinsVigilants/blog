@@ -5,15 +5,17 @@ layout: default
 	<div class="page">
 
 		<header class="post-header">
-			<h1 class="post-title">Articles ayant comme catégorie "{{ page.title | capitalize }}"</h1>
+			<h1 class="post-title">Articles ayant comme catégorie "{{ page.title }}"</h1>
 		</header>
 
 		{% include page_divider.html %}
-		<article class="post-content">
-			<ul class="posts-list">
-				 {% for post in site.categories[page.category] %}
-					<li><strong><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title
-					}}</a></strong><span class="post-date"> - Posté le {% assign m = post.date | date: "%-m" %}
+		<ul class="posts-list">
+			{% for post in site.categories[page.category] %}
+			<li>
+				<strong>
+					<a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+				</strong>
+				<span class="post-date"> - Posté le {% assign m = post.date | date: "%-m" %}
 {{ post.date | date: "%-d" }}
 {% case m %}
   {% when '1' %}Janvier
@@ -28,10 +30,10 @@ layout: default
   {% when '10' %}October
   {% when '11' %}Novembre
   {% when '12' %}Decembre
-{% endcase %} {{ post.date | date: "%Y" }}</span></li>
-				{% endfor %}
-			</ul>
-		</article>
+{% endcase %} {{ post.date | date: "%Y" }}
+						</span></li>
+			{% endfor %}
+		</ul>
 	</div>
 </div>
 <br>

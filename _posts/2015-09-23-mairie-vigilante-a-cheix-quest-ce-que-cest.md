@@ -11,11 +11,9 @@ categories:
 tags:
   - Cheix-en-Retz
   - entraide
-  - Mairie Vigilante
+  - Mairie Vigilante et Solidaire
   - Prévention
-  - solidarite
-  - voisins
-  - voisins vigilants
+  - Voisins Vigilants et Solidaires
 ---
 [<img class="aligncenter size-full wp-image-965" src="http://blog.voisinsvigilants.org/wp-content/uploads/2015/09/Sans-titre12.png" alt="Sans titre12" width="1021" height="153" />](http://blog.voisinsvigilants.org/wp-content/uploads/2015/09/Sans-titre12.png)
 

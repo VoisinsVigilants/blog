@@ -9,9 +9,9 @@ permalink: /blog/rendez-au-salon-maires/
 categories:
   - Salon des Maires
 tags:
-  - Mairie Vigilante
+  - Mairie Vigilante et Solidaire
   - Salon des Maires
-  - voisins vigilants
+  - Voisins Vigilants et Solidaires
 ---
 <div style="color: #555555; text-align: justify;">
   <span style="color: #000000;">L’édition 2015 du <strong>Salon des Maires et des Collectivités Locales</strong> aura lieu du <strong>17 au 19 novembre 2015</strong> à Paris – Porte de Versailles. </span>

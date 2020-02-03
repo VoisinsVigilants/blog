@@ -7,7 +7,7 @@ layout: post
 guid: http://blog.voisinsvigilants.org/?p=3242
 permalink: /blog/orange-police-met-en-garde-contre-hausse-escroqueries/
 categories:
-  - Protection/prevention
+  - Protection - Prevention
   - Securite
 ---
 

@@ -17,3 +17,5 @@ tags:
   - Témoignage
 ---
 Après avoir été victimes de nombreux cambriolages, les habitants d&rsquo;un quartier de Wattrelos, près de Lille, ont décidé de devenir Voisins Vigilants. Pour eux, le dispositif s&rsquo;impose comme une action citoyenne vouée à ramener la sécurité autour de chez eux.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/a7wFKhVv4lE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

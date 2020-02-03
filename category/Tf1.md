@@ -1,6 +1,6 @@
 ---
-layout: archive
-categories: Tf1
-title: Tf1
-permalink: /category/Tf1
+layout: posts_by_category
+categories: tf1
+title: tf1
+permalink: /category/tf1
 ---

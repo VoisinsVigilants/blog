@@ -7,7 +7,7 @@ layout: post
 guid: http://blog.voisinsvigilants.org/?p=185
 permalink: /blog/zero-cambriolage-dirac-fr2/
 categories:
-  - FRANCE_2
+  - France 2
   - Presse
   - TV
 tags:
@@ -17,3 +17,5 @@ tags:
   - www.voisinsvigilants.org
 ---
 Zéro cambriolage à Dirac : en Poitou-Charentes, le dispositif Voisins Vigilants semble faire des miracles. Résultats spectaculaires et sécurité retrouvée !
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0sh4kqkSlrA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

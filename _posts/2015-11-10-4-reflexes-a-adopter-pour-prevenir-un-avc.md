@@ -13,6 +13,10 @@ tags:
   - réflexes
   - voisins vigilants
 ---
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_Fz6nvPuOQw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 <p style="text-align: justify;">
   <span style="font-weight: bold; color: #000000;">Le nombre d&rsquo;accidents vasculaires cérébraux (AVC) augmente et représente aujourd&rsquo;hui un grave problème de santé publique. 130.000, c&rsquo;est le nombre de personnes qui seraient victimes chaque année d&rsquo;un AVC. Dès qu&rsquo;un accident se déclenche, c&rsquo;est une véritable course contre la montre qui démarre car il est impératif d&rsquo;intervenir vite. Voici une vidéo vous expliquant les symptômes qui précèdent un AVC.</span>
 </p>

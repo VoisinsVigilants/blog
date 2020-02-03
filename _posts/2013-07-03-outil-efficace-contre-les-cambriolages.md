@@ -18,3 +18,5 @@ tags:
   - Vigilance
 ---
 Le site www.voisinsvigilants.org met à disposition des Français un outil de communication efficace contre les cambriolages. La solidarité, ça fonctionne !
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GtUAEWyZya4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

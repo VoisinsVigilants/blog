@@ -17,3 +17,5 @@ tags:
   - voisins vigilants
 ---
 En région parisienne, les Voisins Vigilants décryptent le langage des cambrioleurs et effacent les marquages pour protéger leurs biens.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UGNLpELmv1M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

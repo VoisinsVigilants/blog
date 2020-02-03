@@ -13,6 +13,6 @@ slug:
 ---
 Elise Lucet au JT de 13h sur France 2 à propos de Voisins Vigilants : &laquo;&nbsp;Vivre ensemble c&rsquo;est aussi protéger ou surveiller son quartier.&nbsp;&raquo;
 
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Z60qFRq1ZDE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 &nbsp;

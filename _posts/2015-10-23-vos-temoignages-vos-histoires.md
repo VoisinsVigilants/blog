@@ -21,9 +21,7 @@ tags:
   <span style="color: #000000;">Dominique, inscrite sur le site <a href="http://www.voisinsvigilants.org">www.voisinsvigilants.org</a> et membre d&rsquo;une communauté de voisins à Malves-en-Minervois, nous a raconté son histoire : </span>
 </p>
 
-<p style="text-align: center;">
-  <em><a href="http://blog.voisinsvigilants.org/wp-content/uploads/2015/10/David-Lebovitz.png"><img class="aligncenter  wp-image-1463" src="http://blog.voisinsvigilants.org/wp-content/uploads/2015/10/David-Lebovitz.png" alt="David Lebovitz" width="792" height="530" /></a></em>
-</p>
+[<img class="aligncenter size-full wp-image-3278" src="./../../images/2015/10/David-Lebovitz.png" alt="David Lebovitz" width="750" height="375" />](./../../images/2015/10/David-Lebovitz.png)
 
 <p style="text-align: center;">
   <span style="color: #333333;"><em>@ PHOTO DAVID LEBOVITZ</em></span>

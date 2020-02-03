@@ -16,3 +16,5 @@ tags:
   - Témoignage
 ---
 BFMTV mène l&rsquo;enquête sur un phénomène en pleine expansion : les Voisins Vigilants. Depuis 2012, ils se multiplient pour faire fuir les cambrioleurs. Témoignage d&rsquo;un Voisin Vigilant de Guerard (Seine-et-Marne).
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-w1zSfJZbeA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

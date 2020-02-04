@@ -41,6 +41,9 @@ collections:
   category:
     output: true # générer la page HTML
     permalink: /:collection/:name/index.html
+  tags:
+    output: true
+    permalink: /tag/:name/
 
 defaults:
   - scope:
@@ -48,6 +51,11 @@ defaults:
       type: category
     values:
       layout: "posts_by_category"
+  - scope:
+      path: ""
+      type: tags
+    values:
+      layout: "archive"
 
 protocols:
     fb_image: "/assets/logo.png"

@@ -9,7 +9,7 @@ permalink: /blog/les-voisins-vigilants-solidaires-au-jt-13h-tf1-02-07-2019/
 categories:
   - TF1
 tags:
-  - reportage
+  - Reportage
 ---
 « À Saint-Sébastien-sur-Loire, Voisins Vigilants a convaincu plus de 300 personnes. Cumulé à l’action des forces de l’ordre, le dispositif semble faire ses preuves, depuis l’an dernier les cambriolages sont en baisse. Mais l’an dernier dans toute la France le nombre de cambriolage a augmenté de 21% »
 <video

@@ -9,9 +9,9 @@ permalink: /blog/incendies-domestiques-comment-sen-proteger/
 categories:
   - Conseils
 tags:
-  - incendies
-  - Sécurité
-  - voisins vigilants
+  - Incendies
+  - Securite
+  - Voisins Vigilants et Solidaires
 ---
 <div style="color: #4b5ebd; text-align: justify;">
   <span style="color: #000000;"><strong>Les incendies domestiques sont des drames courants qui tuent 800 personnes chaque année. Pourtant, ils résultent le plus souvent de négligences dans les habitudes quotidiennes ou dans l’entretien des installations électriques. Voici les conseils préconisés par le Ministère de l&rsquo;Intérieur. </strong></span>

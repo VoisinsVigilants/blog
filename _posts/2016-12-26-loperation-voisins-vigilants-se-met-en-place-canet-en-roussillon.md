@@ -10,8 +10,8 @@ categories:
   - Le Journal Catalan
 tags:
   - Canet-en-Roussillon
-  - Sécurité
-  - voisins vigilants
+  - Securite
+  - Voisins Vigilants et Solidaires
 ---
 <p style="text-align: justify;">
   <strong style="color: #000000;">Afin d’assurer la sécurité de ses habitants, surtout en cette période de fêtes, la ville de Canet-en-Roussillon soutien le dispositif « Voisins Vigilants ». Une réunion publique a eu lieu le 5 décembre à 18h, aux Voiles Rouge. </strong>

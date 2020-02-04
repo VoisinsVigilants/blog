@@ -1,6 +1,6 @@
 ---
 layout: archive  
-tag: reportage  
+tag: Reportage  
 title: Reportage  
 permalink: /tag/reportage
 ---

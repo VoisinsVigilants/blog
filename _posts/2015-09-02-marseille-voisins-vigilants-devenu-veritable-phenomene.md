@@ -10,8 +10,8 @@ categories:
   - La Provence
 tags:
   - Marseille
-  - Sécurité
-  - voisins vigilants
+  - Securite
+  - Voisins Vigilants et Solidaires
 ---
 <p style="text-align: justify;">
   <strong style="color: #1d2528;">La start-up a conquis la France et compte 200 000 inscrits, 1820 à Marseille. La surveillance entre dans les mœurs.</strong>

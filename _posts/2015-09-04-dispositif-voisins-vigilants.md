@@ -9,11 +9,10 @@ permalink: /blog/dispositif-voisins-vigilants/
 categories:
   - Voisins Vigilants
 tags:
-  - bienveillance
-  - entraide
-  - Sécurité
-  - solidarite
-  - voisins vigilants
+  - Bienveillance
+  - Entraide
+  - Securite
+  - Voisins Vigilants et Solidaires
 ---
 <p style="text-align: justify;">
   <span style="color: #000000;"><strong>Voisins Vigilants (et son site internet <a href="http://www.voisinsvigilants.org">voisinsvigilants.org</a> bien sûr !) est le premier réseau social de voisinage en France. Il permet la mise en relation des habitants d&rsquo;un même quartier pour lutter ensemble contre le fléau des cambriolages de manière simple et gratuite. </strong></span>

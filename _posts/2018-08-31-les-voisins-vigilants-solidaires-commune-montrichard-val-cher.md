@@ -11,11 +11,10 @@ categories:
   - Voisins Vigilants et Solidaires
 tags:
   - Mairie Vigilante et Solidaire
-  - Montrichard
 ---
 &nbsp;
 
-[<img class="aligncenter size-full wp-image-3278" src="./../../images/2018/06/mvdc.jpg" alt="mvdc" width="1020" height="573" />](./../../images/2018/06/mvdc.jpg)
+_[<img class="aligncenter size-full wp-image-3278" src="./../../images/2018/06/mvdc.jpg" alt="Montrichard Val de Cher" />](./../../images/2018/06/mvdc.jpg)
   
 La plateforme « Voisins vigilants et solidaires » est un site Internet communautaire permettant de mettre en relation les habitants d’un même quartier pour lutter ensemble contre le fléau des cambriolages de manière simple et gratuite.
 <!--more-->

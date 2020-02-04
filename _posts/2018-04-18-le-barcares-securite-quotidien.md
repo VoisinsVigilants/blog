@@ -8,11 +8,9 @@ guid: http://blog.voisinsvigilants.org/?p=3210
 permalink: /blog/le-barcares-securite-quotidien/
 categories:
   - Temoignages
-  - Voisins Vigilants
   - Voisins Vigilants et Solidaires
 tags:
-  - le Barcarès
-  - voisins vigilants
+  - Voisins Vigilants et Solidaires
 ---
 <div id="attachment_3213" style="width: 650px" class="wp-caption aligncenter">
   <a href="./../../images/2018/03/JPP_pour_LPJ.jpg"><img class="wp-image-3213 size-large" src="./../../images/2018/03/JPP_pour_LPJ.jpg" alt="JPP_pour_LPJ" width="640" height="425" /></a>

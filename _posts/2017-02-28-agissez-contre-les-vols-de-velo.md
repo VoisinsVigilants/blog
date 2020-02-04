@@ -9,11 +9,11 @@ permalink: /blog/agissez-contre-les-vols-de-velo/
 categories:
   - Solution anti-vol
 tags:
-  - bycicode
-  - Sécurité
-  - vélos
-  - voisins vigilants
-  - vol
+  - Bycicode
+  - Securite
+  - Velos
+  - Voisins Vigilants et Solidaires
+  - Vol
 ---
 <p style="text-align: justify;">
   <strong style="color: #000000;">Pour lutter contre les 500 000 vols de vélos qui ont lieu tous les ans, la fédération française des usagers de la bicyclette, la police et la gendarmerie se mobilisent pour inciter au marquage des vélos.</strong>

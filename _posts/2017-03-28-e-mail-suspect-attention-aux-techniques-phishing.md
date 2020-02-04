@@ -9,9 +9,9 @@ permalink: /blog/e-mail-suspect-attention-aux-techniques-phishing/
 categories:
   - Arnaque
 tags:
-  - phishing
-  - Sécurité
-  - voisins vigilants
+  - Phishing
+  - Securite
+  - Voisins Vigilants et Solidaires
 ---
 <p style="text-align: justify;">
   <strong style="color: #4b5ebd;"><span style="color: #000000;">Le phishing (également appelé &laquo;&nbsp;hameçonnage&nbsp;&raquo;) est une technique par laquelle des personnes malveillantes vous envoient des mails frauduleux qui semblent provenir d&rsquo;une source de confiance (banque, CAF, impôts, etc.). Ils vous invitent à vous rendre sur une page de formulaire afin de fournir des données personnelles et souvent à caractère financier.</span></strong>

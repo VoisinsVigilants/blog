@@ -7,12 +7,12 @@ layout: post
 guid: http://blog.voisinsvigilants.org/?p=2907
 permalink: /blog/faire-en-cas-daccident/
 categories:
-  - Sécurité
+  - Securite
 tags:
   - Accident
-  - secours
-  - Sécurité
-  - voisins vigilants
+  - Secours
+  - Securite
+  - Voisins Vigilants et Solidaires
 ---
 <p style="text-align: justify;">
   <span style="color: #000000;"><strong>En cas d&rsquo;accident d&rsquo;un véhicule à moteur, vous devez toujours avoir à l&rsquo;esprit les trois actions suivantes : protéger, alerter, secourir ! Voici les conseils préconisés par le Ministère de l&rsquo;Intérieur.</strong></span>

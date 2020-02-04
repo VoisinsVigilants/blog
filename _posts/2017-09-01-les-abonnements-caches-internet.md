@@ -7,8 +7,8 @@ layout: post
 guid: http://blog.voisinsvigilants.org/?p=2997
 permalink: /blog/les-abonnements-caches-internet/
 categories:
-  - Conseils sécurité
-  - Sécurité
+  - Conseils securite
+  - Securite
 ---
 ##### Comme le rapporte  l&rsquo;UFC Que Choisir  le centre européen de la consommation met en garde les consommateurs contre les abonnements qui peuvent parfois se cacher derrière des offres alléchantes publiées sur internet.
 

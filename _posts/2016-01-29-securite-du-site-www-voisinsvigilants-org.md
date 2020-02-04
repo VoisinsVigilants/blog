@@ -9,8 +9,8 @@ permalink: /blog/securite-du-site-www-voisinsvigilants-org/
 categories:
   - Voisins Vigilants
 tags:
-  - Sécurité
-  - voisins vigilants
+  - Securité
+  - Voisins Vigilants et Solidaires
 ---
 <p style="text-align: justify;">
   <strong>La plateforme de communication présente un niveau de sécurité maximal. Voici les 6 points clés qui font de <a href="www.voisinsvigilants.org">www.voisinsvigilants.org</a>, le site web sécurisé pour votre voisinage.</strong>

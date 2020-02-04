@@ -28,19 +28,22 @@ paginate: 5
 paginate_path: "blog/page:num"
 
 # Archive settings (see https://github.com/jekyll/jekyll-archives/)
-jekyll-archives:
-  enabled:
+#jekyll-archives:
+#  enabled:
 #    - categories
-    - tags
-  layout: 'archive'
-  permalinks:
+#    - tags
+#  layout: 'archive'
+#  permalinks:
 #    category: '/category/:name/'
-    tag: '/tag/:name/'
+#    tag: '/tag/:name/'
     
 collections:
   category:
     output: true # générer la page HTML
     permalink: /:collection/:name/index.html
+  tags:
+    output: true
+    permalink: /tags/:name/
 
 defaults:
   - scope:
@@ -48,6 +51,11 @@ defaults:
       type: category
     values:
       layout: "posts_by_category"
+  - scope:
+      path: ""
+      type: tags
+    values:
+      layout: "archive"
 
 protocols:
     fb_image: "/assets/logo.png"

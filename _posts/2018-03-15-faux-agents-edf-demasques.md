@@ -7,13 +7,11 @@ layout: post
 guid: http://blog.voisinsvigilants.org/?p=3219
 permalink: /blog/faux-agents-edf-demasques/
 categories:
-  - Témoignage
-  - Voisins Vigilants
+  - Temoignage
   - Voisins Vigilants et Solidaires
 tags:
-  - alerte
-  - faux démarcheurs
-  - Gargenville
+  - Alerte
+  - Faux demarcheurs
 ---
 [<img class="aligncenter wp-image-3220 size-large" src="./../../images/2018/03/demarcheurs.jpg" alt="démarcheurs" width="640" height="359" />](./../../images/2018/03/demarcheurs.jpg)
 

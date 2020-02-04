@@ -7,11 +7,11 @@ layout: post
 guid: http://blog.voisinsvigilants.org/?p=2956
 permalink: /blog/avoir-chantage-au-faux-virus/
 categories:
-  - Sécurité
+  - Securite
 tags:
-  - arnaque
-  - ordinateur
-  - virus
+  - Arnaque
+  - Ordinateur
+  - Virus
 ---
 ##### **Dans un article publié le 30 mars, le site 60 millions de consommateurs nous met en garde contre les arnaques aux faux virus qui ont pour but de vous faire perdre ou de vous réclamer de l’argent**
 

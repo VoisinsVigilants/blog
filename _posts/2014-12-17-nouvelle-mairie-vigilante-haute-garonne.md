@@ -10,7 +10,7 @@ categories:
   - Mairie Vigilante et Solidaire
 tags:
   - Mairie Vigilante et Solidaire
-  - Sécurité
+  - Securite
 ---
 #### La mairie d’Auterive adhère au dispositif  Mairie Vigilante afin de lutter contre les cambriolages.
 

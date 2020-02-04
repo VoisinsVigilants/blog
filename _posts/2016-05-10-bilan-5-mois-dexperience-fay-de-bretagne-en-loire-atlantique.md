@@ -17,9 +17,8 @@ tags:
   <strong>Le dispositif des Voisins Vigilants, censé développer l’implication des citoyens dans leur environnement direct pour contrecarrer l’explosion du nombre de cambriolages et de démarchages douteux, ne cesse de s’étendre.</strong>
 </p>
 
-<p style="color: #000000; text-align: justify;">
-  <a href="http://blog.voisinsvigilants.org/presse/wp-content/uploads/sites/5/2016/05/la-mairie-vigilante-la-rencontre-des-citoyens1.jpg"><img class="aligncenter  wp-image-1480" src="http://blog.voisinsvigilants.org/presse/wp-content/uploads/sites/5/2016/05/la-mairie-vigilante-la-rencontre-des-citoyens1.jpg" alt="la-mairie-vigilante-la-rencontre-des-citoyens" width="455" height="360" /></a>
-</p>
+[<img class="aligncenter" src="./../../images/5/2016/05/la-mairie-vigilante-la-rencontre-des-citoyens1.jpg" alt="La Mairie Vigilante et Solidaire" />](./../../images/5/2016/05/la-mairie-vigilante-la-rencontre-des-citoyens1.jpg)
+  
 
 <p style="color: #000000; text-align: justify;">
   Après Blain, au centre de la Loire-Atlantique, devenue Mairie Vigilante en 2014, Fay-de-Bretagne, commune située à une dizaine de kilomètres au sud, a mis en place le dispositif fin 2015. Le 14 avril dernier, une réunion présentait le chemin parcouru en un peu plus de 5 mois.

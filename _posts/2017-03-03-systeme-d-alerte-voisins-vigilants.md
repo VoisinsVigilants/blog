@@ -9,9 +9,9 @@ permalink: /blog/systeme-d-alerte-voisins-vigilants/
 categories:
   - Voisins Vigilants
 tags:
-  - Sécurité
-  - "système d'alerte"
-  - voisins vigilants
+  - Securite
+  - Systeme alerte
+  - Voisins Vigilants et Solidaires
 ---
 <p style="text-align: justify;">
   <strong>Vous souhaitez informer au plus vite vos voisins d&rsquo;un événement ? Le système d&rsquo;alerte Voisins Vigilants est fait pour vous ! Il a été conçu pour être informé et informer instantanément les membres de votre communauté, la municipalité et les forces de l&rsquo;ordre dès qu&rsquo;un événement inhabituel se produit dans votre quartier.</strong>

@@ -10,7 +10,7 @@ categories:
   - TMC
   - 90 minutes enquetes   
 tags:
-  - reportage  
+  - Reportage  
 ---
 « L’application cartonne »  
 « Ici 1 habitant sur 4 utilise ce système »  

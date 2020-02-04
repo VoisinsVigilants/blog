@@ -11,7 +11,7 @@ categories:
 tags:
   - Coffre-fort
   - Prévention
-  - Sécurité
+  - Securite
   - technique anti-cambriolage
   - voisins vigilants
 ---

@@ -9,11 +9,11 @@ permalink: /blog/car-jacking-attention-voiture/
 categories:
   - Vol de véhicule
 tags:
-  - car-jacking
-  - Sécurité
-  - technique de vol
-  - véhicule
-  - voisins vigilants
+  - Car jacking
+  - Securite
+  - Technique de vol
+  - Vehicule
+  - Voisins Vigilants et Solidaires
 ---
 <p style="text-align: justify;">
   <strong style="color: #000000;">Le car-jacking consiste à dérober un véhicule à l&rsquo;arrêt, alors que son propriétaire est à l&rsquo;intérieur. Pour éviter de vous trouver dans cette situation, voici quelques conseils.</strong>

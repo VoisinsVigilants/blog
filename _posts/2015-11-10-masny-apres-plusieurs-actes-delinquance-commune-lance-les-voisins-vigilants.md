@@ -10,7 +10,7 @@ categories:
   - La Voix du Nord
 tags:
   - Masny
-  - Sécurité
+  - Securite
   - voisins vigilants
 ---
 [<img class="wp-image-1507 alignleft" src="http://blog.voisinsvigilants.org/wp-content/uploads/2015/10/logo-la-voix-du-nord-1.jpg" alt="logo-la-voix-du-nord (1)" width="830" height="139" />](http://blog.voisinsvigilants.org/wp-content/uploads/2015/10/logo-la-voix-du-nord-1.jpg)

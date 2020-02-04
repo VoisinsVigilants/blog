@@ -9,12 +9,11 @@ permalink: /blog/voisin-vigilant-aide-larrestation-voleurs/
 categories:
   - La Dépêche
 tags:
-  - bienveillance
-  - cambrioleurs
-  - entraide
-  - Sécurité
-  - solidarite
-  - voisins vigilants
+  - Bienveillance
+  - Cambrioleurs
+  - Entraide
+  - Securite 
+  - Voisins Vigilants et Solidarites
 ---
 <p style="text-align: justify;">
   <strong><a href="./../../images/2016/05/arrestation-voleur.png"><img class="alignleft wp-image-2579" src="./../../images/2016/05/arrestation-voleur.png" alt="Arrestation de voleurs grâce à un voisin vigilants" width="281" height="397" /></a><span style="color: #000000;">Les voisins vigilants aident à l&rsquo;arrestation de cambrioleurs</span></strong><span style="color: #000000;"> : ces derniers jours en effet, grâce aux signalements de voisins, deux équipes de cambrioleurs ont pu être arrêtées par la gendarmerie dans le département du Tarn. La première sur la commune du Séquestre et la seconde à Lagarrigue. Les signalements rapides et efficaces de témoins ont ainsi été déterminants pour l&rsquo;arrestation, ils se sont introduits dans la résidence pour, notamment, dérober des bijoux. Mais un voisin a aperçu le manège suspect. L&rsquo;un des trois auteurs présumés, défavorablement connu par la compagnie de Castres et la justice, a été maintenu en détention.</span>

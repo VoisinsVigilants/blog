@@ -41,7 +41,7 @@ collections:
   category:
     output: true # générer la page HTML
     permalink: /:collection/:name/index.html
-  tags:
+  tag:
     output: true
     permalink: /tag/:name/
 
@@ -53,7 +53,7 @@ defaults:
       layout: "posts_by_category"
   - scope:
       path: ""
-      type: tags
+      type: tag
     values:
       layout: "archive"
 

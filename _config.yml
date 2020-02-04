@@ -43,7 +43,7 @@ collections:
     permalink: /:collection/:name/index.html
   tags:
     output: true
-    permalink: /tags/:name/
+    permalink: /tag/:name/
 
 defaults:
   - scope:

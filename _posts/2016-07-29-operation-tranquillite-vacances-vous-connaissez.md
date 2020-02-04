@@ -7,7 +7,7 @@ layout: post
 guid: http://blog.voisinsvigilants.org/?p=2680
 permalink: /blog/operation-tranquillite-vacances-vous-connaissez/
 categories:
-  - Sécurité
+  - Securite
 ---
 <p style="text-align: justify;">
   <strong style="color: #000000;">Vous allez bientôt vous absenter et vous craignez pour la sécurité de votre domicile ? En complément du dispositif Voisins Vigilants en prévenant vos voisins de votre absence, vous pouvez demander à la police ou à la gendarmerie de surveiller votre domicile avec l&rsquo;Opération Tranquillité Vacances !</strong>

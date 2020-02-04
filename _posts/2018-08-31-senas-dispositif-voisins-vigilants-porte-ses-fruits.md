@@ -11,7 +11,6 @@ categories:
   - Mairie Vigilante et Solidaire
 tags:
   - Mairie Vigilante et Solidaire
-  - Senas
 ---
 _[<img class="aligncenter size-full wp-image-3292" src="./../../images/2018/08/SENAS.jpg" alt="SENAS" />](./../../images/2018/08/SENAS.jpg)_
 

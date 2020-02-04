@@ -9,10 +9,10 @@ permalink: /blog/larnaque-ventes-calendriers-en-fin-dannee/
 categories:
   - Arnaque
 tags:
-  - arnaque
-  - calendriers
-  - Sécurité
-  - voisins vigilants
+  - Arnaque
+  - Calendriers
+  - Securite
+  - Voisins Vigilants et Solidaires
 ---
 <p style="text-align: justify;">
   <strong style="color: #4b5ebd;"><span style="color: #000000;">Ils se disent éboueurs, facteurs, agents EDF ou pompiers, et profitent des fêtes de fin d&rsquo;année pour vendre des calendriers, mais derrière ces vendeurs se cachent parfois des démarcheurs mal intentionnés. Il ne s&rsquo;agit pas de tomber dans la paranoïa mais soyons vigilants.</span></strong>

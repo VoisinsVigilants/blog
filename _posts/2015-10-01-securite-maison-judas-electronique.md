@@ -9,11 +9,10 @@ permalink: /blog/securite-maison-judas-electronique/
 categories:
   - Technique anti-cambriolage
 tags:
-  - judas électronique
-  - protection
-  - Sécurité
-  - Vigilance
-  - voisins vigilants
+  - Judas electronique
+  - Protection
+  - Securite
+  - Voisins Vigilants et Solidaires
 ---
 <p style="text-align: justify;">
   <strong style="color: #000000;">Cet œilleton que vous utilisez avant d’ouvrir la porte n’est plus à jour. En plus de n’offrir qu’une vision trouble, il ne garde aucune trace des passages. Grâce au judas électronique, vous n&rsquo;ouvrez plus votre porte d&rsquo;entrée pour voir qui sonne ! Savoir qui sonne chez soi est une première étape de sécurité à ne pas négliger. Explications.</strong>

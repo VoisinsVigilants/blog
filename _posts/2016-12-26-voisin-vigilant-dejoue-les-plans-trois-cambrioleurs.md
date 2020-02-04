@@ -9,8 +9,8 @@ permalink: /blog/voisin-vigilant-dejoue-les-plans-trois-cambrioleurs/
 categories:
   - Journal du Centre
 tags:
-  - cambriolage
-  - Sécurité
+  - Cambriolage
+  - Securite
   - voisins vigilants
 ---
 <p style="text-align: justify;">

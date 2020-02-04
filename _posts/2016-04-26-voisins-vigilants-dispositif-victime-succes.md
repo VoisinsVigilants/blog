@@ -18,8 +18,8 @@ tags:
 </p>
 
 <div id="attachment_2549" style="width: 809px" class="wp-caption aligncenter">
-  <a href="./../../images/2016/04/Voisins-vigilants-630x0.jpg"><img class="wp-image-2549" src="./../../images/2016/04/Voisins-vigilants-630x0.jpg" alt="Un référent de communauté explique le dispositif" width="799" height="505" /></a>
-  
+  <a href="./../../images/2016/04/Voisins-vigilants-630x0.jpg"><img class="wp-image-2549" src="./../../images/2016/04/Voisins-vigilants-630x0.jpg" alt="Un référent de communauté explique le dispositif" width="799" height="505" /></a>  
+     
   <p class="wp-caption-text">
     11 841 &laquo;&nbsp;Voisins Vigilants&nbsp;&raquo; sont répertoriés dans les Yvelines. (Crédit Jean-Christophe Magneret)
   </p>

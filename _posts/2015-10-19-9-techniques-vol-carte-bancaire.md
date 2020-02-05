@@ -7,12 +7,10 @@ layout: post
 guid: http://blog.voisinsvigilants.org/?p=1166
 permalink: /blog/9-techniques-vol-carte-bancaire/
 categories:
-  - Technique de vol
+  - Techniques de vol
 tags:
   - carte bancaire
-  - Prévention
-  - technique de vol
-  - voisins vigilants
+  - Voisins Vigilants et Solidaires
 ---
 <p style="text-align: justify;">
   <strong>Les escrocs ne sont jamais à court d&rsquo;imagination pour s&rsquo;en mettre plein les poches en se servant directement sur nos comptes bancaires. Voici 7 techniques de vol de carte bancaire et nos conseils pour s&rsquo;en protéger.</strong>

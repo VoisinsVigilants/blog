@@ -7,11 +7,7 @@ layout: post
 guid: http://blog.voisinsvigilants.org/?p=1096
 permalink: /blog/fonctionnalite-voisins-vigilants-messagerie/
 categories:
-  - Voisins Vigilants
-tags:
-  - fonctionnalité
-  - messagerie
-  - voisins vigilants
+  - Voisins Vigilants et Solidaires
 ---
 <p style="text-align: justify;">
   <strong>La Messagerie vous permet d&rsquo;échanger des informations avec les membres de votre communauté. Ainsi, vous pourrez communiquer avec vos voisins de manière simple et privée.</strong>

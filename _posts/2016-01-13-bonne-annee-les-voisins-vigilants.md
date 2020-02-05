@@ -7,11 +7,7 @@ layout: post
 guid: http://blog.voisinsvigilants.org/?p=2088
 permalink: /blog/bonne-annee-les-voisins-vigilants/
 categories:
-  - voisins
-tags:
-  - galette des rois
-  - nouvel an
-  - voisins
+  - Voisins Vigilants et Solidaires
 ---
 **2016, une nouvelle année qui commence. On en profite pour vous souhaiter à nouveau une très bonne et heureuse année ! **
 

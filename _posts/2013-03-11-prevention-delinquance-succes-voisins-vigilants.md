@@ -7,21 +7,10 @@ layout: post
 guid: http://blog.voisinsvigilants.org/?p=134
 permalink: /blog/prevention-delinquance-succes-voisins-vigilants/
 categories:
-  - Alsace
-  - La Gazette des Communes
-  - PACA
   - Presse
 tags:
-  - Bas-Rhin
-  - délinquance
-  - Gendarmerie
-  - Maire
-  - Municipalité
-  - Prévention
-  - Var
-  - Vigilance citoyenne
-  - voisins vigilants
-  - www.voisinsvigilants.org
+  - Alsace
+  - La Gazette des Communes
 ---
 <img class="size-medium wp-image-137 alignleft" src="http://blog.voisinsvigilants.org/wp-content/uploads/2014/09/Logo-300x99.jpg" alt="Logo" width="300" height="99" />
 

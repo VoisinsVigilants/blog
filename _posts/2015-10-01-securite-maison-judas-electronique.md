@@ -7,9 +7,8 @@ layout: post
 guid: http://blog.voisinsvigilants.org/?p=1084
 permalink: /blog/securite-maison-judas-electronique/
 categories:
-  - Technique anti-cambriolage
+  - Techniques anti-cambriolage
 tags:
-  - Judas electronique
   - Protection
   - Securite
   - Voisins Vigilants et Solidaires

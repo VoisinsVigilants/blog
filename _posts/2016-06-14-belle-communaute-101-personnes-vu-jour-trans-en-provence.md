@@ -7,11 +7,9 @@ layout: post
 guid: http://blog.voisinsvigilants.org/?p=2633
 permalink: /blog/belle-communaute-101-personnes-vu-jour-trans-en-provence/
 categories:
-  - Voisins Vigilants
+  - Voisins Vigilants et Solidaires
 tags:
-  - Communauté
-  - Trans-En-Provence
-  - voisins vigilants
+  - Communaute
 ---
 <p style="text-align: justify;">
   <span style="color: #000000;"><strong>Un référent, Alain, a créé une belle communauté de voisins à Trans-En-Provence, dans le département du Var, dans laquelle il met toute sa volonté pour réduire l&rsquo;insécurité dans son quartier et créer des liens avec ses voisins. Nous l&rsquo;avons interviewé pour qu&rsquo;il nous parle de sa communauté &laquo;&nbsp;La Croix &#8211; Les Suous &#8211; Panorama St Bernard&nbsp;&raquo;.</strong></span>

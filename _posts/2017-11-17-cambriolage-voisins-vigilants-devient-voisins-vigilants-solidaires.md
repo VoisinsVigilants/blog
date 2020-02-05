@@ -7,8 +7,9 @@ layout: post
 guid: http://blog.voisinsvigilants.org/?p=3095
 permalink: /blog/cambriolage-voisins-vigilants-devient-voisins-vigilants-solidaires/
 categories:
-  - Breizh-info
+  - Presse
 tags:
+  - Breizh-info
   - Entraide
   - Securite
   - Solidaires

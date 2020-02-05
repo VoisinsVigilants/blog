@@ -7,11 +7,7 @@ layout: post
 guid: http://blog.voisinsvigilants.org/?p=2227
 permalink: /blog/en-cas-d-etouffement-comment-agir-2/
 categories:
-  - Santé
-tags:
-  - étouffement
-  - santé
-  - voisins vigilants
+  - Sante
 ---
 <p style="text-align: justify;">
   <span style="font-weight: bold; color: #373430;">L’étouffement est un accident qui survient généralement au cours d’un repas : un aliment fait « fausse-route » et vient obstruer les voies respiratoires. </span>

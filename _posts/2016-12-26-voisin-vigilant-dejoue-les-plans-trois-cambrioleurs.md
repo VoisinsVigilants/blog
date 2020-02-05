@@ -7,11 +7,12 @@ layout: post
 guid: http://blog.voisinsvigilants.org/?p=2722
 permalink: /blog/voisin-vigilant-dejoue-les-plans-trois-cambrioleurs/
 categories:
-  - Journal du Centre
+  - Presse
 tags:
+  - Journal du Centre
   - Cambriolage
   - Securite
-  - voisins vigilants
+  - Voisins Vigilants et Solidaires
 ---
 <p style="text-align: justify;">
   <strong><span style="color: #000000;">Trois hommes, dont deux mineurs, ont été arrêtés par les policiers du commissariat de Nevers dimanche soir, dans une maison inoccupée du quartier du 13e-de-Ligne à Nevers où ils étaient entrés par effraction pour la cambrioler. Le réflexe citoyen d’un voisin a mis un terme aux projets des cambrioleurs.</span></strong>

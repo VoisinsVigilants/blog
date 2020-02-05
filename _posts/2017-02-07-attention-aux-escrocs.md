@@ -7,11 +7,10 @@ layout: post
 guid: http://blog.voisinsvigilants.org/?p=2825
 permalink: /blog/attention-aux-escrocs/
 categories:
-  - Conseils sécurité
+  - Conseils
 tags:
   - arnaques
   - escroquerie
-  - voisins vigilants
 ---
 <p style="text-align: justify;">
   <strong style="color: #4b5ebd;"><span style="color: #000000;">Des particuliers, des bandes organisées ou certains professionnels cherchent à écouler auprès du public des accessoires provenant de vols et de trafics.</span></strong>

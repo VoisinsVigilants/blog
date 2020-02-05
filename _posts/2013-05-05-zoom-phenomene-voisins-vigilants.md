@@ -7,15 +7,11 @@ layout: post
 guid: http://blog.voisinsvigilants.org/?p=122
 permalink: /blog/zoom-phenomene-voisins-vigilants/
 categories:
-  - Auvergne
-  - Grazia
   - Presse
 tags:
   - Allier
-  - Communautés
+  - Communautes
   - Vichy
-  - voisins vigilants
-  - www.voisinsvigilants.org
 ---
 <img class="aligncenter size-medium wp-image-123" src="http://blog.voisinsvigilants.org/wp-content/uploads/2014/09/Grazia-logo-300x92.jpg" alt="Grazia-logo" width="300" height="92" />
 

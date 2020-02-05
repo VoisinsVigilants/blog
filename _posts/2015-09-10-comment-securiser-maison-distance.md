@@ -7,15 +7,11 @@ layout: post
 guid: http://blog.voisinsvigilants.org/?p=930
 permalink: /blog/comment-securiser-maison-distance/
 categories:
-  - Technique anti-cambriolage
+  - Techniques anti-cambriolage
 tags:
-  - bienveillance
-  - Prévention
-  - protection
-  - surveillance
-  - technique anti-cambriolage
-  - voisins vigilants
-  - webcam
+  - Bienveillance
+  - Prevention
+  - Protection
 ---
 <p style="text-align: justify;">
   <span style="color: #000000;"><strong>Une idée peu coûteuse pour surveiller votre maison ? Il y a Internet, bien sûr ! Avec une simple webcam et une connexion au réseau, il suffit de quelques minutes pour mettre en place ce système, auquel vous pouvez même accéder avec votre téléphone portable.</strong></span>

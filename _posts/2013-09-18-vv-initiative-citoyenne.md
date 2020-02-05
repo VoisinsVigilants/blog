@@ -8,12 +8,11 @@ guid: http://blog.voisinsvigilants.org/?p=164
 permalink: /blog/vv-initiative-citoyenne/
 categories:
   - Presse
-  - RMC
+  - Radio
 tags:
+  - RMC
   - Initiative citoyenne
   - Opinion
-  - solidarite de voisinage
-  - voisins vigilants
 ---
 <div id="attachment_165" style="width: 1447px" class="wp-caption aligncenter">
   <a title="Opinion" href="http://blog.voisinsvigilants.org/wp-content/uploads/2014/09/Exclu-Facebook.jpg" target="_blank"><img class="size-full wp-image-165" src="http://blog.voisinsvigilants.org/wp-content/uploads/2014/09/Exclu-Facebook.jpg" alt="oisins Vigilants : une initiative citoyenne pour 91% des auditeurs" width="1437" height="803" /></a>

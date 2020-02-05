@@ -7,13 +7,9 @@ layout: post
 guid: http://blog.voisinsvigilants.org/?p=1227
 permalink: /blog/coffre-fort-vos-objets-precieux/
 categories:
-  - Technique anti-cambriolage
+  - Techniques anti-cambriolage
 tags:
-  - Coffre-fort
-  - Prévention
-  - Securite
-  - technique anti-cambriolage
-  - voisins vigilants
+  - Prevention
 ---
 <p style="text-align: justify;">
   <span style="color: #000000;"><strong>Installer un coffre fort chez soi n&rsquo;est pas forcément réservé aux personnes possédant beaucoup d&rsquo;objets de valeur. Il existe des modèles accessibles à tous, dans lesquels vous pouvez stocker vos bijoux, papiers confidentiels, matériaux électroniques&#8230;</strong></span>

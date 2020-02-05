@@ -7,13 +7,12 @@ layout: post
 guid: http://blog.voisinsvigilants.org/?p=1186
 permalink: /blog/lys-lez-lannoy-dispositif-voisins-vigilants-il-reussite/
 categories:
-  - La Voix du Nord
+  - Presse
 tags:
+  - La Voix du Nord
   - Lys-Lez-Lannoy
-  - Prévention
-  - réussite
-  - voisins vigilants
----
+  - Prevention
+ ---
 [<img class="aligncenter  wp-image-1407" src="http://blog.voisinsvigilants.org/wp-content/uploads/2015/10/article-nord-eclair.jpg" alt="article-nord-eclair" width="987" height="179" />](http://blog.voisinsvigilants.org/wp-content/uploads/2015/10/article-nord-eclair.jpg)
 
 <p class="chapo" style="color: #505050; text-align: justify;">

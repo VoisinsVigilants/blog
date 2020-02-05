@@ -7,12 +7,9 @@ layout: post
 guid: http://blog.voisinsvigilants.org/?p=983
 permalink: /blog/acheter-alarme/
 categories:
-  - Technique anti-cambriolage
+  - Techniques anti-cambriolage
 tags:
-  - alarme
-  - Maison
-  - protection
-  - voisins vigilants
+  - Protection
 ---
 <p style="text-align: justify;">
   <strong>Près de 400 000 cambriolages chaque année, 16 500 agressions et violations de domicile, plus de 334 000 incendies. Ces chiffres rappellent la nécessité de se protéger tant l’insécurité aujourd’hui est en nette progression.</strong>

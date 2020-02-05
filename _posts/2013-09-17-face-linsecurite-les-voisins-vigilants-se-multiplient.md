@@ -7,8 +7,9 @@ layout: post
 guid: http://blog.voisinsvigilants.org/?p=157
 permalink: /blog/face-linsecurite-les-voisins-vigilants-se-multiplient/
 categories:
-  - FranceTV info
   - Presse
+tags:
+  - FranceTV info
 ---
 <a title="Interview complète" href="http://blog.voisinsvigilants.org/presse/wp-content/uploads/sites/5/2014/09/Article-Web-Francetv-info.jpg" target="_blank"><img class="size-full wp-image-158 aligncenter" src="http://blog.voisinsvigilants.org/wp-content/uploads/2014/09/Short-Article-Web-Francetv-info.jpg" alt="Face à l'insécurité, les Voisins Vigilants se multiplient" width="662" height="638" /></a>
 

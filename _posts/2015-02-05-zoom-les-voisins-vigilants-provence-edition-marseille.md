@@ -7,12 +7,10 @@ layout: post
 guid: http://blog.voisinsvigilants.org/?p=407
 permalink: /blog/zoom-les-voisins-vigilants-provence-edition-marseille/
 categories:
-  - La Provence
+  - Presse
 tags:
-  - co-fondateurs
-  - Communautés
   - La Provence
-  - voisins vigilants
+  - Voisins Vigilants et Solidaires
 ---
 [<img class="alignnone size-full wp-image-697" src="http://blog.voisinsvigilants.org/presse/wp-content/uploads/sites/5/2015/02/LP1.jpg" alt="LP1" width="921" height="810" />](http://blog.voisinsvigilants.org/presse/wp-content/uploads/sites/5/2015/02/LP1.jpg)
 

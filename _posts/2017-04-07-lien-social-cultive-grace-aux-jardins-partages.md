@@ -7,7 +7,7 @@ layout: post
 guid: http://blog.voisinsvigilants.org/?p=2931
 permalink: /blog/lien-social-cultive-grace-aux-jardins-partages/
 categories:
-  - Conseils de voisinage
+  - Conseils
 ---
 ##### Des habitants d&rsquo;un même immeuble ou d&rsquo;un même quartier aménagent un terrain à proximité, pour y créer un jardin. Bien plus que des légumes ou des fleurs, c&rsquo;est surtout la solidarité qui se cultive au sein d&rsquo;un jardin partagé.
 

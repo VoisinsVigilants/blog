@@ -9,9 +9,7 @@ permalink: /blog/ping-call-larnaque-lappel-en-absence/
 categories:
   - Arnaque
 tags:
-  - ping call
-  - Prévention
-  - voisins vigilants
+  - Prevention
 ---
 <div class="wiki">
   <p class="first" style="text-align: justify;">

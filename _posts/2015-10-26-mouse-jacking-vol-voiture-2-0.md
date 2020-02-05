@@ -7,11 +7,7 @@ layout: post
 guid: http://blog.voisinsvigilants.org/?p=1425
 permalink: /blog/mouse-jacking-vol-voiture-2-0/
 categories:
-  - Technique de vol
-tags:
-  - mouse jacking
-  - technique de vol
-  - voisins vigilants
+  - Techniques de vol
 ---
 <p style="text-align: justify;">
   <strong style="color: #000000;">Dérober plusieurs voitures sans lever le petit doigt, c&rsquo;est possible, et ce, grâce à la technologie. Le &laquo;&nbsp;mouse jacking&nbsp;&raquo; ou &laquo;&nbsp;vol à la souris&nbsp;&raquo; en français est une nouvelle méthode de cambriolage en plein boom en France. Focus sur cette technique de vol.</strong>

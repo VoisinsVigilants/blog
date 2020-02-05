@@ -7,14 +7,13 @@ layout: post
 guid: http://blog.voisinsvigilants.org/?p=249
 permalink: /blog/voisins-vigilants-action-citoyenne/
 categories:
-  - 'i&gt;télé'
-  - Témoignage
   - TV
+  - Temoignage
 tags:
+  - 'i&gt;télé'
   - Initiative citoyenne
   - Nord
-  - Prévention des cambriolages
-  - Témoignage
+  - Prevention des cambriolages
 ---
 Après avoir été victimes de nombreux cambriolages, les habitants d&rsquo;un quartier de Wattrelos, près de Lille, ont décidé de devenir Voisins Vigilants. Pour eux, le dispositif s&rsquo;impose comme une action citoyenne vouée à ramener la sécurité autour de chez eux.
 

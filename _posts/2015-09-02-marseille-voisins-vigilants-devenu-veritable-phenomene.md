@@ -7,9 +7,9 @@ layout: post
 guid: http://blog.voisinsvigilants.org/?p=942
 permalink: /blog/marseille-voisins-vigilants-devenu-veritable-phenomene/
 categories:
-  - La Provence
+  - Presse
 tags:
-  - Marseille
+  - La Provence
   - Securite
   - Voisins Vigilants et Solidaires
 ---

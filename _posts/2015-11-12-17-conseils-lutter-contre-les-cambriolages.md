@@ -7,11 +7,10 @@ layout: post
 guid: http://blog.voisinsvigilants.org/?p=1622
 permalink: /blog/17-conseils-lutter-contre-les-cambriolages/
 categories:
-  - Technique anti-cambriolage
+  - Techniques anti-cambriolage
 tags:
-  - protection
-  - techniques anti-cambriolage
-  - voisins vigilants
+  - Protection
+  - Voisins Vigilants et Solidaires
 ---
 <p style="text-align: justify;">
   <span style="color: #000000;"><strong><strong>Tous les jeudi, nous vous dévoilons une solution pour lutter contre les cambriolages. </strong>Face à la recrudescence de ces derniers, voici 17 astuces pour se protéger.</strong></span>

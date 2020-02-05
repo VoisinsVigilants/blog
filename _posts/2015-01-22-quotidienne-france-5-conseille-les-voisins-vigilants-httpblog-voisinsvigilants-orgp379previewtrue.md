@@ -7,8 +7,8 @@ layout: post
 guid: http://blog.voisinsvigilants.org/?p=379
 permalink: /blog/quotidienne-france-5-conseille-les-voisins-vigilants-httpblog-voisinsvigilants-orgp379previewtrue/
 categories:
-  - France 5
-  - Protection/prévention
+  - TV
+  - Protection - Prevention
 tags:
   - Cambriolage
   - France 5

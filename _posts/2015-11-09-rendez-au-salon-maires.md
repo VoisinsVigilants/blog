@@ -7,10 +7,9 @@ layout: post
 guid: http://blog.voisinsvigilants.org/?p=1713
 permalink: /blog/rendez-au-salon-maires/
 categories:
-  - Salon des Maires
+  - News
 tags:
   - Mairie Vigilante et Solidaire
-  - Salon des Maires
   - Voisins Vigilants et Solidaires
 ---
 <div style="color: #555555; text-align: justify;">

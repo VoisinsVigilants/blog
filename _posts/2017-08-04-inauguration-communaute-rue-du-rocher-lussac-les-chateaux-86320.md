@@ -7,14 +7,10 @@ layout: post
 guid: http://blog.voisinsvigilants.org/?p=3041
 permalink: /blog/inauguration-communaute-rue-du-rocher-lussac-les-chateaux-86320/
 categories:
-  - entraide
-  - Presse
-  - Voisins Vigilants
+  - Presse  
 tags:
-  - Communauté
-  - inuguration
-  - vigilants
-  - voisins
+  - Communaute
+  - Voisins Vigilants et Solidaires
 ---
 ##### Comme le relate le site Centre-presse.fr, le vendredi 21 juillet 2017 les membres de la communauté &laquo;&nbsp;rue du rocher&nbsp;&raquo; à Lussac-les-Châteaux ont répondu favorablement à l&rsquo;invitation de leur référent Monsieur Axel SPITERI. Ce rassemblement marquait l&rsquo;inauguration de la communauté.
 

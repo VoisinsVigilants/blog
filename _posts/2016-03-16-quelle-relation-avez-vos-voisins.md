@@ -7,7 +7,7 @@ layout: post
 guid: http://blog.voisinsvigilants.org/?p=2485
 permalink: /blog/quelle-relation-avez-vos-voisins/
 categories:
-  - Voisins Vigilants
+  - Voisins Vigilants et Solidaires
 ---
 [<img class="aligncenter size-full wp-image-2486" src="./../../images/2016/03/image-article.jpg" alt="Imprimir" width="800" height="624" />](./../../images/2016/03/image-article.jpg)
 

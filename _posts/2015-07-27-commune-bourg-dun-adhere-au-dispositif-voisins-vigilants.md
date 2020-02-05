@@ -7,13 +7,10 @@ layout: post
 guid: http://blog.voisinsvigilants.org/?p=654
 permalink: /blog/commune-bourg-dun-adhere-au-dispositif-voisins-vigilants/
 categories:
-  - France 3 Haute-Normandie
+  - Presse
 tags:
-  - bienveillance
-  - Bourg-Dun
-  - commune
-  - voisins
-  - voisins vigilants
+  - France 3 
+  - Voisins Vigilants et Solidaires
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6nbdYwedQMo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

@@ -7,12 +7,8 @@ layout: post
 guid: http://blog.voisinsvigilants.org/?p=1153
 permalink: /blog/vol-carte-bancaire/
 categories:
-  - Technique de vol
+  - Techniques de vol
 tags:
-  - Prévention
-  - Vigilance
-  - voisins vigilants
-  - vol
   - vol de carte bancaire
 ---
 <p style="text-align: justify;">

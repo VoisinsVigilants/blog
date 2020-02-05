@@ -7,13 +7,11 @@ layout: post
 guid: http://blog.voisinsvigilants.org/?p=2854
 permalink: /blog/voisins-vigilants-lien-social-securise/
 categories:
-  - La République des Pyrénées
+  - Presse
 tags:
-  - entraide
-  - Prévention
-  - Saint-Faust
-  - solidarite
-  - voisins vigilants
+  - Entraide
+  - Prevention
+  - Voisins Vigilants et Solidaires
 ---
 <p style="text-align: justify;">
   <strong style="color: #000000;">Jean-Claude Labat vient de créer la première communauté &laquo;&nbsp;Voisins Vigilants&nbsp;&raquo; à Saint-Faust pour lutter contre les cambriolages.</strong>

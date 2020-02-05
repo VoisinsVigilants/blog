@@ -7,13 +7,10 @@ layout: post
 guid: http://blog.voisinsvigilants.org/?p=649
 permalink: /blog/toulouse-les-voisins-vigilants-veillent/
 categories:
-  - France 3 Midi-Pyrénées
+  - TV
 tags:
-  - bienveillance
-  - solidarite
-  - Toulouse
-  - voisins
-  - voisins vigilants
+  - France 3
+  - Voisins Vigilants et Solidaires
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/db-ccbcalLo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

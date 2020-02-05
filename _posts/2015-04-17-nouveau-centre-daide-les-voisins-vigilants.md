@@ -9,10 +9,9 @@ permalink: /blog/nouveau-centre-daide-les-voisins-vigilants/
 categories:
   - News
 tags:
-  - convivialite
-  - entraide
-  - gagnant concours
-  - voisins vigilants
+  - Convivialite
+  - Entraide
+  - voisins vigilants et Solidaires
 ---
 <h1 style="text-align: center;">
   <span style="color: #ffcc00;">Le tout nouveau centre d&rsquo;aide est en ligne ! </span>

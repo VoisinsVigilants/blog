@@ -7,9 +7,9 @@ layout: post
 guid: http://blog.voisinsvigilants.org/?p=1350
 permalink: /blog/coutras-devient-mairie-vigilante/
 categories:
-  - Sud Ouest
+  - Presse
 tags:
-  - Coutras
+  - Sud Ouest
   - Mairie Vigilante et Solidaire
   - Voisins Vigilants et Solidaires
 ---

@@ -7,11 +7,8 @@ layout: post
 guid: http://blog.voisinsvigilants.org/?p=2839
 permalink: /blog/agissez-contre-les-vols-de-velo/
 categories:
-  - Solution anti-vol
+  - Conseils
 tags:
-  - Bycicode
-  - Securite
-  - Velos
   - Voisins Vigilants et Solidaires
   - Vol
 ---

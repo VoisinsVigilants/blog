@@ -7,13 +7,12 @@ layout: post
 guid: http://blog.voisinsvigilants.org/?p=191
 permalink: /blog/bfmtv-insecurite/
 categories:
-  - BFMTV
-  - France
   - TV
+  - Temoignage
 tags:
-  - Prévention des cambriolages
+  - BFMTV
+  - Prevention des cambriolages
   - Seine-et-Marne
-  - Témoignage
 ---
 BFMTV mène l&rsquo;enquête sur un phénomène en pleine expansion : les Voisins Vigilants. Depuis 2012, ils se multiplient pour faire fuir les cambrioleurs. Témoignage d&rsquo;un Voisin Vigilant de Guerard (Seine-et-Marne).
 

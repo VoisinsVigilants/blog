@@ -7,7 +7,7 @@ layout: post
 guid: http://blog.voisinsvigilants.org/?p=298
 permalink: /blog/voiture-forcee/
 categories:
-  - Techniques de repérage
+  - Techniques de reperage
 tags:
   - cambriolage
   - Voiture

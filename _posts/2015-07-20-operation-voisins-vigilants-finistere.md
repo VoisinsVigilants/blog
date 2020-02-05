@@ -7,13 +7,11 @@ layout: post
 guid: http://blog.voisinsvigilants.org/?p=651
 permalink: /blog/operation-voisins-vigilants-finistere/
 categories:
-  - TF1
+  - TV
 tags:
-  - bienveillance
-  - Finistère
-  - solidarite
-  - voisins
-  - voisins vigilants
+  - TF1
+  - Bienveillance
+  - Finistere
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/14_6uQsF-Tg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

@@ -7,15 +7,14 @@ layout: post
 guid: http://blog.voisinsvigilants.org/?p=253
 permalink: /blog/outil-efficace-contre-les-cambriolages/
 categories:
-  - EUROPE 1
-  - PRESSE
-  - RADIO
+  - Radio
+  - Temoignage
+  - Techniques de cambriolage
 tags:
-  - Île-de-France
-  - Prévention des cambriolages
-  - Technique de cambriolage
-  - Témoignage
-  - Vigilance
+  - Europe 1 
+  - Ile-de-France
+  - Prevention des cambriolages
+  
 ---
 Le site www.voisinsvigilants.org met à disposition des Français un outil de communication efficace contre les cambriolages. La solidarité, ça fonctionne !
 

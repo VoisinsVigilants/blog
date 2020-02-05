@@ -7,14 +7,9 @@ layout: post
 guid: http://blog.voisinsvigilants.org/?p=747
 permalink: /blog/comment-organiser-fete-voisins/
 categories:
-  - Conseils de voisinage
+  - Conseils
 tags:
-  - bienveillance
-  - soirée
-  - solidarite
-  - voisinage
-  - voisins
-  - voisins vigilants
+  - Bienveillance
 ---
 <p style="text-align: justify;">
   <strong><span style="color: #444444;">La fête des voisins est passée, c&rsquo;était en mai ? Ce n&rsquo;est pas grave, il n&rsquo;y a pas de date-clé pour organiser une soirée entre voisins ! L’été est la période la plus propice aux soirées. Alors cette année prenez les choses en main, et organisez une fête entre voisins pour faire connaissance et créer des liens ! </span><span style="color: #444444;"> </span></strong>

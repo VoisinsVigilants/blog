@@ -7,12 +7,11 @@ layout: post
 guid: http://blog.voisinsvigilants.org/?p=1324
 permalink: /blog/temoignage-notre-voisin-on-etait-noyes-les/
 categories:
-  - entraide
+  - Temoignage
 tags:
-  - entraide
-  - intempéries
-  - solidarite
-  - voisins vigilants
+  - Entraide
+  - Intemperies
+  - Solidarite
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_VZ8aOW11ZI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

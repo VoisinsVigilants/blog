@@ -7,9 +7,6 @@ layout: post
 guid: http://blog.voisinsvigilants.org/?p=2185
 permalink: /blog/securite-du-site-www-voisinsvigilants-org/
 categories:
-  - Voisins Vigilants
-tags:
-  - Securité
   - Voisins Vigilants et Solidaires
 ---
 <p style="text-align: justify;">

@@ -7,15 +7,12 @@ layout: post
 guid: http://blog.voisinsvigilants.org/?p=926
 permalink: /blog/urgence-quel-numero/
 categories:
-  - Conseils sécurité
+  - Conseils
 tags:
-  - "appel d'urgence"
-  - bienveillance
-  - "numéro d'urgence"
-  - Prévention
-  - protection
-  - solidarite
-  - voisins vigilants
+  - Bienveillance
+  - Prevention
+  - Protection
+  - Voisins Vigilants et Solidaires
 ---
 <p style="text-align: justify;">
   <span style="color: #000000;"><strong>Vous ne vous souvenez pas forcément de tous les numéros d&rsquo;urgence ? Voisins Vigilants vous fait un rappel des numéros à retenir ainsi que les informations à donner aux services d&rsquo;urgence dès les premières secondes. </strong></span>

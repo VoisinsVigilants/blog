@@ -7,8 +7,9 @@ layout: post
 guid: http://blog.voisinsvigilants.org/?p=2725
 permalink: /blog/loperation-voisins-vigilants-se-met-en-place-canet-en-roussillon/
 categories:
-  - Le Journal Catalan
+  - Presse
 tags:
+  - Le Journal Catalan
   - Canet-en-Roussillon
   - Securite
   - Voisins Vigilants et Solidaires

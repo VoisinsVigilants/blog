@@ -7,7 +7,7 @@ layout: post
 guid: http://blog.voisinsvigilants.org/?p=3184
 permalink: /blog/dispositif-voisins-vigilants-solidaires-reponse-efficace-contre-les-cambriolages/
 categories:
-  - Temoignages
+  - Temoignage
 tags:
   - cambriolage
   - solidaires

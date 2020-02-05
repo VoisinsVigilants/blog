@@ -7,9 +7,9 @@ layout: post
 guid: http://blog.voisinsvigilants.org/?p=3291
 permalink: /blog/senas-dispositif-voisins-vigilants-porte-ses-fruits/
 categories:
-  - La Provence
-  - Mairie Vigilante et Solidaire
+  - Presse
 tags:
+  - La Provence
   - Mairie Vigilante et Solidaire
 ---
 _[<img class="aligncenter size-full wp-image-3292" src="./../../images/2018/08/SENAS.jpg" alt="SENAS" />](./../../images/2018/08/SENAS.jpg)_

@@ -7,11 +7,9 @@ layout: post
 guid: http://blog.voisinsvigilants.org/?p=1237
 permalink: /blog/securite-les-volets-alarme/
 categories:
-  - Technique anti-cambriolage
+  - Techniques anti-cambriolage
 tags:
-  - protection
-  - technique anti-cambriolage
-  - voisins vigilants
+  - Protection
 ---
 <p style="color: #3e4b51; text-align: justify;">
   <span style="color: #000000;"><strong>Alors que les fenêtres et les portes peuvent bénéficier d’un système de protection, on ne pense pas souvent aux volets. En effet, ils peuvent très bien servir de barrière anti-effraction. Désormais, il existe un moyen très efficace : équiper les volets d’une maison ou d’un appartement avec une alarme intégrée. </strong></span>

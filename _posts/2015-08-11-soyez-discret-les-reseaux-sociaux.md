@@ -7,14 +7,12 @@ layout: post
 guid: http://blog.voisinsvigilants.org/?p=739
 permalink: /blog/soyez-discret-les-reseaux-sociaux/
 categories:
-  - Protection/prévention
+  - Protection - Prevention
 tags:
-  - bienveillance
+  - Bienveillance
   - cambriolage
-  - Prévention
-  - protection
-  - réseaux sociaux
-  - voisins vigilants
+  - Prevention
+  - Voisins Vigilants et Solidaires
 ---
 <p style="text-align: justify;">
   <strong style="color: #000000;">Le développement des réseaux sociaux fournit un nouvel outil aux cambrioleurs :  ils leur permet de savoir à quel moment les maisons sont vides. Les cambrioleurs seraient désormais 78% à utiliser Facebook, Twitter ou encore Foursquare pour pister leurs victimes et mieux, les dévaliser.</strong>

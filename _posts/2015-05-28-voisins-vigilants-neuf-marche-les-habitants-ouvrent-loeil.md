@@ -7,10 +7,10 @@ layout: post
 guid: http://blog.voisinsvigilants.org/?p=615
 permalink: /blog/voisins-vigilants-neuf-marche-les-habitants-ouvrent-loeil/
 categories:
-  - "L'Eclaireur - La Dépêche"
+  - Presse
 tags:
+  - La Depeche
   - Mairie Vigilante et Solidaire
-  - Neuf-Marché
   - Voisins Vigilants et Solidaires
 ---
 ## **Neuf-Marché (76) rejoint à son tour le service Mairie Vigilante.**

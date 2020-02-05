@@ -7,15 +7,10 @@ layout: post
 guid: http://blog.voisinsvigilants.org/?p=195
 permalink: /blog/flambee-cambriolages-les-voisins-vigilants-se-developpent/
 categories:
-  - BFMTV
-  - France
   - TV
 tags:
-  - Alpes-Maritimes
-  - cambriolages
-  - Nice
-  - PACA
-  - www.voisinsvigilants.org
+  - BGMTV
+  - Cambriolages
 ---
 Face à la flambée des cambriolages, les habitants se mobilisent et deviennent Voisins Vigilants en s&rsquo;inscrivant sur www.voisinsvigilants.org. Enquête.
 

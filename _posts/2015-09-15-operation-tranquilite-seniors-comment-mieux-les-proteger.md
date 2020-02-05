@@ -7,12 +7,11 @@ layout: post
 guid: http://blog.voisinsvigilants.org/?p=968
 permalink: /blog/operation-tranquilite-seniors-comment-mieux-les-proteger/
 categories:
-  - Conseils sécurité
+  - Conseils
 tags:
-  - entraide
-  - personnes âgées
-  - solidarite
-  - voisins vigilants
+  - Entraide
+  - Solidarite
+  - Voisins Vigilants et Solidaires
 ---
 <p style="text-align: justify;">
   <strong>Les seniors sont trop souvent les victimes de la lâcheté et de la ruse de certains agresseurs. Vous ne le saviez peut-être pas mais pour éviter ça une opération <strong>« tranquillité seniors » a été mise en place et ce, depuis 2010 !</strong></strong>

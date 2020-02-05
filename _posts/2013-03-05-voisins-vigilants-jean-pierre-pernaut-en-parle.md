@@ -13,10 +13,9 @@ enclosure:
     video/mp4
     
 categories:
-  - Presse
-  - TF1
   - TV
 tags:
+  - TF1
   - autocollants dissuasifs
   - Dissuasion
   - Panneaux Voisins Vigilants

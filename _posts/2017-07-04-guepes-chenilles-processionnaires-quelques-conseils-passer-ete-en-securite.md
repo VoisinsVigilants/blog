@@ -7,11 +7,8 @@ layout: post
 guid: http://blog.voisinsvigilants.org/?p=2959
 permalink: /blog/guepes-chenilles-processionnaires-quelques-conseils-passer-ete-en-securite/
 categories:
-  - Santé
-tags:
-  - chenilles processionnaires
-  - conseils
-  - guepes
+  - Sante
+  - Conseils
 ---
 ##### Dès le retour des beaux jours, guêpes et  chenilles processionnaires entament la construction de leurs nids. Quelques précautions d&rsquo;usage vous permettront de passer un été en toute sécurité.
 

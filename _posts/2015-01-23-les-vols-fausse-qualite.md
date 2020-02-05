@@ -7,15 +7,9 @@ layout: post
 guid: http://blog.voisinsvigilants.org/?p=374
 permalink: /blog/les-vols-fausse-qualite/
 categories:
-  - Conseils sécurité
-  - Technique de cambriolage
-  - Techniques de repérage
-tags:
-  - Technique de cambriolage
-  - Vigilance
-  - voisins vigilants
-  - vol
-  - vols fausse qualité
+  - Conseils
+  - Techniques de cambriolage
+  - Techniques de reperage
 ---
 <p style="text-align: justify;">
   <strong>Aujourd&rsquo;hui, les Voisins Vigilants décodent pour vous les vols dits  &laquo;&nbsp;à la fausse qualité&nbsp;&raquo;. Ce terme vous a sûrement déjà été évoqué, mais pour autant saviez-vous en quoi cela consistait ? Découvrez pourquoi et comment ces techniques sont particulièrement vicieuses&#8230;</strong>

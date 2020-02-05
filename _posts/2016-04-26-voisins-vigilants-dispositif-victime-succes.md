@@ -7,10 +7,10 @@ layout: post
 guid: http://blog.voisinsvigilants.org/?p=2548
 permalink: /blog/voisins-vigilants-dispositif-victime-succes/
 categories:
-  - 78actu
+  - Presse 
 tags:
+  - 78actu
   - Mairie Vigilante et Solidaire
-  - Montesson
   - Voisins Vigilants et Solidaires
 ---
 <p class="bigger mts mbs" style="color: #29292b; text-align: justify;" data-role="chapo">

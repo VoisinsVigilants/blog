@@ -7,10 +7,7 @@ layout: post
 guid: http://blog.voisinsvigilants.org/?p=2559
 permalink: /blog/fete-des-voisins-approche/
 categories:
-  - Voisins Vigilants
-tags:
-  - fête des voisins
-  - voisins vigilants
+  - Voisins Vigilants et Solidaires
 ---
 <p style="text-align: justify;">
   <span style="color: #000000;"><strong>Chaque année, plusieurs millions de français participent à la fête des voisins. C&rsquo;est l&rsquo;occasion de développer la solidarité dans son voisinage. Voici 8 astuces pour vous aider à organiser votre fête des voisins.</strong></span>

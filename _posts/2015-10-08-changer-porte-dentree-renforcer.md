@@ -7,14 +7,11 @@ layout: post
 guid: http://blog.voisinsvigilants.org/?p=1092
 permalink: /blog/changer-porte-dentree-renforcer/
 categories:
-  - Technique anti-cambriolage
+  - Techniques anti-cambriolage
 tags:
-  - Porte blindee
   - Prevention
-  - protection
+  - Protection
   - Securite
-  - Serrure
-  - Voisins Vigilants et Solidaire
 ---
 <p style="text-align: justify;">
   <strong>La porte d’entrée est la voie d’accès préférée des cambrioleurs. Vous devez donc veiller à renforcer sa solidité, selon votre budget bien sûr : changer la serrure, renforcer une porte existante ou opter pour une porte blindée…</strong>

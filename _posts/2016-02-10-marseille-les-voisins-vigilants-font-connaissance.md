@@ -7,11 +7,7 @@ layout: post
 guid: http://blog.voisinsvigilants.org/?p=2259
 permalink: /blog/marseille-les-voisins-vigilants-font-connaissance/
 categories:
-  - Voisins Vigilants
-tags:
-  - Marseille
-  - réunion publique
-  - voisins vigilants
+  - Voisins Vigilants et Solidaires
 ---
 <p style="text-align: justify;">
   <span style="color: #000000;"><strong>Samedi dernier, le référent de la communauté &laquo;&nbsp;Les voisins des grands pins&nbsp;&raquo;, également fonctionnaire du Ministère de l&rsquo;Intérieur, dans le 15ème arrondissement de Marseille, organisait un apéritif autour du dispositif Voisins Vigilants auquel deux représentants de l&rsquo;organisme national étaient conviés. </strong></span>

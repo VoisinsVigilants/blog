@@ -7,9 +7,9 @@ layout: post
 guid: http://blog.voisinsvigilants.org/?p=3299
 permalink: blog/tmc-met-lhonneur-dispositif-voisins-vigilants-solidaires-lapplication-cartonne/  
 categories:
-  - TMC
-  - 90 minutes enquetes   
+  - TV
 tags:
+  - TMC
   - Reportage  
 ---
 « L’application cartonne »  

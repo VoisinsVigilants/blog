@@ -7,12 +7,11 @@ layout: post
 guid: http://blog.voisinsvigilants.org/?p=2553
 permalink: /blog/panneaux-installes-decourager-les-voleurs/
 categories:
-  - La Montagne
+  - Presse
 tags:
-  - entraide
-  - Riom
-  - solidarite
-  - voisins vigilants
+  - La Montagne
+  - Entraide
+  - Voisins Vigilants et Solidaires
 ---
 <p style="text-align: justify;">
   <strong><span style="color: #000000;">Guy Blanc, et son groupe de Voisins Vigilants, unissent au quotidien leurs forces pour lutter contre la délinquance à Riom et cultiver le</span><span style="font-style: inherit; color: #000000;"> lien social.</span></strong>

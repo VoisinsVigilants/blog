@@ -7,12 +7,11 @@ layout: post
 guid: http://blog.voisinsvigilants.org/?p=1087
 permalink: /blog/les-attaques-bombe-lacrymogene/
 categories:
-  - Protection/prevention
+  - Protection - Prevention
 tags:
-  - bombe lacrymogene
   - Prevention
   - protection
-  - voisins vigilants
+  - Voisins Vigilants et Solidaires
 ---
 <p style="text-align: justify;">
   <span style="color: #000000;"><strong>Les attaques à la bombe lacrymogène, notamment en cas de <a href="http://blog.voisinsvigilants.org/securite/2015/09/14/attention-tentez-pas-les-voleurs-tire/">vol à la tire</a>, sont de plus en plus fréquentes. Ils savent que généralement cela blesse légèrement les personnes. Ces dernières sont alors incapables de se défendre. Voici nos conseils en cas d&rsquo;attaque par du gaz lacrymogène.</strong></span>

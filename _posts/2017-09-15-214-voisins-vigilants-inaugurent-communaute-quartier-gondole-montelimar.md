@@ -7,13 +7,10 @@ layout: post
 guid: http://blog.voisinsvigilants.org/?p=3047
 permalink: /blog/214-voisins-vigilants-inaugurent-communaute-quartier-gondole-montelimar/
 categories:
-  - Témoignage
-  - Voisins Vigilants
+  - Temoignage  
 tags:
-  - Communauté
-  - inauguration
-  - vigilants
-  - voisins
+  - Communaute
+  - Voisins Vigilants et Solidaires
 ---
 ##### La communauté des voisins vigilants du quartier la gondole à Montélimar compte à ce jour pas moins de 226 membres.  Le référent, Monsieur Michel MEIGNANT, organisait le 16 juin 2017 l&rsquo;inauguration de sa communauté.
 

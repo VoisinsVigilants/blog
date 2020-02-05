@@ -7,14 +7,7 @@ layout: post
 guid: http://blog.voisinsvigilants.org/?p=691
 permalink: /blog/attention-aux-vols-effraction/
 categories:
-  - Technique de vol
-tags:
-  - bienveillance
-  - effraction
-  - Prévention
-  - solidarite
-  - voisins vigilants
-  - vol
+  - Techniques de vol
 ---
 **Les vols avec effraction sont de plus en plus nombreux. Aujourd’hui****, l’équipe des Voisins Vigilants vous fait découvrir les techniques employées par les cambrioleurs.**
 

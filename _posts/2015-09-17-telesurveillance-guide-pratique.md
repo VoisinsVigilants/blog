@@ -7,13 +7,9 @@ layout: post
 guid: http://blog.voisinsvigilants.org/?p=975
 permalink: /blog/telesurveillance-guide-pratique/
 categories:
-  - Technique anti-cambriolage
+  - Techniques anti-cambriolage
 tags:
-  - Action
   - Securite
-  - Solution
-  - Telesurveillance
-  - Voisins Vigilants et Solidaires
 ---
 <p style="text-align: justify;">
   <strong>Cambriolage, incendie, obligation de l&rsquo;assurance&#8230; Pour sécuriser votre habitation ou votre entreprise, la télésurveillance est une des meilleures solutions. Cependant, les options sont nombreuses, ce qui ne simplifie pas toujours votre choix.</strong>

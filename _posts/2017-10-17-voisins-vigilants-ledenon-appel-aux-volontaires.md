@@ -7,9 +7,9 @@ layout: post
 guid: http://blog.voisinsvigilants.org/?p=3083
 permalink: /blog/voisins-vigilants-ledenon-appel-aux-volontaires/
 categories:
-  - Midi Libre
+  - Presse
 tags:
-  - Lédenon
+  - Midi Libre
 ---
 ##### Comme le rapporte le titre Midi Libre, le vendredi 22 septembre dans la salle du parc, une réunion était organisée pour redynamiser l’initiative lancée il y a déjà quelques temps de déployer à Lédenon le dispositif Voisins Vigilants
 

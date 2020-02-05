@@ -7,12 +7,7 @@ layout: post
 guid: http://blog.voisinsvigilants.org/?p=2320
 permalink: /blog/communaute-voisins-incroyable/
 categories:
-  - Voisins Vigilants
-tags:
-  - communauté de voisins
-  - convivialite
-  - solidarite
-  - voisins vigilants
+  - Voisins Vigilants et Solidaires
 ---
 <p style="text-align: justify;">
   <span style="color: #000000;"><strong>Voisins Vigilants, ce n&rsquo;est pas uniquement veiller les uns sur les autres. La solidarité de voisinage c&rsquo;est aussi initier l&rsquo;entraide et la convivialité entre voisins. Nous avons interviewé Guy, le référent d&rsquo;une communauté de voisins vigilants à Riom dans le département du Puy-de-Dôme, pour laquelle il met toute sa volonté pour créer des liens avec ses voisins.</strong></span>

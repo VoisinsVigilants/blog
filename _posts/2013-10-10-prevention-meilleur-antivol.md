@@ -7,14 +7,14 @@ layout: post
 guid: http://blog.voisinsvigilants.org/?p=224
 permalink: /blog/prevention-meilleur-antivol/
 categories:
-  - France
-  - La Croix
+  - Protection - Prevention
   - Presse
 tags:
-  - délinquance
-  - Prévention des cambriolages
+  - La Croix
+  - Delinquance
+  - Prevention des cambriolages
   - Statistiques
-  - Témoignage
+  - Temoignage
 ---
 <img class="alignnone wp-image-232 size-medium" src="http://blog.voisinsvigilants.org/wp-content/uploads/2014/09/Logo-La-Croix-300x72.jpg" alt="Logo La Croix" width="300" height="72" />
 

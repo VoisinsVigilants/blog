@@ -7,10 +7,7 @@ layout: post
 guid: http://blog.voisinsvigilants.org/?p=2360
 permalink: /blog/position-laterale-securite-pls/
 categories:
-  - Santé
-tags:
-  - PLS
-  - voisins vigilants
+  - Sante
 ---
 <p style="text-align: justify;">
   <strong><span style="color: #2c2c2c;">Face à une personne inconsciente, la première urgence est de vérifier si elle respire. Si c&rsquo;est le cas, deux seules choses à faire : contacter les secours et la placer en position latérale de sécurité (PLS) pour sécuriser la victime et éviter qu&rsquo;elle ne s&rsquo;étouffe.</span></strong>

@@ -7,12 +7,11 @@ layout: post
 guid: http://blog.voisinsvigilants.org/?p=590
 permalink: /blog/deja-250-mairies-vigilantes-en-france/
 categories:
-  - RTL
+  - Radio
 tags:
   - Mairie Vigilante et Solidaire
-  - Municipalité
   - RTL
-  - voisins vigilants
+  - voisins vigilants et Solidaires
 ---
 Bonjour les Voisins Vigilants ! Vous avez la possibilité d&rsquo;être soutenus par votre municipalité: c&rsquo;est le service Mairie Vigilante.
 

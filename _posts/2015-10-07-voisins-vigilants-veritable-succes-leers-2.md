@@ -7,10 +7,9 @@ layout: post
 guid: http://blog.voisinsvigilants.org/?p=1329
 permalink: /blog/voisins-vigilants-veritable-succes-leers-2/
 categories:
-  - La Voix du Nord
+  - Presse
 tags:
   - La Voix Du Nord
-  - Leers
   - Mairie Vigilante et Solidaire
   - Voisins Vigilants et Solidaires
 ---

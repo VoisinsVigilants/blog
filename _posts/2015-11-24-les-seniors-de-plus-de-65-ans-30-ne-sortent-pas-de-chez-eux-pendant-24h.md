@@ -7,11 +7,9 @@ layout: post
 guid: http://blog.voisinsvigilants.org/?p=1428
 permalink: /blog/les-seniors-de-plus-de-65-ans-30-ne-sortent-pas-de-chez-eux-pendant-24h/
 categories:
-  - Conseils de voisinage
+  - Conseils
 tags:
-  - entraide
-  - seniors
-  - voisins vigilants
+  - Entraide
 ---
 <p class="chapo" style="font-weight: 400; text-align: justify;">
   <span style="color: #000000;"><strong>Selon une étude publiée par le Laboratoire de la mobilité inclusive, 30% des plus de 65 ans ne sortent pas de chez eux pendant 24 heures d&rsquo;affilée. Pour venir en aide à ces personnes, le sondage recommande de s&rsquo;appuyer sur le numérique. Explications.</strong></span>

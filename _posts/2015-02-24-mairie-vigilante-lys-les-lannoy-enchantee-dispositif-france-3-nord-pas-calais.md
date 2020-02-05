@@ -7,10 +7,9 @@ layout: post
 guid: http://blog.voisinsvigilants.org/?p=460
 permalink: /blog/mairie-vigilante-lys-les-lannoy-enchantee-dispositif-france-3-nord-pas-calais/
 categories:
-  - France 3 Nord-Pas-de-Calais
+  - TV
 tags:
-  - ambassadeur
-  - France 3 Nord-Pas-de-Calais
+  - France 3
   - Mairie Vigilante et Solidaire
   - Voisins Vigilants et Solidaires
 ---

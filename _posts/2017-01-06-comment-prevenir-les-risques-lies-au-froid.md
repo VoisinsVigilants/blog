@@ -8,11 +8,6 @@ guid: http://blog.voisinsvigilants.org/?p=2748
 permalink: /blog/comment-prevenir-les-risques-lies-au-froid/
 categories:
   - Conseils
-tags:
-  - froid
-  - hiver
-  - précautions
-  - voisins vigilants
 ---
 <div style="color: #4b5ebd; text-align: justify;">
   <p class="access" style="color: #383838;">

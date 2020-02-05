@@ -7,11 +7,7 @@ layout: post
 guid: http://blog.voisinsvigilants.org/?p=1422
 permalink: /blog/marquage-chimique-nouvelle-arme-anti-cambriolage/
 categories:
-  - Technique anti-cambriolage
-tags:
-  - marquage chimique
-  - technique anti-cambriolage
-  - voisins vigilants
+  - Techniques anti-cambriolage
 ---
 <p style="text-align: justify;">
   <strong style="color: #646464;"><span style="color: #000000;">Vos objets de valeurs marqués à vie, comme un tatouage. Voilà ce que permet le marquage chimique indélébile pour se prémunir des cambriolages. </span></strong>

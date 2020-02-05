@@ -7,12 +7,9 @@ layout: post
 guid: http://blog.voisinsvigilants.org/?p=1218
 permalink: /blog/les-seniors-gardent-le-moral-grace-aux-liens-sociaux/
 categories:
-  - Conseils santé
+  - Conseils
 tags:
-  - entraide
-  - liens sociaux
-  - solidarite
-  - voisins vigilants
+  - Entraide
 ---
 <p style="color: #000000; text-align: justify;">
   <span style="color: #000000;"><strong>La majorité des Français de plus de 55 ans ont le moral, selon une enquête réalisée par TNS Sofres. Si les seniors ont le moral, c&rsquo;est essentiellement parce qu&rsquo;ils sont entourés de leur famille et continuent à entretenir des liens amicaux. </strong></span>

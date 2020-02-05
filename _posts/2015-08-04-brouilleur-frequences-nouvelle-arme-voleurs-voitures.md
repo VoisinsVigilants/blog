@@ -7,15 +7,7 @@ layout: post
 guid: http://blog.voisinsvigilants.org/?p=695
 permalink: /blog/brouilleur-frequences-nouvelle-arme-voleurs-voitures/
 categories:
-  - Technique de vol
-tags:
-  - brouilleur
-  - solidarite
-  - technique de vol
-  - Vigilance
-  - voisin
-  - voisins vigilants
-  - vol
+  - Techniques de vol
 ---
 **Aujourd&rsquo;hui, l&rsquo;équipe des Voisins Vigilants vous fait découvrir une nouvelle technique de vol particulièrement sournoise : celle du brouilleur de fréquences des véhicules.**
 

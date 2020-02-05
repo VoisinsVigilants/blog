@@ -7,12 +7,11 @@ layout: post
 guid: http://blog.voisinsvigilants.org/?p=683
 permalink: /blog/les-temperatures-grimpent-soyez-vigilants-solidaires/
 categories:
-  - Protection/prévention
+  - Protection - Prevention
 tags:
-  - bienveillance
-  - Prévention
-  - solidarite
-  - voisins vigilants
+  - Bienveillance
+  - Prevention
+  - Voisins Vigilants et Solidaires
 ---
 <p class="tidy-12" style="color: #303030; text-align: justify;">
   <strong>Fortes chaleurs : faites jouer la solidarité entre voisins ! </strong><br /> <a href="http://blog.voisinsvigilants.org/wp-content/uploads/2015/08/Le-plan-canicule-est-declenche_article_popin.jpg"><img class="aligncenter  wp-image-686" src="http://blog.voisinsvigilants.org/wp-content/uploads/2015/08/Le-plan-canicule-est-declenche_article_popin.jpg" alt="Le-plan-canicule-est-declenche_article_popin" width="656" height="437" /></a>

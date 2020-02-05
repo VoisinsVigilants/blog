@@ -8,13 +8,13 @@ guid: http://blog.voisinsvigilants.org/?p=203
 permalink: /blog/cambriolage-dejoue-drome/
 categories:
   - Radio
-  - RMC
+  - Temoignage
 tags:
-  - Cambriolage déjoué
-  - Drôme
+  - RMC
+  - Cambriolage dejoue
+  - Drome
   - Jean-Jacques Bourdin
-  - Prévention des cambriolages
-  - Témoignage
+  - Prevention des cambriolages
 ---
 Cambriolage déjoué dans la Drôme : un Voisin Vigilant témoigne dans la matinale de Jean-Jacques Bourdin sur RMC.
 

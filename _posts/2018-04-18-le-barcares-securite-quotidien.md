@@ -7,8 +7,7 @@ layout: post
 guid: http://blog.voisinsvigilants.org/?p=3210
 permalink: /blog/le-barcares-securite-quotidien/
 categories:
-  - Temoignages
-  - Voisins Vigilants et Solidaires
+  - Temoignage
 tags:
   - Voisins Vigilants et Solidaires
 ---

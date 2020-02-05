@@ -7,16 +7,12 @@ layout: post
 guid: http://blog.voisinsvigilants.org/?p=193
 permalink: /blog/tf1-reportage-sur-les-voisins/
 categories:
-  - France
-  - TF1
   - TV
+  - Temoignage
 tags:
+  - TF1
   - Mairie
   - Police
-  - solidarite de voisinage
-  - Témoignage
-  - TV
-  - www.voisinsvigilants.org
 ---
 Les Voisins Vigilants s&rsquo;organisent et s&rsquo;allient aux Forces de l&rsquo;Ordre. Témoignage d&rsquo;un référent et du Chef de la Police Municipale de Fayence  
 

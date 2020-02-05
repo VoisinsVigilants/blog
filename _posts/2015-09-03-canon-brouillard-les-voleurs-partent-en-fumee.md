@@ -7,15 +7,10 @@ layout: post
 guid: http://blog.voisinsvigilants.org/?p=910
 permalink: /blog/canon-brouillard-les-voleurs-partent-en-fumee/
 categories:
-  - Technique anti-cambriolage
+  - Techniques anti-cambriolage
 tags:
-  - anti-cambriolage
-  - cambriolages
-  - canon à brouillard
-  - canon à fumée
-  - Prévention
+  - Prevention
   - protection
-  - voisins vigilants
 ---
 <p style="text-align: justify;">
   <strong style="color: #000000;">Lorsque l’on sait que 65 % des cambriolages s’interrompent lors du déclenchement des sirènes, qu’un cambriolage dure en moyenne 5 minutes et que le préjudice financier moyen représente 6 500 €, comment peut-on lutter encore plus efficacement pour protéger ses biens ? </strong>

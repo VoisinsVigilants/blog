@@ -7,15 +7,10 @@ layout: post
 guid: http://blog.voisinsvigilants.org/?p=1072
 permalink: /blog/6-services-utiles-se-rendre-voisins/
 categories:
-  - Conseils de voisinage
+  - Conseils
 tags:
-  - bienveillance
-  - conseils
-  - entraide
-  - services
-  - solidarite
-  - voisinage
-  - voisins vigilants
+  - Bienveillance
+  - Entraide
 ---
 <p style="text-align: justify;">
   <strong>On croise souvent nos voisins, on leur dit « Bonjour » mais l’échange s’arrête là… C&rsquo;est bien dommage ! Ça pourrait être bien utile de pouvoir aider et compter sur ses voisins ! V</strong><strong>otre voisine pourrait vous apprendre à jouer du piano, pourquoi ne pas faire les courses de la personne âgée du dessous&#8230; Découvrez 6 services que vous pouvez vous rendre mutuellement entre voisins, vous verrez, cela vous changera la vie !</strong>

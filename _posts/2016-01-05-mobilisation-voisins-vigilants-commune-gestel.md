@@ -7,11 +7,7 @@ layout: post
 guid: http://blog.voisinsvigilants.org/?p=2052
 permalink: /blog/mobilisation-voisins-vigilants-commune-gestel/
 categories:
-  - entraide
-tags:
-  - entraide
-  - Gestel
-  - voisins vigilants
+  - Entraide
 ---
 <p style="text-align: justify;">
   <strong>Au départ un dispositif pour lutter contre l&rsquo;insécurité, Voisins Vigilants c&rsquo;est aussi une initiative citoyenne d&rsquo;entraide comme le montre les voisins vigilants de la commune de Gestel (56). </strong>

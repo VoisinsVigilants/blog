@@ -7,10 +7,9 @@ layout: post
 guid: http://blog.voisinsvigilants.org/?p=1743
 permalink: /blog/fonctionnalite-voisins-vigilants-vacances/
 categories:
-  - Voisins Vigilants
+  - Voisins Vigilants et Solidaires
 tags:
-  - vacances
-  - voisins vigilants
+  - Vacances
 ---
 <p style="text-align: justify;">
   <strong><span style="color: #000000;">La fonctionnalité &laquo;&nbsp;Vacances&nbsp;&raquo; du site internet</span> <a href="http://www.voisinsvigilants.org">www.voisinsvigilants.org</a> <span style="color: #000000;">offre à tous les Voisins Vigilants la possibilité de prévenir certains de ses voisins de son absence en indiquant les dates de celle-ci. </span></strong>

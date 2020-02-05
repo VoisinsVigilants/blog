@@ -7,7 +7,7 @@ layout: post
 guid: http://blog.voisinsvigilants.org/?p=1913
 permalink: /blog/comment-developper-communaute-voisins/
 categories:
-  - Voisins Vigilants
+  - Voisins Vigilants et Solidaires
 ---
 <p style="text-align: justify;">
   <strong>Réunir de nombreux voisins au sein d&rsquo;une communauté, c&rsquo;est assurer l&rsquo;efficacité du dispositif Voisins Vigilants. </strong>

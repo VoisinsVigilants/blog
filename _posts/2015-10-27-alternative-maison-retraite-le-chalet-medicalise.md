@@ -7,13 +7,10 @@ layout: post
 guid: http://blog.voisinsvigilants.org/?p=1110
 permalink: /blog/alternative-maison-retraite-le-chalet-medicalise/
 categories:
-  - Conseils santé
+  - Conseils
 tags:
-  - chalet médicalisé
-  - personnes âgées
-  - protection
-  - solidarite
-  - voisins vigilants
+  - Protection
+  - Voisins Vigilants et Solidaires
 ---
 <p style="color: #6b6b6b; text-align: justify;">
   <span style="color: #000000;"><strong>Des petits chalets pré-fabriqués entièrement médicalisés peuvent être installés dans votre cour ou votre jardin pour accueillir vos parents âgés. Cela peut être une alternative si ces derniers refusent la maison de retraite ou n’en ont pas les moyens ! Alors comment ça marche ? </strong></span>

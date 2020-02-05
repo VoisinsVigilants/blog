@@ -7,7 +7,7 @@ layout: post
 guid: http://blog.voisinsvigilants.org/?p=620
 permalink: /blog/29-mai-cest-fete-voisins/
 categories:
-  - Fête des Voisins
+  - Voisins Vigilants et Solidaires
 ---
 <h2 style="text-align: center;">
   <span style="color: #ffcc00;"><strong>La Fête des Voisins : pourquoi ?</strong></span>

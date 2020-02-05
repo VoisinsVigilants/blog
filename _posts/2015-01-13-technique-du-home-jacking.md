@@ -7,9 +7,9 @@ layout: post
 guid: http://blog.voisinsvigilants.org/?p=338
 permalink: /blog/technique-du-home-jacking/
 categories:
-  - Protection/prévention
-  - Technique de cambriolage
-  - Techniques de repérage
+  - Protection - Prevention
+  - Techniques de cambriolage
+  - Techniques de reperage
 tags:
   - cambriolage
   - home-jacking

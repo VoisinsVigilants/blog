@@ -7,14 +7,13 @@ layout: post
 guid: http://blog.voisinsvigilants.org/?p=207
 permalink: /blog/langage-des-cambrioleurs/
 categories:
-  - EUROPE 1
-  - RADIO
+  - Radio
 tags:
+  - Europe 1 
   - langage des cambrioleurs
   - Paris
-  - Prévention des cambriolages
-  - repérage
-  - voisins vigilants
+  - Prevention des cambriolages
+  - reperage
 ---
 En région parisienne, les Voisins Vigilants décryptent le langage des cambrioleurs et effacent les marquages pour protéger leurs biens.
 

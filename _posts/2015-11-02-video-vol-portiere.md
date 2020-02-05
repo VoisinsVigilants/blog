@@ -7,11 +7,9 @@ layout: post
 guid: http://blog.voisinsvigilants.org/?p=1578
 permalink: /blog/video-vol-portiere/
 categories:
-  - Technique de vol
+  - Techniques de vol
 tags:
-  - technique de vol
-  - voisins vigilants
-  - vol à la portière
+  - Voisins Vigilants et Solidaires
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LRwEUbW5ZxQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

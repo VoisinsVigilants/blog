@@ -6,12 +6,10 @@ author: Voisins Vigilants
 layout: post
 guid: http://blog.voisinsvigilants.org/?p=2364
 permalink: /blog/nouvelle-fonctionnalite-le-profil-personnel/
-categories:
-  - Voisins Vigilants
+categories:  
+  - News
 tags:
-  - nouvelle fonctionnalité
-  - profil
-  - voisins vigilants
+  - Voisins Vigilants et Solidaires
 ---
 <p style="text-align: justify;">
   <strong>Avez-vous remarqué un changement sur votre espace personnel ? Une nouvelle fonctionnalité s&rsquo;est glissée entre premiers pas et la messagerie&#8230; Il s&rsquo;agit de la fonctionnalité profil.</strong>

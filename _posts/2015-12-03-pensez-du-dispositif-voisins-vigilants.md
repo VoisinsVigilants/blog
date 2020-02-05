@@ -7,10 +7,7 @@ layout: post
 guid: http://blog.voisinsvigilants.org/?p=1816
 permalink: /blog/pensez-du-dispositif-voisins-vigilants/
 categories:
-  - Sondage Voisins Vigilants
-tags:
-  - sondage
-  - voisins vigilants
+  - Voisins Vigilants et Solidaires
 ---
 <p style="text-align: justify;">
   Mercredi, nous avions publié un article paru dans le journal Sud Ouest &laquo;&nbsp;<a href="http://www.voisinsvigilants.org">En Lot-et-Garonne, 36 communautés de voisins vigilants ouvrent l’œil !</a> <span style="color: #000000;">». La journaliste avait intégré un sondage sur le dispositif Voisins Vigilants auquel les lecteurs avaient la possibilité d&rsquo;y répondre. Voici les résultats.</span>

@@ -7,10 +7,7 @@ layout: post
 guid: http://blog.voisinsvigilants.org/?p=2950
 permalink: /blog/fete-voisins-2017-en-19-mai/
 categories:
-  - Fete
-tags:
-  - fete
-  - voisins
+  - News
 ---
 ##### Créée en 1999 par habitant de Paris la fête de voisins a pour but d’organiser un apéritif ou un repas afin de de se retrouver ou de faire connaissance avec ses voisins. Véritable moyen de créer de la convivialité, du lien, de la solidarité et de lutter contre l’isolement, la fête des voisins avait réunie près de 10 000 habitants de 800 immeubles lors de sa première édition et  rassemble aujourd’hui 8 millions de personnes partout en France. Cette année la manifestation se tiendra la 19 mai.
 

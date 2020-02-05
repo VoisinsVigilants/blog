@@ -7,7 +7,7 @@ layout: post
 guid: http://blog.voisinsvigilants.org/?p=720
 permalink: /blog/les-solutions-partir-en-vacances-lesprit-leger/
 categories:
-  - Protection/prévention
+  - Protection - Prevention
 ---
 <p style="text-align: justify;">
   <strong><span style="color: #000000;">Vous êtes tracassés à l&rsquo;idée de laisser votre logement vide pendant vos vacances ? Voisins Vigilants vous donne quelques conseils pour partir serein.</span></strong>

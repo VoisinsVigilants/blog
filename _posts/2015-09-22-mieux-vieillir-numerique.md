@@ -7,15 +7,9 @@ layout: post
 guid: http://blog.voisinsvigilants.org/?p=987
 permalink: /blog/mieux-vieillir-numerique/
 categories:
-  - Conseils sécurité
+  - Conseils
 tags:
-  - entraide
-  - numérique
-  - personnes âgées
-  - solidarite
-  - technologie
-  - vieillissement
-  - voisins vigilants
+  - Entraide
 ---
 <p style="text-align: justify;">
   <strong>Les nouvelles technologies s&rsquo;apprêtent à modifier la prise en charge du grand âge, enjeu majeur de santé publique. Mais leur arrivée suscite des questions.</strong>

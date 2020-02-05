@@ -10,10 +10,9 @@ categories:
   - Protection - Prevention
 tags:
   - Prevention
-  - protection
-  - telephone portable
+  - Protection
   - Voisins Vigilants et Solidaires
-  - vol
+  - Vol
 ---
 <p style="text-align: justify;">
   <strong>Les utilisateurs de smartphones sont devenus les cibles privilégiées des voleurs. En cas de vol ou de perte de son téléphone mobile, des démarches sont nécessaires pour faire bloquer sa ligne et, éventuellement, faire remplacer son mobile.</strong>

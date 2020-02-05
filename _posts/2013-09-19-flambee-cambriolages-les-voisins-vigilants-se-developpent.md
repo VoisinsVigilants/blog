@@ -9,8 +9,8 @@ permalink: /blog/flambee-cambriolages-les-voisins-vigilants-se-developpent/
 categories:
   - TV
 tags:
-  - BGMTV
-  - Cambriolages
+  - BFMTV
+  - Cambriolage
 ---
 Face à la flambée des cambriolages, les habitants se mobilisent et deviennent Voisins Vigilants en s&rsquo;inscrivant sur www.voisinsvigilants.org. Enquête.
 

@@ -10,7 +10,6 @@ categories:
   - Presse
 tags:
   - Breizh-info
-  - Fay-de-Bretagne
   - Mairie Vigilante et Solidaire
   - Voisins Vigilants et Solidaires
 ---

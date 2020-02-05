@@ -10,7 +10,7 @@ categories:
   - Techniques anti-cambriolage
 tags:
   - Prevention
-  - protection
+  - Protection
 ---
 <p style="text-align: justify;">
   <strong style="color: #000000;">Lorsque l’on sait que 65 % des cambriolages s’interrompent lors du déclenchement des sirènes, qu’un cambriolage dure en moyenne 5 minutes et que le préjudice financier moyen représente 6 500 €, comment peut-on lutter encore plus efficacement pour protéger ses biens ? </strong>

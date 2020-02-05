@@ -12,7 +12,6 @@ tags:
   - Breizh-info
   - Entraide
   - Securite
-  - Solidaires
 ---
 ##### A l&rsquo;occasion de notre changement de nom le  site Breizh-info.com a édité un article sur le dispositif Voisins Vigilants et Solidaires.
 

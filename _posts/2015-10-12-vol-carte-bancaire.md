@@ -8,8 +8,6 @@ guid: http://blog.voisinsvigilants.org/?p=1153
 permalink: /blog/vol-carte-bancaire/
 categories:
   - Techniques de vol
-tags:
-  - vol de carte bancaire
 ---
 <p style="text-align: justify;">
   <strong style="color: #000000;">Chaque semaine, l&rsquo;équipe de Voisins Vigilants vous informe sur les différentes techniques de cambriolage et de vol. Aujourd&rsquo;hui, nous vous signalons une technique de vol vécue par un voisin vigilant. Voici son témoignage.</strong>

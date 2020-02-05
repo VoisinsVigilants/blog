@@ -10,7 +10,6 @@ categories:
   - Presse
 tags:
   - Sud Ouest
-  - Association
   - Bienveillance
   - Voisins Vigilants et Solidaires
 ---

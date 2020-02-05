@@ -9,7 +9,6 @@ permalink: /blog/belgique-besoin-de-securite/
 categories:
   - Presse
 tags:
-  - Belgique
   - Le Soir  
 ---
 <img class="alignleft size-medium wp-image-149" src="http://blog.voisinsvigilants.org/wp-content/uploads/2014/09/soir_logo-300x52.jpg" alt="soir_logo" width="300" height="52" />

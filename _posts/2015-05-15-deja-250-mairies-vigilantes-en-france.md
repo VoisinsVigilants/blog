@@ -11,7 +11,7 @@ categories:
 tags:
   - Mairie Vigilante et Solidaire
   - RTL
-  - voisins vigilants et Solidaires
+  - Voisins Vigilants et Solidaires
 ---
 Bonjour les Voisins Vigilants ! Vous avez la possibilité d&rsquo;être soutenus par votre municipalité: c&rsquo;est le service Mairie Vigilante.
 

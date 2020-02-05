@@ -10,7 +10,6 @@ categories:
   - Temoignage
 tags:
   - Entraide
-  - Intemperies
   - Solidarite
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_VZ8aOW11ZI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

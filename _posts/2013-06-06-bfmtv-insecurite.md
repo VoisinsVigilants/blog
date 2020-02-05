@@ -12,7 +12,6 @@ categories:
 tags:
   - BFMTV
   - Prevention des cambriolages
-  - Seine-et-Marne
 ---
 BFMTV mène l&rsquo;enquête sur un phénomène en pleine expansion : les Voisins Vigilants. Depuis 2012, ils se multiplient pour faire fuir les cambrioleurs. Témoignage d&rsquo;un Voisin Vigilant de Guerard (Seine-et-Marne).
 

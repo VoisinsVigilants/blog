@@ -11,10 +11,8 @@ categories:
   - Temoignage
 tags:
   - RMC
-  - Cambriolage dejoue
-  - Drome
-  - Jean-Jacques Bourdin
-  - Prevention des cambriolages
+  - Cambriolage
+  - Prevention
 ---
 Cambriolage déjoué dans la Drôme : un Voisin Vigilant témoigne dans la matinale de Jean-Jacques Bourdin sur RMC.
 

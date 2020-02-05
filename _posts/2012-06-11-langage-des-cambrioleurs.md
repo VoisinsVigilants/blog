@@ -10,10 +10,8 @@ categories:
   - Radio
 tags:
   - Europe 1 
-  - langage des cambrioleurs
-  - Paris
-  - Prevention des cambriolages
-  - reperage
+  - Prevention
+  - Reperage
 ---
 En région parisienne, les Voisins Vigilants décryptent le langage des cambrioleurs et effacent les marquages pour protéger leurs biens.
 

@@ -7,14 +7,7 @@ layout: post
 guid: http://blog.voisinsvigilants.org/?p=468
 permalink: /blog/technique-du-grand-colis-attention-colis-etre-contenir-voleur/
 categories:
-  - Technique de cambriolage
-tags:
-  - grand colis
-  - solidarite
-  - Technique de cambriolage
-  - Vigilance
-  - voisins
-  - voisins vigilants
+  - Techniques de cambriolage
 ---
 **Aujourd&rsquo;hui, l&rsquo;équipe des Voisins Vigilants vous fait découvrir une technique de cambriolage très surprenante : celle du &laquo;&nbsp;grand colis&nbsp;&raquo;.**
 

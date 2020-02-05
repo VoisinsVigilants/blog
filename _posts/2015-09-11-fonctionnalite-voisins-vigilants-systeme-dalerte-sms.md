@@ -7,16 +7,12 @@ layout: post
 guid: http://blog.voisinsvigilants.org/?p=914
 permalink: /blog/fonctionnalite-voisins-vigilants-systeme-dalerte-sms/
 categories:
-  - Voisins Vigilants
+  - Voisins Vigilants et Solidaires
 tags:
-  - alerte SMS
-  - bienveillance
-  - fonctionnalité
-  - Prévention
-  - protection
-  - service
-  - solidarite
-  - voisins vigilants
+  - Alerte
+  - Bienveillance
+  - Prevention
+  - Protection
 ---
 <p style="text-align: justify;">
   <span style="color: #000000;"><strong>Informez votre communauté et soyez informé de tout événement suspect grâce à notre système d’alerte par SMS. Aujourd’hui on vous rappelle son fonctionnement.</strong></span>

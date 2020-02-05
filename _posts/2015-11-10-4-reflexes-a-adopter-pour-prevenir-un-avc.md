@@ -7,11 +7,7 @@ layout: post
 guid: http://blog.voisinsvigilants.org/?p=1533
 permalink: /blog/4-reflexes-a-adopter-pour-prevenir-un-avc/
 categories:
-  - Conseils santé
-tags:
-  - AVC
-  - réflexes
-  - voisins vigilants
+  - Conseils
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_Fz6nvPuOQw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

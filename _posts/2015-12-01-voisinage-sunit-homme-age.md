@@ -7,11 +7,7 @@ layout: post
 guid: http://blog.voisinsvigilants.org/?p=1515
 permalink: /blog/voisinage-sunit-homme-age/
 categories:
-  - entraide
-tags:
-  - entraide
-  - voisinage
-  - voisins vigilants
+  - Entraide
 ---
 <p style="color: #000000; text-align: justify;">
   <strong>Plusieurs résidents d&rsquo;un quartier tranquille de Fremont en Californie se sont unis pour venir en aide à un voisin qui en avait bien besoin.</strong>

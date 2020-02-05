@@ -7,7 +7,7 @@ layout: post
 guid: http://blog.voisinsvigilants.org/?p=757
 permalink: /blog/simulateur-de-presence/
 categories:
-  - Protection/prévention
+  - Protection - Prevention
 ---
 <p style="text-align: justify;">
   <strong style="color: #000000;">Aujourd&rsquo;hui, voici une nouvelle technique anti-cambriolage ! Les cambriolages de maison en fin de journée, quand la famille est au travail et les enfants à l’école, sont les plus fréquents. Comment les cambrioleurs choisissent ils leurs victimes ? Ils vont au plus simple : les maisons les moins protégées et surtout inoccupées. Pour bénéficier d’un niveau de sécurité additionnel à tous nos précédents conseils, aujourd&rsquo;hui, Voisins Vigilants vous parle de la stratégie de simulation de présence.</strong>

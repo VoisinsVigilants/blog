@@ -7,14 +7,11 @@ layout: post
 guid: http://blog.voisinsvigilants.org/?p=732
 permalink: /blog/technique-de-cambriolage-panthere/
 categories:
-  - Technique de cambriolage
+  - Techniques de cambriolage
+  - Protection - Prevention
 tags:
-  - bienveillance
-  - cambriolage
-  - Prévention
-  - protection
-  - solidarite
-  - voisins vigilants
+  - Bienveillance
+  - Voisins Vigilants et Solidaires
 ---
 <p style="text-align: justify;">
   <strong style="color: #000000;">Aujourd&rsquo;hui, l’équipe des Voisins Vigilants vous fait découvrir une technique de cambriolage très surprenante : celle de « la panthère ».</strong>

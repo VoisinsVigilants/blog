@@ -7,13 +7,7 @@ layout: post
 guid: http://blog.voisinsvigilants.org/?p=833
 permalink: /blog/smartphones-tablettes-attention-tentez-pas-les-voleurs-tire/
 categories:
-  - Technique de vol
-tags:
-  - Prévention
-  - protection
-  - technique de vol
-  - voisins vigilants
-  - vol
+  - Techniques de vol
 ---
 <p style="text-align: justify;">
   <strong>Les Smartphones, les tablettes, les sacs, les bijoux attisent fortement la convoitise des délinquants dissimulés dans la foule qui occupent les rues, les transports en commun (métros, tramway, bus…) et autres lieux publics.</strong><strong> </strong><strong>Chaque année, ces affaires sont l’objet de milliers de vols à la tire, un crime qui prend une forte ampleur. Les pickpockets ne sont pas des amateurs, beaucoup ont fait de leur activité une profession qui leur procure l’essentiel de leur revenu. Comment les éviter ?</strong>

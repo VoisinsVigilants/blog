@@ -7,12 +7,7 @@ layout: post
 guid: http://blog.voisinsvigilants.org/?p=1607
 permalink: /blog/avez-vous-commander-la-signaletique-dissuasive/
 categories:
-  - Voisins Vigilants
-tags:
-  - boutique
-  - panneaux
-  - signalétique
-  - voisins vigilants
+  - Voisins Vigilants et Solidaires
 ---
 <p style="text-align: justify;">
   <b>La signalétique Voisins Vigilants est, avant tout, un moyen de dissuasion pour éviter les actes malveillants. Apposée sur votre boîte aux lettres ou postée à l’entrée de votre quartier, elle intimidera les personnes malveillantes. </b>

@@ -7,11 +7,7 @@ layout: post
 guid: http://blog.voisinsvigilants.org/?p=1983
 permalink: /blog/comment-agir-face-personne-inconsciente/
 categories:
-  - Santé
-tags:
-  - inconsience
-  - secours
-  - voisins vigilants
+  - Sante
 ---
 <div class="object-left" style="color: #474747; text-align: justify;">
   <span style="color: #000000;"><strong>Si la victime est inconsciente et si sa poitrine se soulève régulièrement : contactez le 15 et libérez les voies aériennes en la plaçant en position latérale de sécurité. </strong></span>

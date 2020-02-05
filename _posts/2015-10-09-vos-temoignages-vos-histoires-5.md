@@ -7,12 +7,9 @@ layout: post
 guid: http://blog.voisinsvigilants.org/?p=1105
 permalink: /blog/vos-temoignages-vos-histoires-5/
 categories:
-  - Témoignage
+  - Temoignage
 tags:
-  - solidarite
-  - Témoignage
-  - voisins
-  - voisins vigilants
+  - Voisins Vigilants et Solidaires
 ---
 <p style="text-align: justify;">
   <span style="color: #000000;"><strong>Vous êtes de plus en plus nombreux à nous témoigner vos histoires et anecdotes liées à <a href="http://www.voisinsvigilants.org">Voisins Vigilants</a> et nous vous en remercions.</strong></span>

@@ -7,13 +7,10 @@ layout: post
 guid: http://blog.voisinsvigilants.org/?p=677
 permalink: /blog/loperation-tranquillite-vacances-soyez-zen-vos-conges/
 categories:
-  - Protection/prévention
+  - Protection - Prevention
 tags:
-  - bienveillance
-  - Prévention
-  - solidarite
-  - vacances
-  - voisins vigilants
+  - Vacances
+  - Voisins Vigilants et Solidaires
 ---
 <div class="attribute-catcher" style="color: #424242;">
   <p style="text-align: justify;">

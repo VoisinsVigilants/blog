@@ -7,12 +7,10 @@ layout: post
 guid: http://blog.voisinsvigilants.org/?p=255
 permalink: /blog/proteger-sa-maison/
 categories:
-  - France 5
   - TV
 tags:
-  - Prévention des cambriolages
-  - voisins vigilants
-  - www.voisinsvigilants.org
+  - France 5
+  - Prevention des cambriolages
 ---
 La Maison France 5 revient sur les fondamentaux en matière de protection des résidences principales :
 

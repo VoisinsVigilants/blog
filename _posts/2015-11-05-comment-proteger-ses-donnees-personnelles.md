@@ -7,11 +7,7 @@ layout: post
 guid: http://blog.voisinsvigilants.org/?p=1447
 permalink: /blog/comment-proteger-ses-donnees-personnelles/
 categories:
-  - Protection/prevention
-tags:
-  - donnees personnelles
-  - sauvegarde
-  - voisins vigilants
+  - Protection - Prevention
 ---
 <p style="text-align: justify;">
   <strong><span style="color: #000000;"><strong><span>Tous les jeudi, nous vous indiquons une solution pour lutter contre les cambriolages. Aujourd&rsquo;hui, nous vous présentons 4 solutions pour protéger vos données personnelles. </span></strong>Si un cambriolage entraîne la perte de bijoux, œuvres d&rsquo;art ou appareils high-tech, les cambrioleurs pourraient bien rechercher autre chose&#8230; comme vos données et documents personnels stockés sur votre ordinateur ! Moins connu que le vol d’objets, le vol de données est une réalité qui peut porter un important préjudice à la victime. Comment bien protéger vos données personnelles ?</span></strong>

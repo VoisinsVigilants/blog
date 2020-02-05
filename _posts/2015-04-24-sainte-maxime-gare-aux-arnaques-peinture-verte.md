@@ -7,7 +7,9 @@ layout: post
 guid: http://blog.voisinsvigilants.org/?p=575
 permalink: /blog/sainte-maxime-gare-aux-arnaques-peinture-verte/
 categories:
-  - Technique de vol
+  - Presse
+  - Techniques de vol
+tags:  
   - Var matin
 ---
 <a style="color: #1155cc;" href="http://www.varmatin.com/saint-tropez/sainte-maxime-gare-aux-arnaques-a-la-peinture-verte.2121881.html" target="_blank">http://www.varmatin.com/saint-<wbr />tropez/sainte-maxime-gare-aux-<wbr />arnaques-a-la-peinture-verte.<wbr />2121881.html</a>

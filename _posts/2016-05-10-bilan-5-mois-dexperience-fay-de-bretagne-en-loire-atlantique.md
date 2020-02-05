@@ -7,8 +7,9 @@ layout: post
 guid: http://blog.voisinsvigilants.org/?p=2557
 permalink: /blog/bilan-5-mois-dexperience-fay-de-bretagne-en-loire-atlantique/
 categories:
-  - Breizh-info
+  - Presse
 tags:
+  - Breizh-info
   - Fay-de-Bretagne
   - Mairie Vigilante et Solidaire
   - Voisins Vigilants et Solidaires
@@ -17,7 +18,7 @@ tags:
   <strong>Le dispositif des Voisins Vigilants, censé développer l’implication des citoyens dans leur environnement direct pour contrecarrer l’explosion du nombre de cambriolages et de démarchages douteux, ne cesse de s’étendre.</strong>
 </p>
 
-[<img class="aligncenter" src="./../../images/5/2016/05/la-mairie-vigilante-la-rencontre-des-citoyens1.jpg" alt="La Mairie Vigilante et Solidaire" />](./../../images/5/2016/05/la-mairie-vigilante-la-rencontre-des-citoyens1.jpg)
+[<img class="aligncenter" src="./../../images/sites/5/2016/05/la-mairie-vigilante-la-rencontre-des-citoyens1.jpg" />](./../../images/sites/5/2016/05/la-mairie-vigilante-la-rencontre-des-citoyens1.jpg)
   
 
 <p style="color: #000000; text-align: justify;">

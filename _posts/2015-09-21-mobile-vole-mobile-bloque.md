@@ -7,12 +7,12 @@ layout: post
 guid: http://blog.voisinsvigilants.org/?p=961
 permalink: /blog/mobile-vole-mobile-bloque/
 categories:
-  - Protection/prevention
+  - Protection - Prevention
 tags:
   - Prevention
   - protection
   - telephone portable
-  - voisins vigilants
+  - Voisins Vigilants et Solidaires
   - vol
 ---
 <p style="text-align: justify;">

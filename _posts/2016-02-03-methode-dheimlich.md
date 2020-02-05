@@ -7,11 +7,7 @@ layout: post
 guid: http://blog.voisinsvigilants.org/?p=2249
 permalink: /blog/methode-dheimlich/
 categories:
-  - Santé
-tags:
-  - étouffement
-  - santé
-  - voisins vigilants
+  - Sante
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mzqP_SaVdLI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

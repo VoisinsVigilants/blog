@@ -7,10 +7,7 @@ layout: post
 guid: http://blog.voisinsvigilants.org/?p=1966
 permalink: /blog/arret-cardiaque-3-gestes-peuvent-sauver-vie/
 categories:
-  - Santé
-tags:
-  - Arrêt cardiaque
-  - voisins vigilants
+  - Sante
 ---
 <p style="text-align: justify;">
   <span style="color: #000000;">Chaque année en France, plus de 50 000 personnes décèdent d’un arrêt cardiaque faute d’une prise en charge rapide. Sans une prise en charge immédiate, plus de 90 % des arrêts cardiaques sont fatals. L’intervention dans les toutes premières minutes des témoins de la scène, avant l’arrivée des secours, est déterminante pour la survie de la victime, et pour lui éviter des séquelles graves. Chaque minute perdue, c’est 10% de chances de survie en moins. </span><strong>Trois gestes simples font toute la différence : appeler les secours, pratiquer le massage cardiaque, défibriller le cœur. 3 gestes qui peuvent sauver une vie. Aujourd&rsquo;hui, démonstration en vidéo du massage cardiaque.</strong>

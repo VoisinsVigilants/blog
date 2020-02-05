@@ -7,11 +7,7 @@ layout: post
 guid: http://blog.voisinsvigilants.org/?p=2030
 permalink: /blog/comment-utiliser-defibrillateur-2/
 categories:
-  - Santé
-tags:
-  - Arrêt cardiaque
-  - défibrillateur
-  - voisins vigilants
+  - Sante
 ---
 <p style="text-align: justify;">
   <span style="color: #000000;">Dans de nombreux cas d&rsquo;arrêt cardiaque, le cœur continue de battre mais le rythme des battements est tellement anormal que les contractions cardiaques sont inefficaces. Quand le cœur ne peut plus assumer sa fonction de pompe sanguine, on parle alors de </span><b style="font-style: inherit;">fibrillation</b><span style="color: #000000;">. </span>

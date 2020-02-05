@@ -7,11 +7,12 @@ layout: post
 guid: http://blog.voisinsvigilants.org/?p=1506
 permalink: /blog/masny-apres-plusieurs-actes-delinquance-commune-lance-les-voisins-vigilants/
 categories:
-  - La Voix du Nord
+  - Presse
 tags:
+  - La Voix du Nord
   - Masny
   - Securite
-  - voisins vigilants
+  - Voisins Vigilants et Solidaires
 ---
 [<img class="wp-image-1507 alignleft" src="http://blog.voisinsvigilants.org/wp-content/uploads/2015/10/logo-la-voix-du-nord-1.jpg" alt="logo-la-voix-du-nord (1)" width="830" height="139" />](http://blog.voisinsvigilants.org/wp-content/uploads/2015/10/logo-la-voix-du-nord-1.jpg)
 

@@ -8,10 +8,7 @@ guid: http://blog.voisinsvigilants.org/?p=2780
 permalink: /blog/monoxyde-carbone-attention-danger/
 categories:
   - Conseils
-tags:
-  - monoxyde de carbone
-  - santé
-  - voisins vigilants
+  - Sante
 ---
 <div style="color: #4b5ebd; text-align: justify;">
   <strong><span style="color: #000000;">Lorsque les températures baissent, les risques d’intoxication au monoxyde de carbone (CO) augmentent. Invisible, inodore et non irritant, ce gaz est indétectable. Les intoxications au monoxyde de carbone font partie des accidents qui pourraient être facilement évités.</span></strong>

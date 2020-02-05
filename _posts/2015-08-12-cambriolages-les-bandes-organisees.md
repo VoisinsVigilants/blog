@@ -7,16 +7,7 @@ layout: post
 guid: http://blog.voisinsvigilants.org/?p=744
 permalink: /blog/cambriolages-les-bandes-organisees/
 categories:
-  - Technique de cambriolage
-tags:
-  - bandes organisées
-  - bienveillance
-  - cambriolage
-  - Prévention
-  - protection
-  - solidarite
-  - voisins vigilants
-  - vol
+  - Techniques de cambriolage
 ---
 <p style="text-align: justify;">
   <strong style="color: #000000;">Près de la moitié des cambriolages sont le fait d&rsquo;une bande organisée itinérante qui repère les lieux avant d&rsquo;agir. 70 % d&rsquo;entre eux sont d&rsquo;origine étrangère.</strong>

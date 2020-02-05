@@ -7,13 +7,12 @@ layout: post
 guid: http://blog.voisinsvigilants.org/?p=948
 permalink: /blog/ville-royan-dit-finalement-aux-voisins-vigilants/
 categories:
-  - Sud Ouest
+  - Presse
 tags:
-  - association
-  - bienveillance
-  - Royan
-  - solidarite
-  - voisins vigilants
+  - Sud Ouest
+  - Association
+  - Bienveillance
+  - Voisins Vigilants et Solidaires
 ---
 <p style="text-align: justify;">
   <strong>Des panneaux viennent d’être installés aux entrées stratégiques du quartier, côté Royan. Un œil jaune prévient de la mise en place du dispositif de surveillance.</strong>

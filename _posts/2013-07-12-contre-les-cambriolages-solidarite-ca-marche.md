@@ -7,14 +7,11 @@ layout: post
 guid: http://blog.voisinsvigilants.org/?p=267
 permalink: /blog/contre-les-cambriolages-solidarite-ca-marche/
 categories:
-  - Le Figaro
   - Presse
-  - Témoignage
+  - Temoignage
 tags:
-  - cambriolages
-  - solidarite de voisinage
-  - voisins vigilants
-  - www.voisinsvigilants.org
+  - Le Figaro
+  - Cambriolages
 ---
 <a href="http://blog.voisinsvigilants.org/presse/wp-content/uploads/sites/5/2013/07/Le-Figaro-Web.jpg" target="_blank"><img class="alignnone size-full wp-image-457" src="http://blog.voisinsvigilants.org/presse/wp-content/uploads/sites/5/2013/07/Le-Figaro-Web-small.jpg" alt="De la solidarité pour lutter contre les cambriolages" width="764" height="477" /></a>
 

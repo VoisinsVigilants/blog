@@ -7,10 +7,9 @@ layout: post
 guid: http://blog.voisinsvigilants.org/?p=1790
 permalink: /blog/centre-daide-voisins-vigilants/
 categories:
-  - "Centre d'aide"
+  - News
 tags:
-  - "Centre d'aide"
-  - voisins vigilants
+    - Voisins Vigilants et Solidaires
 ---
 <p style="text-align: justify;">
   <strong>Obtenez des réponses instantanées à toutes vos questions et apprenez à utiliser la plateforme de communication Voisins Vigilants  grâce à notre centre d&rsquo;aide !</strong>

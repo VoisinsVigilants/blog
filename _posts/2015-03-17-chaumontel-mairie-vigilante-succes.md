@@ -9,10 +9,7 @@ permalink: /blog/chaumontel-mairie-vigilante-succes/
 categories:
   - Mairie Vigilante et Solidaire
 tags:
-  - Chaumontel
-  - communication
-  - entraide
-  - habitants
+  - Entraide
   - Mairie Vigilante et Solidaire
   - Voisins Vigilants et Solidaires
 ---

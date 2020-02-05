@@ -7,14 +7,9 @@ layout: post
 guid: http://blog.voisinsvigilants.org/?p=898
 permalink: /blog/teleassistance-maintien-domicile-personnes-agees/
 categories:
-  - Conseils sécurité
+  - Conseils
 tags:
-  - bienveillance
-  - Prévention
-  - protection
-  - solidarite
-  - téléassistance
-  - voisins vigilants
+  - Bienveillance
 ---
 <p style="text-align: justify;">
   <strong>La téléassistance est la solution idéale pour assurer le maintien à domicile des personnes âgées tout en garantissant leur sécurité.</strong>

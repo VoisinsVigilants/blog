@@ -7,14 +7,13 @@ layout: post
 guid: http://blog.voisinsvigilants.org/?p=736
 permalink: /blog/cambriolages-infos-bons-conseils/
 categories:
-  - Protection/prévention
+  - Protection - Prevention
 tags:
-  - cambriolage
-  - conseils
-  - Prévention
-  - protection
-  - solidarite
-  - voisins vigilants
+  - Ccambriolage
+  - Conseils
+  - Prevention
+  - Protection
+  - Voisins Vigilants et Solidaires
 ---
 <p style="text-align: justify;">
   <strong style="color: #000000;">Les cambrioleurs ne prennent pas de vacances, au contraire, ils profitent des vôtres. Voici quelques conseils pour vous prémunir des cambriolages.</strong>

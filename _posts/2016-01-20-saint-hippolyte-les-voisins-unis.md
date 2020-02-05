@@ -7,11 +7,7 @@ layout: post
 guid: http://blog.voisinsvigilants.org/?p=2129
 permalink: /blog/saint-hippolyte-les-voisins-unis/
 categories:
-  - entraide
-tags:
-  - solidarite
-  - voisins
-  - voisins vigilants
+  - Entraide
 ---
 <p style="text-align: justify;">
   <strong>S&rsquo;entendre avec ses voisins, ce n&rsquo;est pas uniquement veiller sur les maisons des uns et des autres. C&rsquo;est aussi passer des moments conviviaux, ensemble, comme le montre une communauté de voisins à Saint-Hippolyte.</strong>

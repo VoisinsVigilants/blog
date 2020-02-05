@@ -7,9 +7,10 @@ layout: post
 guid: http://blog.voisinsvigilants.org/?p=404
 permalink: /blog/commune-dalleins-13-devenue-mairie-vigilante/
 categories:
-  - La Provence
-  - PACA
+  - Presse
 tags:
+  - PACA
+  - La Provence
   - Alleins
   - Mairie Vigilante et Solidaire
   - Voisins Vigilants et Solidaires

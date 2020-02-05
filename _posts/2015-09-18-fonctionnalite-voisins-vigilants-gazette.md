@@ -7,13 +7,7 @@ layout: post
 guid: http://blog.voisinsvigilants.org/?p=933
 permalink: /blog/fonctionnalite-voisins-vigilants-gazette/
 categories:
-  - Voisins Vigilants
-tags:
-  - fonctionnalité
-  - gazette
-  - site internet
-  - voisins
-  - voisins vigilants
+  - Voisins Vigilants et Solidaires
 ---
 <p style="text-align: justify;">
   <span style="color: #000000;"><strong>La Gazette offre à tous les Voisins Vigilants de votre quartier un espace de communication un peu comme s&rsquo;il s&rsquo;agissait d&rsquo;un journal de quartier dont chaque voisin pourrait en être l&rsquo;auteur. </strong></span>

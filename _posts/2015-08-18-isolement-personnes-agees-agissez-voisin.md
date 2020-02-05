@@ -7,13 +7,10 @@ layout: post
 guid: http://blog.voisinsvigilants.org/?p=701
 permalink: /blog/isolement-personnes-agees-agissez-voisin/
 categories:
-  - Conseils de voisinage
+  - Conseils
 tags:
-  - bienveillance
-  - entraide
-  - solidarite
-  - voisinage
-  - voisins vigilants
+  - Bienveillance
+  - Entraide
 ---
 <p style="text-align: justify;">
   <span style="color: #000000;"><strong>Aujourd’hui, l’isolement des personnes âgées est de plus en plus criant, et ce aussi bien en ville qu’en milieu rural… Comment ces hommes et ces femmes en arrivent à un tel délitement du lien social ? A notre échelle de simple voisin que pouvons-nous faire pour y remédier ?</strong></span>

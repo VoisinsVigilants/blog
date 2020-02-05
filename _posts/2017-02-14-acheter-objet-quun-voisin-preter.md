@@ -7,12 +7,7 @@ layout: post
 guid: http://blog.voisinsvigilants.org/?p=2734
 permalink: /blog/acheter-objet-quun-voisin-preter/
 categories:
-  - Conseils de voisinage
-tags:
-  - "échange d'objets"
-  - entraide
-  - "Prêt d'objets"
-  - voisins vigilants
+  - Conseils
 ---
 <div style="color: #4b5ebd; text-align: justify;">
   <span style="color: #000000;"><strong>Nous avons tous chez nous des objets que nous utilisons très peu de fois dans l’année. Nos placards regorgent de biens comme des outils de bricolage, l’appareil à fondue, la tente, les boules de pétanque&#8230; Alors pourquoi ne pas les partager avec nos voisins ?</strong> </span>

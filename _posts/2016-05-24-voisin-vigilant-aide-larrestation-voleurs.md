@@ -7,8 +7,9 @@ layout: post
 guid: http://blog.voisinsvigilants.org/?p=2576
 permalink: /blog/voisin-vigilant-aide-larrestation-voleurs/
 categories:
-  - La Dépêche
+  - Presse
 tags:
+  - La Depeche
   - Bienveillance
   - Cambrioleurs
   - Entraide

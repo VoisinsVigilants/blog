@@ -7,10 +7,10 @@ layout: post
 guid: http://blog.voisinsvigilants.org/?p=2454
 permalink: /blog/le-reseau-voisins-vigilants-se-developpe/
 categories:
-  - Sud Ouest
+  - Presse
 tags:
-  - sondage
-  - voisins vigilants
+  - Sud Ouest
+  - Voisins Vigilants et Solidaires
 ---
 <p style="color: black; text-align: justify;">
   <strong>Voici les résultats du sondage sur le dispositif Voisins Vigilants réalisé par le journal Sud Ouest.</strong>

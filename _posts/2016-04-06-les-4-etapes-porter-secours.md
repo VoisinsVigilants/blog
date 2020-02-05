@@ -7,11 +7,7 @@ layout: post
 guid: http://blog.voisinsvigilants.org/?p=2519
 permalink: /blog/les-4-etapes-porter-secours/
 categories:
-  - Santé
-tags:
-  - gestes de premiers secours
-  - santé
-  - voisins vigilants
+  - Sante
 ---
 <p style="text-align: justify;">
   <span style="color: #000000;"><strong>Près de 20 000 personnes meurent chaque année, en France, d&rsquo;accidents dans un environnement familier (à la maison, sur les routes, au travail…). Le temps que mettent les secours pour arriver peut aggraver l’état de la victime. C&rsquo;est donc pendant ce laps de temps qu’il faut agir !</strong></span>

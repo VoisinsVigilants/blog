@@ -10,7 +10,6 @@ categories:
   - Techniques de reperage
 tags:
   - Securite
-  - Technique de reperage
 ---
 **Les malfaiteurs ne sont jamais à court d&rsquo;idées de nouvelles techniques de cambriolage et de repérage. Connaissiez-vous celle consistant à la localisation des poubelles  non ramassées devant les habitations ? **
 

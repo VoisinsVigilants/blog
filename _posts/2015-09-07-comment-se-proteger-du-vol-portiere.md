@@ -7,14 +7,11 @@ layout: post
 guid: http://blog.voisinsvigilants.org/?p=922
 permalink: /blog/comment-se-proteger-du-vol-portiere/
 categories:
-  - Technique de cambriolage
+  - Techniques de cambriolage
+  - Protection - Prevention
 tags:
-  - bienveillance
-  - cambriolage
-  - Prévention
-  - protection
-  - voisins vigilants
-  - vol à la portière
+  - Bienveillance
+  - Voisins Vigilants et Solidaires
 ---
 <p style="text-align: justify;">
   <span style="color: #000000;"><strong>Les voitures neuves sont aujourd’hui équipées d’anti-vols perfectionnés qui ont poussé les voleurs à employer une nouvelle technique de vol : le vol à la portière. Voici quelques précautions à prendre… </strong></span>

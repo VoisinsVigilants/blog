@@ -7,10 +7,7 @@ layout: post
 guid: http://blog.voisinsvigilants.org/?p=2306
 permalink: /blog/nogent-teste-les-voisins-vigilants-lun-ses-quartiers/
 categories:
-  - Voisins Vigilants
-tags:
-  - Nogent
-  - voisins vigilants
+  - Voisins Vigilants et Solidaires
 ---
 <p style="text-align: justify;">
   <span style="color: #000000;"><strong>Une voiture qui rôde dans votre quartier, la porte d’un voisin qui semble ouverte, un trou dans la chaussée qui s’avère dangereux, un tas d’immondices dans votre rue… Les raisons d’envoyer un SMS ou un e-mail à vos voisins et à la police municipale ne manquent pas quand vous avez accepté de devenir « voisin vigilant ». </strong></span>

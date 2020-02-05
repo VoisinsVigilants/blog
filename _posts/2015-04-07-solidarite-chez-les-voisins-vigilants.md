@@ -9,11 +9,9 @@ permalink: /blog/solidarite-chez-les-voisins-vigilants/
 categories:
   - News
 tags:
-  - convivialite
-  - entraide
-  - jeu-concours
-  - partage
-  - voisins vigilants
+  - Convivialite
+  - Entraide
+  - voisins vigilants et Solidaires
 ---
 ## <span style="color: #000000;">C&rsquo;est vous qui le dites : être Voisin Vigilant, ce n&rsquo;est pas seulement lutter contre les cambriolages. C&rsquo;est aussi de la solidarité, de l&rsquo;entraide, du partage, de l&rsquo;amitié !</span>
 

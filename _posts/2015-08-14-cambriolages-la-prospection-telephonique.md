@@ -7,14 +7,12 @@ layout: post
 guid: http://blog.voisinsvigilants.org/?p=698
 permalink: /blog/cambriolages-la-prospection-telephonique/
 categories:
-  - Technique de cambriolage
+  - Techniques de cambriolage
 tags:
-  - bienveillance
+  - Bienveillance
   - Prévention
   - protection
-  - solidarite
-  - Technique de cambriolage
-  - voisins vigilants
+  - Voisins Vigilants et Solidaires
 ---
 <p style="text-align: justify;">
   <strong style="color: #000000;">Ils vous contactent par téléphone et se font passer pour des ramoneurs, couvreurs, électriciens, plombiers, agents EDF ou GDF pour se renseigner et ainsi pouvoir pénétrer dans votre logement en journée. Ils repèrent puis passeront à l&rsquo;action dans les prochains jours voire le jour même de leur intervention. La technique de la prospection téléphonique est très répandue chez les cambrioleurs, l&rsquo;équipe de Voisins Vigilants vous en parle aujourd&rsquo;hui.</strong>

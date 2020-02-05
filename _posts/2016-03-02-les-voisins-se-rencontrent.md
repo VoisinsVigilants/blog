@@ -7,12 +7,7 @@ layout: post
 guid: http://blog.voisinsvigilants.org/?p=2420
 permalink: /blog/les-voisins-se-rencontrent/
 categories:
-  - Voisins Vigilants
-tags:
-  - communauté de voisins
-  - convivialite
-  - solidarite
-  - voisins vigilants
+  - Voisins Vigilants et Solidaires
 ---
 <p style="text-align: justify;">
   <span style="color: #000000;"><strong>On peut habiter un quartier depuis de nombreuses années sans pour autant connaître tous ses voisins. C&rsquo;est bien pour remédier à ça qu&rsquo;une référente d&rsquo;une communauté de voisins vigilants à Saint-Raphaël, Michelle, a organisé un repas de quartier dimanche après-midi. Une quarantaine de voisins vigilants y ont participé.</strong></span>

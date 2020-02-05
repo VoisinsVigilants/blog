@@ -7,14 +7,12 @@ layout: post
 guid: http://blog.voisinsvigilants.org/?p=662
 permalink: /blog/rehon-voisins-loeil/
 categories:
-  - Le Républicain Lorrain
+  - Presse
 tags:
-  - bienveillance
-  - entraide
-  - Réhon
-  - solidarite
-  - Vigilance
-  - voisins vigilants
+  - Le Républicain Lorrain
+  - Bienveillance
+  - Entraide
+  - Voisins Vigilants et Solidaires
 ---
 [<img class="aligncenter  wp-image-663" src="http://blog.voisinsvigilants.org/wp-content/uploads/2015/07/jean-pierre-weber-premier-adjoint-est-l-un-des-trois-elus-referents-de-la-commune-pour-l-operation-voisins-vigilants-photo-samuel-moreau.jpg" alt="jean-pierre-weber-premier-adjoint-est-l-un-des-trois-elus-referents-de-la-commune-pour-l-operation-voisins-vigilants-photo-samuel-moreau" width="649" height="388" />](http://blog.voisinsvigilants.org/wp-content/uploads/2015/07/jean-pierre-weber-premier-adjoint-est-l-un-des-trois-elus-referents-de-la-commune-pour-l-operation-voisins-vigilants-photo-samuel-moreau.jpg)
 

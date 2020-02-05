@@ -10,7 +10,7 @@ categories:
   - Protection - Prevention
 tags:
   - Bienveillance
-  - cambriolage
+  - Cambriolage
   - Prevention
   - Voisins Vigilants et Solidaires
 ---

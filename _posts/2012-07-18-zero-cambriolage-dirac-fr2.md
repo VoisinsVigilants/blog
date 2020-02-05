@@ -10,8 +10,6 @@ categories:
   - TV
 tags:
   - France 2
-  - Angouleme
-  - Charentes
   - Temoignage
   - Voisins Vigilants et Solidaires
 ---

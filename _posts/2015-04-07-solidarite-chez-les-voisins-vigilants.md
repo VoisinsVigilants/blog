@@ -11,7 +11,7 @@ categories:
 tags:
   - Convivialite
   - Entraide
-  - voisins vigilants et Solidaires
+  - Voisins Vigilants et Solidaires
 ---
 ## <span style="color: #000000;">C&rsquo;est vous qui le dites : être Voisin Vigilant, ce n&rsquo;est pas seulement lutter contre les cambriolages. C&rsquo;est aussi de la solidarité, de l&rsquo;entraide, du partage, de l&rsquo;amitié !</span>
 

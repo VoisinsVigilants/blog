@@ -16,11 +16,10 @@ categories:
   - TV
 tags:
   - TF1
-  - autocollants dissuasifs
+  - Autocollants dissuasifs
   - Dissuasion
-  - Panneaux Voisins Vigilants
+  - Panneaux Voisins Vigilants et Solidaires
   - Participation Citoyenne
-  - Var
 ---
 <div style="width: 640px; max-width: 100%;" class="wp-video">
   <!--[if lt IE 9]><![endif]--><video class="wp-video-shortcode" id="video-189-1" width="640" height="360" preload="metadata" controls="controls"><source type="video/mp4" src="http://www.voisinsvigilants.org/video/tf1.mp4?_=1" />

@@ -10,8 +10,8 @@ categories:
   - Techniques de cambriolage
 tags:
   - Bienveillance
-  - Prévention
-  - protection
+  - Prevention
+  - Protection
   - Voisins Vigilants et Solidaires
 ---
 <p style="text-align: justify;">

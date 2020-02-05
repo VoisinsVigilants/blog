@@ -10,7 +10,6 @@ categories:
   - Arnaque
 tags:
   - Arnaque
-  - Calendriers
   - Securite
   - Voisins Vigilants et Solidaires
 ---

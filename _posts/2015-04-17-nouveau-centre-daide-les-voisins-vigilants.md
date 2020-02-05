@@ -11,7 +11,7 @@ categories:
 tags:
   - Convivialite
   - Entraide
-  - voisins vigilants et Solidaires
+  - Voisins Vigilants et Solidaires
 ---
 <h1 style="text-align: center;">
   <span style="color: #ffcc00;">Le tout nouveau centre d&rsquo;aide est en ligne ! </span>

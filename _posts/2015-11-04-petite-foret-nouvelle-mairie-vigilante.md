@@ -11,7 +11,6 @@ categories:
 tags:
   - La Voix du Nord
   - Mairie Vigilante et Solidaire
-  - Petite-Foret
   - Voisins Vigilants et Solidaires
 ---
 [<img class="aligncenter  wp-image-1369" src="http://blog.voisinsvigilants.org/wp-content/uploads/2015/10/logo-la-voix-du-nord.jpg" alt="logo-la-voix-du-nord" width="898" height="170" />](http://blog.voisinsvigilants.org/wp-content/uploads/2015/10/logo-la-voix-du-nord.jpg)

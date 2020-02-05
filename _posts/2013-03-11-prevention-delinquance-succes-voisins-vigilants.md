@@ -9,7 +9,6 @@ permalink: /blog/prevention-delinquance-succes-voisins-vigilants/
 categories:
   - Presse
 tags:
-  - Alsace
   - La Gazette des Communes
 ---
 <img class="size-medium wp-image-137 alignleft" src="http://blog.voisinsvigilants.org/wp-content/uploads/2014/09/Logo-300x99.jpg" alt="Logo" width="300" height="99" />

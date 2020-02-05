@@ -10,7 +10,7 @@ categories:
   - Protection - Prevention
 tags:
   - Prevention
-  - protection
+  - Protection
   - Voisins Vigilants et Solidaires
 ---
 <p style="text-align: justify;">

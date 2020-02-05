@@ -12,8 +12,7 @@ categories:
 tags:
   - La Croix
   - Delinquance
-  - Prevention des cambriolages
-  - Statistiques
+  - Prevention
   - Temoignage
 ---
 <img class="alignnone wp-image-232 size-medium" src="http://blog.voisinsvigilants.org/wp-content/uploads/2014/09/Logo-La-Croix-300x72.jpg" alt="Logo La Croix" width="300" height="72" />

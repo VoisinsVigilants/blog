@@ -8,8 +8,6 @@ guid: http://blog.voisinsvigilants.org/?p=582
 permalink: /blog/top-25-messages-voisins-les-plus-droles/
 categories:
   - Voisins Vigilants et Solidaires
-tags:
-  - humour
 ---
 Aujourd&rsquo;hui, l&rsquo;équipe des Voisins Vigilants vous fait partager le top 25 des messages de voisins les plus drôles ! Alors, quel message est votre favori ? Source : [chersvoisins](http://chersvoisins.tumblr.com/)
   

@@ -10,7 +10,6 @@ categories:
   - Presse
 tags:
   - Le Journal Catalan
-  - Canet-en-Roussillon
   - Securite
   - Voisins Vigilants et Solidaires
 ---

@@ -11,7 +11,6 @@ categories:
 tags:
   - TF1
   - Bienveillance
-  - Finistere
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/14_6uQsF-Tg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

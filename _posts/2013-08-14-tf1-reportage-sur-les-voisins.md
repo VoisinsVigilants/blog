@@ -11,7 +11,7 @@ categories:
   - Temoignage
 tags:
   - TF1
-  - Mairie
+  - Mairie Vigilante et Solidaire
   - Police
 ---
 Les Voisins Vigilants s&rsquo;organisent et s&rsquo;allient aux Forces de l&rsquo;Ordre. Témoignage d&rsquo;un référent et du Chef de la Police Municipale de Fayence  

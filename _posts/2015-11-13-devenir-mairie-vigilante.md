@@ -9,7 +9,6 @@ permalink: /blog/devenir-mairie-vigilante/
 categories:
   - Mairie Vigilante et Solidaire
 tags:
-  - dispositif voisins vigilants
   - Mairie Vigilante et Solidaire
 ---
 

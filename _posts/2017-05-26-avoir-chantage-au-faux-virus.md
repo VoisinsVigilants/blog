@@ -10,7 +10,6 @@ categories:
   - Securite
 tags:
   - Arnaque
-  - Ordinateur
   - Virus
 ---
 ##### **Dans un article publié le 30 mars, le site 60 millions de consommateurs nous met en garde contre les arnaques aux faux virus qui ont pour but de vous faire perdre ou de vous réclamer de l’argent**

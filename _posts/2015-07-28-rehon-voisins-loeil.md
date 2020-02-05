@@ -9,7 +9,7 @@ permalink: /blog/rehon-voisins-loeil/
 categories:
   - Presse
 tags:
-  - Le Républicain Lorrain
+  - Le Republicain Lorrain
   - Bienveillance
   - Entraide
   - Voisins Vigilants et Solidaires

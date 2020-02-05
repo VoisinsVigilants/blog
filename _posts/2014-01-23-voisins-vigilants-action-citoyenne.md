@@ -10,9 +10,8 @@ categories:
   - TV
   - Temoignage
 tags:
-  - 'i&gt;télé'
+  - i tele
   - Initiative citoyenne
-  - Nord
   - Prevention des cambriolages
 ---
 Après avoir été victimes de nombreux cambriolages, les habitants d&rsquo;un quartier de Wattrelos, près de Lille, ont décidé de devenir Voisins Vigilants. Pour eux, le dispositif s&rsquo;impose comme une action citoyenne vouée à ramener la sécurité autour de chez eux.

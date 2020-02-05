@@ -11,10 +11,7 @@ categories:
   - Techniques de cambriolage
   - Techniques de reperage
 tags:
-  - cambriolage
-  - home-jacking
-  - technique
-  - Vigilance
+  - Cambriolage
 ---
 <em style="font-style: italic; color: #555555;">© </em><span style="color: #000000;">PHOTO Y. MIGNOT/PQR SUD OUEST</span>
 

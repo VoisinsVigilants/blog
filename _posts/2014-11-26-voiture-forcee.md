@@ -9,8 +9,7 @@ permalink: /blog/voiture-forcee/
 categories:
   - Techniques de reperage
 tags:
-  - cambriolage
-  - Voiture
+  - Cambriolage
 ---
 Les cambrioleurs entrent dans votre voiture en faisant un simple petit trou dans votre portière. **Ils ne la volent pas et ne volent rien** de remarquable mais ils recueillent une information précieuse : votre adresse.
   

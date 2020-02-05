@@ -9,7 +9,6 @@ permalink: /blog/9-techniques-vol-carte-bancaire/
 categories:
   - Techniques de vol
 tags:
-  - carte bancaire
   - Voisins Vigilants et Solidaires
 ---
 <p style="text-align: justify;">

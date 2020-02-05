@@ -9,8 +9,7 @@ permalink: /blog/dispositif-voisins-vigilants-solidaires-reponse-efficace-contre
 categories:
   - Temoignage
 tags:
-  - cambriolage
-  - solidaires
+  - Cambriolage
 ---
 ##### Monsieur SALLE Stéphane, habitant de la commune de Montévrain en Seine et Marne, a rejoint le dispositif Voisins Vigilants et Solidaires en 2016. Grace au système d’alertes SMS, proposé par Voisins Vigilants et Solidaires, les forces de l’ordre ont pu mettre fin à un repérage du garage de son immeuble en vue d’un cambriolage.
 

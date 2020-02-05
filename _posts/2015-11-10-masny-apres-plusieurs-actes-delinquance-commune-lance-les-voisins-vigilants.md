@@ -10,7 +10,6 @@ categories:
   - Presse
 tags:
   - La Voix du Nord
-  - Masny
   - Securite
   - Voisins Vigilants et Solidaires
 ---

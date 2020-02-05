@@ -10,9 +10,8 @@ categories:
   - Presse
   - Temoignage
 tags:
-  - La Parisien
+  - Le Parisien
   - Autocollants dissuasifs
-  - PACA
   - Panneaux Voisins Vigilants et Solidaires
 ---
 <a href="http://blog.voisinsvigilants.org/presse/wp-content/uploads/sites/5/2014/09/Article-LE-PARISIEN-1.jpg" target="_blank"><img class="alignnone wp-image-367" src="http://blog.voisinsvigilants.org/presse/wp-content/uploads/sites/5/2014/09/Article-LE-PARISIEN-1-1024x672.jpg" alt="objectif zéro cambriolage 1" width="700" height="460" /></a>

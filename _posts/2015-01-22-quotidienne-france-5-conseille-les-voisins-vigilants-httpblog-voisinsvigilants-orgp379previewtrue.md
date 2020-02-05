@@ -12,10 +12,8 @@ categories:
 tags:
   - Cambriolage
   - France 5
-  - Maison
   - Reportage
   - Securite
-  - Television
   - Voisins Vigilants et Solidaires
 ---
 **En plus de leur reportage sur les Voisins Vigilants que La Quotidienne a diffusé ce midi (nous mettrons bientôt la vidéo en ligne) consacrée à la sécurité dans la maison,  la chaîne a publié un article qui cite les Voisins Vigilants**® **comme dispositif à adopter ! **

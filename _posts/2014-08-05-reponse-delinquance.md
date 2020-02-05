@@ -12,7 +12,6 @@ tags:
   - L Abecedaire
   - Delinquance
   - Mairie Vigilante et Solidaire
-  - Politique
 ---
 <div id="attachment_222" style="width: 1010px" class="wp-caption alignnone">
   <a href="http://blog.voisinsvigilants.org/wp-content/uploads/2014/09/Abécédaire-small.jpg"><img class="wp-image-222" src="http://blog.voisinsvigilants.org/wp-content/uploads/2014/09/Abécédaire-small.jpg" alt="Voisins Vigilants : efficace face à la délinquance dans les campagnes... mais aussi en villes !" width="1000" height="700" /></a>

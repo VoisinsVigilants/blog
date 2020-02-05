@@ -9,9 +9,7 @@ permalink: /blog/zoom-phenomene-voisins-vigilants/
 categories:
   - Presse
 tags:
-  - Allier
   - Communautes
-  - Vichy
 ---
 <img class="aligncenter size-medium wp-image-123" src="http://blog.voisinsvigilants.org/wp-content/uploads/2014/09/Grazia-logo-300x92.jpg" alt="Grazia-logo" width="300" height="92" />
 

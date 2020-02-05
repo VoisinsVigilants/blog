@@ -8,8 +8,6 @@ guid: http://blog.voisinsvigilants.org/?p=3268
 permalink: /blog/reunion-voisins-vigilants-communaute-castelet-montfavet/
 categories:
   - Voisins Vigilants et Solidaires
-tags:
-  - Reunion
 ---
 ##### Le vendredi 08 juin 2018 les voisins vigilants de la communauté &laquo;&nbsp;le castelet&nbsp;&raquo; d&rsquo;Avignon se sont réunis pour leur première rencontre festive autour d&rsquo;un apéritif
 

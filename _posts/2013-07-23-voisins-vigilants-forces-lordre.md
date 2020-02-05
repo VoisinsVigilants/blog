@@ -10,7 +10,6 @@ categories:
   - Presse
 tags:
   - Le Figaro
-  - PACA  
 ---
 <img class="size-medium wp-image-130 alignleft" src="http://blog.voisinsvigilants.org/wp-content/uploads/2014/09/logo-300x58.jpg" alt="logo" width="300" height="58" />
 

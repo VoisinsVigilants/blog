@@ -12,7 +12,6 @@ categories:
   - Techniques de cambriolage
 tags:
   - Europe 1 
-  - Ile-de-France
   - Prevention des cambriolages
   
 ---

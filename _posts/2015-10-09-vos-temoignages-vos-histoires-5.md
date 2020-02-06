@@ -18,7 +18,7 @@ tags:
 Sylvie, membre d&rsquo;une communauté de [Voisins Vigilants](http://www.voisinsvigilants.org) à Corbeil-Essonnes, nous a raconté son histoire :
 
 <p style="text-align: justify;">
-  <a href="./../../images/2015/09/24.png"><img class="aligncenter  wp-image-1202" src="./../../images/2015/09/24.png" alt="2" width="856" height="583" /></a>
+  <a href="./../../images/2015/09/24.png"><img class="aligncenter  wp-image-1202" src="./../../images/2015/09/24.png" alt="2"/></a>
 </p>
 
 <p style="text-align: justify;">

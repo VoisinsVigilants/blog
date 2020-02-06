@@ -22,7 +22,7 @@ tags:
 
 <div style="color: #555555;">
   <p>
-    <a href="./../../images/2015/11/564075878cc34e69108b4b79.jpg"><img class="aligncenter size-full wp-image-1714" src="./../../images/2015/11/564075878cc34e69108b4b79.jpg" alt="564075878cc34e69108b4b79" width="800" height="371" /></a>
+    <a href="./../../images/2015/11/564075878cc34e69108b4b79.jpg"><img class="aligncenter size-full wp-image-1714" src="./../../images/2015/11/564075878cc34e69108b4b79.jpg" alt="564075878cc34e69108b4b79"/></a>
   </p>
 </div>
 

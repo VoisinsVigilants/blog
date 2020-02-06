@@ -12,15 +12,16 @@ tags:
   - La Voix du Nord
   - Lys-Lez-Lannoy
   - Prevention
- ---
-[<img class="aligncenter  wp-image-1407" src="./../../images/2015/10/article-nord-eclair.jpg" alt="article-nord-eclair" width="987" height="179" />](./../../images/2015/10/article-nord-eclair.jpg)
+---
+ 
+[<img class="aligncenter  wp-image-1407" src="./../../images/2015/10/article-nord-eclair.jpg" alt="article-nord-eclair" />](./../../images/2015/10/article-nord-eclair.jpg)
 
 <p class="chapo" style="color: #505050; text-align: justify;">
   <span style="color: #000000;"><strong>Un an après la mise en place du dispositif « Voisins vigilants » par la Ville, l’adjoint au maire en charge de la sécurité, François Mortier, dresse un bilan positif. Mais, avec seulement 215 inscrits depuis octobre dernier, peut-on vraiment parler de réussite ?</strong></span>
 </p>
 
 <p style="text-align: justify;">
-  <a href="./../../images/2015/10/726044290_B976533114Z.1_20150914182007_000_G9L56F7KN.1-0.jpg"><img class="aligncenter  wp-image-1405" src="./../../images/2015/10/726044290_B976533114Z.1_20150914182007_000_G9L56F7KN.1-0.jpg" alt="726044290_B976533114Z.1_20150914182007_000_G9L56F7KN.1-0" width="811" height="442" /></a>
+  <a href="./../../images/2015/10/726044290_B976533114Z.1_20150914182007_000_G9L56F7KN.1-0.jpg"><img class="aligncenter  wp-image-1405" src="./../../images/2015/10/726044290_B976533114Z.1_20150914182007_000_G9L56F7KN.1-0.jpg" alt="726044290_B976533114Z.1_20150914182007_000_G9L56F7KN.1-0"/></a>
 </p>
 
 <p style="color: #2a2a2a; text-align: justify;">

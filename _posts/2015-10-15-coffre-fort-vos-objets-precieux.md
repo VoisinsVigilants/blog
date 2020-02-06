@@ -16,7 +16,7 @@ tags:
 </p>
 
 <p style="text-align: justify;">
-  <a href="./../../images/2015/09/coffre-fort-mur.jpg-main-9352172.jpg"><img class="aligncenter  wp-image-1228" src="./../../images/2015/09/coffre-fort-mur.jpg-main-9352172.jpg" alt="coffre-fort-mur.jpg-main-9352172" width="951" height="635" /></a>
+  <a href="./../../images/2015/09/coffre-fort-mur.jpg-main-9352172.jpg"><img class="aligncenter  wp-image-1228" src="./../../images/2015/09/coffre-fort-mur.jpg-main-9352172.jpg" alt="coffre-fort-mur.jpg-main-9352172" /></a>
 </p>
 
 <h1 style="text-align: justify;">

@@ -16,7 +16,7 @@ tags:
   <span style="color: #000000;"><strong>Des petits chalets pré-fabriqués entièrement médicalisés peuvent être installés dans votre cour ou votre jardin pour accueillir vos parents âgés. Cela peut être une alternative si ces derniers refusent la maison de retraite ou n’en ont pas les moyens ! Alors comment ça marche ? </strong></span>
 </p>
 
-[<img class="aligncenter  wp-image-1113" src="./../../images/2015/09/Capture-décran-2014-04-08-16.04.001.png" alt="Capture-décran-2014-04-08-16.04.001" width="834" height="305" />](./../../images/2015/09/Capture-décran-2014-04-08-16.04.001.png)
+[<img class="aligncenter  wp-image-1113" src="./../../images/2015/09/Capture-decran-2014-04-08-16.04.001.png" alt="Capture-decran-2014-04-08-16.04.001"/>](./../../images/2015/09/Capture-decran-2014-04-08-16.04.001.png)
 
 <p style="color: #3a4149; text-align: justify;">
   <span style="color: #000000;">Afin de permettre aux <strong>personnes âgées de rester à domicile</strong>, il est désormais possible d’installer des maisonnettes design dans votre jardin afin de garder la convivialité et la proximité avec vos proches. Ces chalets sont destinés aux personnes âgées qui ne sont plus en capacité de vivre de manière autonome.</span>

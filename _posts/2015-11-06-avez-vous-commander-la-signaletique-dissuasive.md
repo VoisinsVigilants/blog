@@ -14,7 +14,7 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  <a href="./../../images/2015/11/56334ae08cc34ecd658b47d2-1.jpg"><img class="aligncenter size-full wp-image-1608" src="./../../images/2015/11/56334ae08cc34ecd658b47d2-1.jpg" alt="56334ae08cc34ecd658b47d2 (1)" width="1296" height="864" /></a>
+  <a href="./../../images/2015/11/56334ae08cc34ecd658b47d2-1.jpg"><img class="aligncenter size-full wp-image-1608" src="./../../images/2015/11/56334ae08cc34ecd658b47d2-1.jpg" alt="56334ae08cc34ecd658b47d2 (1)" /></a>
 </p>
 
 <p style="text-align: justify;">

@@ -14,7 +14,7 @@ categories:
 </p>
 
 <p style="color: #000000; text-align: justify;">
-  <a href="./../../images/2015/10/Entraide-1.jpg"><img class="aligncenter  wp-image-1516" src="./../../images/2015/10/Entraide-1.jpg" alt="Entraide 1" width="729" height="410" /></a>
+  <a href="./../../images/2015/10/Entraide-1.jpg"><img class="aligncenter  wp-image-1516" src="./../../images/2015/10/Entraide-1.jpg" alt="Entraide 1"/></a>
 </p>
 
 <p style="color: #000000; text-align: center;">

@@ -14,7 +14,7 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  <a href="./../../images/2015/10/561x360_aubagne-le-20-fevrier-2015-des-kits-de-marquage-adn-chimique-sont-distribues-la-population-pour-qu.jpg"><img class="aligncenter  wp-image-1423" src="./../../images/2015/10/561x360_aubagne-le-20-fevrier-2015-des-kits-de-marquage-adn-chimique-sont-distribues-la-population-pour-qu.jpg" alt="561x360_aubagne-le-20-fevrier-2015-des-kits-de-marquage-adn-chimique-sont-distribues-la-population-pour-qu" width="867" height="556" /></a>
+  <a href="./../../images/2015/10/561x360_aubagne-le-20-fevrier-2015-des-kits-de-marquage-adn-chimique-sont-distribues-la-population-pour-qu.jpg"><img class="aligncenter  wp-image-1423" src="./../../images/2015/10/561x360_aubagne-le-20-fevrier-2015-des-kits-de-marquage-adn-chimique-sont-distribues-la-population-pour-qu.jpg" alt="561x360_aubagne-le-20-fevrier-2015-des-kits-de-marquage-adn-chimique-sont-distribues-la-population-pour-qu" /></a>
 </p>
 
 <h2 style="color: #646464; text-align: justify;">
@@ -60,7 +60,7 @@ categories:
 </div>
 
 <div style="color: #646464; text-align: justify;">
-  <span style="color: #000000;">Les utilisateurs du marqueur pourront apposer un petit autocollant qui précise que l&rsquo;objet est marqué. Une information qui sera également visible sur les boîtes aux lettres des propriétaires.</span></p> 
+  <span style="color: #000000;">Les utilisateurs du marqueur pourront apposer un petit autocollant qui précise que l&rsquo;objet est marqué. Une information qui sera également visible sur les boîtes aux lettres des propriétaires.</span> 
   
   <h2 style="color: #3b3a3c;">
     <strong><span style="color: #000000;">Des résultats prouvés en Angleterre</span></strong>

@@ -17,7 +17,7 @@ tags:
   </p>
   
   <p class="first" style="text-align: justify;">
-    <a href="http://blog.voisinsvigilants.org/securite/wp-content/uploads/sites/6/2015/11/7776287838_il-est-desormais-possible-de-regler-ses-amendes-depuis-son-smartphone.jpg"><img class="aligncenter  wp-image-842" src="http://blog.voisinsvigilants.org/securite/wp-content/uploads/sites/6/2015/11/7776287838_il-est-desormais-possible-de-regler-ses-amendes-depuis-son-smartphone.jpg" alt="7776287838_il-est-desormais-possible-de-regler-ses-amendes-depuis-son-smartphone" width="878" height="585" /></a>
+    <a href="./../../images/2015/11/7776287838_il-est-desormais-possible-de-regler-ses-amendes-depuis-son-smartphone.jpg"><img class="aligncenter  wp-image-842" src="./../../images/2015/11/7776287838_il-est-desormais-possible-de-regler-ses-amendes-depuis-son-smartphone.jpg" alt="7776287838_il-est-desormais-possible-de-regler-ses-amendes-depuis-son-smartphone" /></a>
   </p>
   
   <p style="color: black; text-align: center;">
@@ -76,7 +76,7 @@ tags:
 </div>
 
 <div class="clear" style="text-align: justify;">
-  <a href="http://blog.voisinsvigilants.org/securite/wp-content/uploads/sites/6/2015/11/Info-escroquerie_large_medium.jpg"><img class="aligncenter size-full wp-image-838" src="http://blog.voisinsvigilants.org/securite/wp-content/uploads/sites/6/2015/11/Info-escroquerie_large_medium.jpg" alt="Info-escroquerie_large_medium" width="200" height="125" /></a>
+  <a href="./../../images/Info-escroquerie_large_medium.jpg"><img class="aligncenter size-full wp-image-838" src="./../../images/2015/11/Info-escroquerie_large_medium.jpg" alt="Info-escroquerie_large_medium" /></a>
 </div>
 
 <div class="clear" style="text-align: justify;">

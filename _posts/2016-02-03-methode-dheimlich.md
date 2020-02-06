@@ -36,7 +36,7 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  <a href="./../../images/2016/01/image_3238_m.jpg"><img class=" wp-image-2174 alignleft" src="./../../images/2016/01/image_3238_m.jpg" alt="image_3238_m" width="91" height="116" /></a>
+  <a href="./../../images/2016/01/image_3238_m.jpg"><img class=" wp-image-2174 alignleft" src="./../../images/2016/01/image_3238_m.jpg" alt="image_3238_m"/></a>
 </p>
 
 <p style="text-align: justify;">

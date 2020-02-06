@@ -19,7 +19,7 @@ tags:
 </p>
 
 <p style="text-align: justify;">
-  <a href="http://blog.voisinsvigilants.org/wp-content/uploads/2015/08/Les-numéros-durgence.jpg"><img class="aligncenter  wp-image-883" src="http://blog.voisinsvigilants.org/wp-content/uploads/2015/08/Les-numéros-durgence.jpg" alt="Les numéros d'urgence" width="885" height="499" /></a>
+  <a href="./../../images/2015/08/Les-numéros-durgence.jpg"><img class="aligncenter  wp-image-883" src="./../../images/2015/08/Les-numéros-durgence.jpg" alt="Les numéros d'urgence" width="885" height="499" /></a>
 </p>
 
 <p style="text-align: justify;">

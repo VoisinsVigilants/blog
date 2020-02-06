@@ -16,7 +16,7 @@ tags:
 </p>
 
 <p style="text-align: justify;">
-  <a href="http://blog.voisinsvigilants.org/wp-content/uploads/2015/09/alarme-maison.jpg"><img class="aligncenter size-full wp-image-984" src="http://blog.voisinsvigilants.org/wp-content/uploads/2015/09/alarme-maison.jpg" alt="alarme-maison" width="803" height="596" /></a>
+  <a href="./../../images/2015/09/alarme-maison.jpg"><img class="aligncenter size-full wp-image-984" src="./../../images/2015/09/alarme-maison.jpg" alt="alarme-maison" width="803" height="596" /></a>
 </p>
 
 <h2 style="text-align: justify;">

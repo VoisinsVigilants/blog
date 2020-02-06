@@ -11,7 +11,7 @@ categories:
 ---
 **Aujourd&rsquo;hui, l&rsquo;équipe des Voisins Vigilants vous fait découvrir une nouvelle technique de vol particulièrement sournoise : celle du brouilleur de fréquences des véhicules.**
 
-[<img class="aligncenter  wp-image-713" src="http://blog.voisinsvigilants.org/wp-content/uploads/2015/08/Le-brouilleur-de-fréquence.jpg" alt="Le brouilleur de fréquence" width="721" height="406" />](http://blog.voisinsvigilants.org/wp-content/uploads/2015/08/Le-brouilleur-de-fréquence.jpg)
+[<img class="aligncenter  wp-image-713" src="./../../images/2015/08/Le-brouilleur-de-fréquence.jpg" alt="Le brouilleur de fréquence" width="721" height="406" />](./../../images/2015/08/Le-brouilleur-de-fréquence.jpg)
 
 <h2 style="text-align: justify;">
   <strong>DESCRIPTIF </strong><strong>DE LA TECHNIQUE</strong>

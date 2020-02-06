@@ -14,7 +14,7 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  <a href="http://blog.voisinsvigilants.org/wp-content/uploads/2015/08/déroulement-cambriolage-358x301.jpg"><img class="aligncenter  wp-image-745" src="http://blog.voisinsvigilants.org/wp-content/uploads/2015/08/déroulement-cambriolage-358x301.jpg" alt="déroulement-cambriolage-358x301" width="705" height="593" /></a>
+  <a href="./../../images/2015/08/déroulement-cambriolage-358x301.jpg"><img class="aligncenter  wp-image-745" src="./../../images/2015/08/déroulement-cambriolage-358x301.jpg" alt="déroulement-cambriolage-358x301" width="705" height="593" /></a>
 </p>
 
 <div class="sl-controls top wrapper" style="color: #292929;">

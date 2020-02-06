@@ -14,7 +14,7 @@ tags:
 ---
 <a style="color: #1155cc;" href="http://www.varmatin.com/saint-tropez/sainte-maxime-gare-aux-arnaques-a-la-peinture-verte.2121881.html" target="_blank">http://www.varmatin.com/saint-<wbr />tropez/sainte-maxime-gare-aux-<wbr />arnaques-a-la-peinture-verte.<wbr />2121881.html</a>
 
-[<img class="aligncenter wp-image-576 size-full" src="http://blog.voisinsvigilants.org/wp-content/uploads/2015/04/Var-Matin-Vol-par-ruse.jpg" alt="Var-Matin-Vol-par-ruse" width="800" height="2430" />](http://blog.voisinsvigilants.org/wp-content/uploads/2015/04/Var-Matin-Vol-par-ruse.jpg)
+[<img class="aligncenter wp-image-576 size-full" src="./../../images/2015/04/Var-Matin-Vol-par-ruse.jpg" alt="Var-Matin-Vol-par-ruse" width="800" height="2430" />](./../../images/2015/04/Var-Matin-Vol-par-ruse.jpg)
 
 &nbsp;
 

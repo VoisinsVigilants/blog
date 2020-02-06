@@ -14,7 +14,7 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  <a href="http://blog.voisinsvigilants.org/wp-content/uploads/2015/09/messagerieee1.jpg"><img class="aligncenter size-full wp-image-1101" src="http://blog.voisinsvigilants.org/wp-content/uploads/2015/09/messagerieee1.jpg" alt="messagerieee" width="922" height="508" /></a>
+  <a href="./../../images/2015/09/messagerieee1.jpg"><img class="aligncenter size-full wp-image-1101" src="./../../images/2015/09/messagerieee1.jpg" alt="messagerieee" width="922" height="508" /></a>
 </p>
 
 <p style="text-align: justify;">

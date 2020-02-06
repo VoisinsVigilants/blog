@@ -13,7 +13,7 @@ tags:
   - Securite
   - Voisins Vigilants et Solidaires
 ---
-[<img class="wp-image-1507 alignleft" src="http://blog.voisinsvigilants.org/wp-content/uploads/2015/10/logo-la-voix-du-nord-1.jpg" alt="logo-la-voix-du-nord (1)" width="830" height="139" />](http://blog.voisinsvigilants.org/wp-content/uploads/2015/10/logo-la-voix-du-nord-1.jpg)
+[<img class="wp-image-1507 alignleft" src="./../../images/2015/10/logo-la-voix-du-nord-1.jpg" alt="logo-la-voix-du-nord (1)" width="830" height="139" />](./../../images/2015/10/logo-la-voix-du-nord-1.jpg)
 
 <p class="chapo" style="color: #505050; text-align: justify;">
   <span style="color: #000000;"><strong>La commune se lance dans le dispositif des Voisins Vigilants. Une réunion d’information s’est tenue la semaine dernière pour informer les habitants. Ces derniers semblent prêts à s’investir pour que le village retrouve sa tranquillité.</strong></span>

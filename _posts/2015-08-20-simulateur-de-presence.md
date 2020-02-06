@@ -14,7 +14,7 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  <a href="http://blog.voisinsvigilants.org/wp-content/uploads/2015/08/simulation-presence-box-domotique-internet-alarme-630x320.jpg"><img class="aligncenter size-full wp-image-758" src="http://blog.voisinsvigilants.org/wp-content/uploads/2015/08/simulation-presence-box-domotique-internet-alarme-630x320.jpg" alt="simulation-presence-box-domotique-internet-alarme-630x320" width="630" height="320" /></a>
+  <a href="./../../images/2015/08/simulation-presence-box-domotique-internet-alarme-630x320.jpg"><img class="aligncenter size-full wp-image-758" src="./../../images/2015/08/simulation-presence-box-domotique-internet-alarme-630x320.jpg" alt="simulation-presence-box-domotique-internet-alarme-630x320" width="630" height="320" /></a>
 </p>
 
 <p style="text-align: justify;">

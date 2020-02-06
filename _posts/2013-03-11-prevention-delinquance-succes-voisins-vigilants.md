@@ -11,9 +11,9 @@ categories:
 tags:
   - La Gazette des Communes
 ---
-<img class="size-medium wp-image-137 alignleft" src="http://blog.voisinsvigilants.org/wp-content/uploads/2014/09/Logo-300x99.jpg" alt="Logo" width="300" height="99" />
+<img class="size-medium wp-image-137 alignleft" src="./../../images/2014/09/Logo-300x99.jpg" alt="Logo" width="300" height="99" />
 
-<a title="Article complet" href="http://blog.voisinsvigilants.org/presse/wp-content/uploads/sites/5/2014/09/Article-Gazette-Blog.jpg" target="_blank"><img class="wp-image-135 size-full" src="http://blog.voisinsvigilants.org/wp-content/uploads/2014/09/Article-short-Gazette-Blog.jpg" alt="PRÉVENTION DE LA DÉLINQUANCE" width="1049" height="942" /></a>
+<a title="Article complet" href="http://blog.voisinsvigilants.org/presse/wp-content/uploads/sites/5/2014/09/Article-Gazette-Blog.jpg" target="_blank"><img class="wp-image-135 size-full" src="./../../images/2014/09/Article-short-Gazette-Blog.jpg" alt="PRÉVENTION DE LA DÉLINQUANCE" width="1049" height="942" /></a>
 
 <p style="text-align: center">
    <span style="color: #000000">Pour accéder à l’article complet, cliquez </span><a style="color: #fbc400" href="http://blog.voisinsvigilants.org/presse/wp-content/uploads/sites/5/2014/09/Article-Gazette-Blog.jpg" target="_blank">ici</a><span style="color: #000000"> ou sur l’image.</span>

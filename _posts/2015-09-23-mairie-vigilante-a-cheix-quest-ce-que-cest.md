@@ -15,9 +15,9 @@ tags:
   - Prevention
   - Voisins Vigilants et Solidaires
 ---
-[<img class="aligncenter size-full wp-image-965" src="http://blog.voisinsvigilants.org/wp-content/uploads/2015/09/Sans-titre12.png" alt="Sans titre12" width="1021" height="153" />](http://blog.voisinsvigilants.org/wp-content/uploads/2015/09/Sans-titre12.png)
+[<img class="aligncenter size-full wp-image-965" src="./../../images/2015/09/Sans-titre12.png" alt="Sans titre12" width="1021" height="153" />](./../../images/2015/09/Sans-titre12.png)
 
-[<img class="aligncenter size-full wp-image-966" src="http://blog.voisinsvigilants.org/wp-content/uploads/2015/09/mairie-vigilante-cheix-quest-ce-que-cest.jpg" alt="mairie-vigilante-cheix-quest-ce-que-cest" width="640" height="360" />](http://blog.voisinsvigilants.org/wp-content/uploads/2015/09/mairie-vigilante-cheix-quest-ce-que-cest.jpg)
+[<img class="aligncenter size-full wp-image-966" src="./../../images/2015/09/mairie-vigilante-cheix-quest-ce-que-cest.jpg" alt="mairie-vigilante-cheix-quest-ce-que-cest" width="640" height="360" />](./../../images/2015/09/mairie-vigilante-cheix-quest-ce-que-cest.jpg)
 
 <p style="text-align: center;">
   <em><span style="color: #000000;">À gauche, Michel Gavard 2e adjoint au maire</span></em>

@@ -16,7 +16,7 @@ tags:
 </p>
 
 <p style="text-align: justify;">
-  <a href="http://blog.voisinsvigilants.org/wp-content/uploads/2015/09/3466691_5_a2d8_les-nouvelles-technologies-s-appretent-a_24c79f93c71ead7304e91b817243b337.jpg"><img class="aligncenter  wp-image-988" src="http://blog.voisinsvigilants.org/wp-content/uploads/2015/09/3466691_5_a2d8_les-nouvelles-technologies-s-appretent-a_24c79f93c71ead7304e91b817243b337.jpg" alt="3466691_5_a2d8_les-nouvelles-technologies-s-appretent-a_24c79f93c71ead7304e91b817243b337" width="684" height="456" /></a>
+  <a href="./../../images/2015/09/3466691_5_a2d8_les-nouvelles-technologies-s-appretent-a_24c79f93c71ead7304e91b817243b337.jpg"><img class="aligncenter  wp-image-988" src="./../../images/2015/09/3466691_5_a2d8_les-nouvelles-technologies-s-appretent-a_24c79f93c71ead7304e91b817243b337.jpg" alt="3466691_5_a2d8_les-nouvelles-technologies-s-appretent-a_24c79f93c71ead7304e91b817243b337" width="684" height="456" /></a>
 </p>
 
 <p style="text-align: justify;">

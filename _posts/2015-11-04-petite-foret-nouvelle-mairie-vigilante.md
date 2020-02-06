@@ -13,14 +13,14 @@ tags:
   - Mairie Vigilante et Solidaire
   - Voisins Vigilants et Solidaires
 ---
-[<img class="aligncenter  wp-image-1369" src="http://blog.voisinsvigilants.org/wp-content/uploads/2015/10/logo-la-voix-du-nord.jpg" alt="logo-la-voix-du-nord" width="898" height="170" />](http://blog.voisinsvigilants.org/wp-content/uploads/2015/10/logo-la-voix-du-nord.jpg)
+[<img class="aligncenter  wp-image-1369" src="./../../images/2015/10/logo-la-voix-du-nord.jpg" alt="logo-la-voix-du-nord" width="898" height="170" />](./../../images/2015/10/logo-la-voix-du-nord.jpg)
 
 <p style="text-align: justify;">
   <strong>La commune Petite-Forêt souhaite instaurer le dispositif « <a href="http://www.voisinsvigilants.org">Voisins Vigilants</a> ». Mercredi soir à la salle des fêtes, comble pour l’occasion, pas moins de cent soixante francs forésiens sont venus écouter les explications du dispositif.</strong>
 </p>
 
 <p style="text-align: justify;">
-  <a href="http://blog.voisinsvigilants.org/wp-content/uploads/2015/10/Panneau-VV-Petite-Forêt.jpg"><img class="aligncenter  wp-image-1370" src="http://blog.voisinsvigilants.org/wp-content/uploads/2015/10/Panneau-VV-Petite-Forêt.jpg" alt="Panneau VV - Petite Forêt" width="913" height="519" /></a>
+  <a href="./../../images/2015/10/Panneau-VV-Petite-Forêt.jpg"><img class="aligncenter  wp-image-1370" src="./../../images/2015/10/Panneau-VV-Petite-Forêt.jpg" alt="Panneau VV - Petite Forêt" width="913" height="519" /></a>
 </p>
 
 <p style="color: #2a2a2a; text-align: justify;">

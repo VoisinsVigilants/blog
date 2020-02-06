@@ -18,7 +18,7 @@ tags:
 </p>
 
 <p style="text-align: justify;">
-  <a href="http://blog.voisinsvigilants.org/wp-content/uploads/2015/08/La-webcam.jpg"><img class="aligncenter  wp-image-877" src="http://blog.voisinsvigilants.org/wp-content/uploads/2015/08/La-webcam.jpg" alt="La webcam" width="679" height="345" /></a>
+  <a href="./../../images/2015/08/La-webcam.jpg"><img class="aligncenter  wp-image-877" src="./../../images/2015/08/La-webcam.jpg" alt="La webcam" width="679" height="345" /></a>
 </p>
 
 <h2 style="text-align: justify;">

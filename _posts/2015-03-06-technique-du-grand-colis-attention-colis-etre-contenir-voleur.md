@@ -13,7 +13,7 @@ categories:
 
 &nbsp;
 
-[<img class="size-full wp-image-469 aligncenter" src="http://blog.voisinsvigilants.org/wp-content/uploads/2015/03/colis.jpg" alt="colis" width="800" height="533" />](http://blog.voisinsvigilants.org/wp-content/uploads/2015/03/colis.jpg)
+[<img class="size-full wp-image-469 aligncenter" src="./../../images/2015/03/colis.jpg" alt="colis" width="800" height="533" />](./../../images/2015/03/colis.jpg)
 
 <h2 style="text-align: justify;">
 </h2>

@@ -13,7 +13,7 @@ tags:
   - Mairie Vigilante et Solidaire
   - Voisins Vigilants et Solidaires
 ---
-[<img class="aligncenter size-full wp-image-1330" src="http://blog.voisinsvigilants.org/wp-content/uploads/2015/10/Image4.jpg" alt="Image4" width="953" height="2081" />](http://blog.voisinsvigilants.org/wp-content/uploads/2015/10/Image4.jpg)
+[<img class="aligncenter size-full wp-image-1330" src="./../../images/2015/10/Image4.jpg" alt="Image4" width="953" height="2081" />](./../../images/2015/10/Image4.jpg)
 
 <p style="text-align: justify;">
   Vous pouvez retrouver cet article sur <a href="http://www.lavoixdunord.fr/region/leers-la-reunion-publique-sur-le-dispositif-voisins-ia24b58795n3034641">La Voix du Nord</a>.

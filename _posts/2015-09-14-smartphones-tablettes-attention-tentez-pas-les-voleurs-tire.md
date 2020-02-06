@@ -14,7 +14,7 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  <a href="http://blog.voisinsvigilants.org/wp-content/uploads/2015/08/Vol-à-la-tire.jpg"><img class="aligncenter  wp-image-834" src="http://blog.voisinsvigilants.org/wp-content/uploads/2015/08/Vol-à-la-tire.jpg" alt="Vol à la tire" width="676" height="451" /></a>
+  <a href="./../../images/2015/08/Vol-à-la-tire.jpg"><img class="aligncenter  wp-image-834" src="./../../images/2015/08/Vol-à-la-tire.jpg" alt="Vol à la tire" width="676" height="451" /></a>
 </p>
 
 ## **Qu’est-ce que le vol à la tire ?**

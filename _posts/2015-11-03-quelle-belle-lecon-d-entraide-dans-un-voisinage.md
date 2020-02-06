@@ -12,7 +12,7 @@ tags:
   - Voisins Vigilants et Solidaires
 ---
 <p style="text-align: justify;">
-  <a href="http://blog.voisinsvigilants.org/wp-content/uploads/2015/11/Chairs-for-Charlie.png"><img class="aligncenter  wp-image-1583" src="http://blog.voisinsvigilants.org/wp-content/uploads/2015/11/Chairs-for-Charlie.png" alt="Chairs for Charlie" width="884" height="495" /></a><span style="color: #000000;">Charlie George est bien connu dans son voisinage de la ville de Houston, au Texas.</span>
+  <a href="./../../images/2015/11/Chairs-for-Charlie.png"><img class="aligncenter  wp-image-1583" src="./../../images/2015/11/Chairs-for-Charlie.png" alt="Chairs for Charlie" width="884" height="495" /></a><span style="color: #000000;">Charlie George est bien connu dans son voisinage de la ville de Houston, au Texas.</span>
 </p>
 
 <p style="text-align: justify;">

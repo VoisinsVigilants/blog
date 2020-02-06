@@ -18,7 +18,7 @@ tags:
 </h1>
 
 <p style="text-align: justify;">
-  <img class="alignleft wp-image-553 size-medium" src="http://blog.voisinsvigilants.org/wp-content/uploads/2015/04/assistance-informatique-yvelines-300x199.jpg" alt="assistance-informatique-yvelines" width="300" height="199" />
+  <img class="alignleft wp-image-553 size-medium" src="./../../images/2015/04/assistance-informatique-yvelines-300x199.jpg" alt="assistance-informatique-yvelines" width="300" height="199" />
 </p>
 
 <p style="text-align: justify;">
@@ -36,7 +36,7 @@ tags:
 </h1>
 
 <p style="text-align: justify;">
-  <a href="http://blog.voisinsvigilants.org/wp-content/uploads/2015/04/covoiturage.jpg"><img class="alignleft wp-image-557 size-medium" src="http://blog.voisinsvigilants.org/wp-content/uploads/2015/04/covoiturage-300x200.jpg" alt="covoiturage" width="300" height="200" /></a>
+  <a href="./../../images/2015/04/covoiturage.jpg"><img class="alignleft wp-image-557 size-medium" src="./../../images/2015/04/covoiturage-300x200.jpg" alt="covoiturage" width="300" height="200" /></a>
 </p>
 
 <p style="text-align: justify;">
@@ -53,7 +53,7 @@ tags:
   <span style="color: #ffcc00;">La gagnante du concours de Pâques !</span>
 </h1>
 
-[<img class="alignleft wp-image-558 size-medium" src="http://blog.voisinsvigilants.org/wp-content/uploads/2015/04/Pâques-300x199.jpg" alt="Pâques" width="300" height="199" />](http://blog.voisinsvigilants.org/wp-content/uploads/2015/04/Pâques.jpg)
+[<img class="alignleft wp-image-558 size-medium" src="./../../images/2015/04/Pâques-300x199.jpg" alt="Pâques" width="300" height="199" />](./../../images/2015/04/Pâques.jpg)
 
 <div style="color: #000000;">
   <div style="text-align: justify;">

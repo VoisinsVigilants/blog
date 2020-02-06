@@ -14,7 +14,7 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  <a href="http://blog.voisinsvigilants.org/wp-content/uploads/2015/08/2114814-focus-wide.jpg"><img class="aligncenter  wp-image-721" src="http://blog.voisinsvigilants.org/wp-content/uploads/2015/08/2114814-focus-wide.jpg" alt="2114814-focus-wide" width="822" height="350" /></a>
+  <a href="./../../images/2015/08/2114814-focus-wide.jpg"><img class="aligncenter  wp-image-721" src="./../../images/2015/08/2114814-focus-wide.jpg" alt="2114814-focus-wide" width="822" height="350" /></a>
 </p>
 
 <p style="font-weight: inherit; color: black; text-align: justify;">

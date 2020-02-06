@@ -16,7 +16,7 @@ tags:
 </p>
 
 <p style="text-align: justify;">
-  <a href="http://blog.voisinsvigilants.org/wp-content/uploads/2015/09/intro-telesurveillance.jpg"><img class="aligncenter size-full wp-image-976" src="http://blog.voisinsvigilants.org/wp-content/uploads/2015/09/intro-telesurveillance.jpg" alt="intro-telesurveillance" width="1300" height="600" /></a>
+  <a href="./../../images/2015/09/intro-telesurveillance.jpg"><img class="aligncenter size-full wp-image-976" src="./../../images/2015/09/intro-telesurveillance.jpg" alt="intro-telesurveillance" width="1300" height="600" /></a>
 </p>
 
 <p style="text-align: center;">

@@ -18,7 +18,7 @@ tags:
 </p>
 
 <p style="text-align: justify;">
-  <a href="http://blog.voisinsvigilants.org/wp-content/uploads/2015/09/intro-serrure.jpg"><img class="aligncenter size-full wp-image-1094" src="http://blog.voisinsvigilants.org/wp-content/uploads/2015/09/intro-serrure.jpg" alt="intro-serrure" width="1300" height="600" /></a>
+  <a href="./../../images/2015/09/intro-serrure.jpg"><img class="aligncenter size-full wp-image-1094" src="./../../images/2015/09/intro-serrure.jpg" alt="intro-serrure" width="1300" height="600" /></a>
 </p>
 
 <h2 style="font-weight: 400; color: #ff7400; text-align: justify;">

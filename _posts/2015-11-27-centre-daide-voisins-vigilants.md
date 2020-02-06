@@ -15,7 +15,7 @@ tags:
   <strong>Obtenez des réponses instantanées à toutes vos questions et apprenez à utiliser la plateforme de communication Voisins Vigilants  grâce à notre centre d&rsquo;aide !</strong>
 </p>
 
-[<img class="aligncenter size-full wp-image-1825" src="http://blog.voisinsvigilants.org/wp-content/uploads/2015/11/13.jpg" alt="1" width="968" height="199" />](http://blog.voisinsvigilants.org/wp-content/uploads/2015/11/13.jpg)
+[<img class="aligncenter size-full wp-image-1825" src="./../../images/2015/11/13.jpg" alt="1" width="968" height="199" />](./../../images/2015/11/13.jpg)
 
 <div class="col-sm-4">
   <div class="section">

@@ -17,8 +17,6 @@ categories:
   <span style="color: #000000;">Cette fibrillation peut être corrigée au moyen d&rsquo;un </span><b style="font-style: inherit;">DAE </b><span style="color: #000000;">(Défibrillateur Automatique Externe), qui analyse le rythme cardiaque </span><span style="color: #000000;">de la victime, avant de lui administrer, si nécessaire, un choc électrique. </span><strong style="color: #000000;">Les chances de survie augmentent si le <a href="http://blog.voisinsvigilants.org/blog/arret-cardiaque-3-gestes-peuvent-sauver-vie/">massage cardiaque</a> et la défibrillation sont entreprises dans les premières minutes qui suivent l&rsquo;arrêt cardiaque.</strong>
 </p>
 
-
-
 <p style="color: #474747; text-align: justify;">
   <span style="color: #000000;">Malgré le message cardiaque, la victime ne réagit toujours pas et ne respire pas normalement ? Si un DAE est à portée de main, utilisez-le ! Si aucun DAE n&rsquo;est disponible à proximité, continuez le massage cardiaque jusqu&rsquo;à l&rsquo;arrivée des secours.</span>
 </p>
@@ -28,7 +26,7 @@ categories:
 </h1>
 
 <h2 style="text-align: justify;">
-  <a href="http://blog.voisinsvigilants.org/securite/wp-content/uploads/sites/6/2015/12/La-défibrillation.jpg"><img class="aligncenter  wp-image-1077" src="http://blog.voisinsvigilants.org/securite/wp-content/uploads/sites/6/2015/12/La-défibrillation.jpg" alt="La défibrillation" width="913" height="171" /></a><strong><span style="color: #000000;">Étape 1</span></strong>
+  <a href="./../../images/2015/12/La-defibrillation.jpg"><img class="aligncenter  wp-image-1077" src="./../../images/2015/12/La-defibrillation.jpg" alt="La défibrillation"/></a><strong><span style="color: #000000;">Étape 1</span></strong>
 </h2>
 
 <ul style="text-align: justify;">
@@ -110,7 +108,7 @@ categories:
 </p>
 
 <p style="color: #000000; text-align: justify;">
-  <a href="http://blog.voisinsvigilants.org/wp-content/uploads/2015/12/logo_defibrillateur.jpg"><img class="aligncenter  wp-image-1974" src="http://blog.voisinsvigilants.org/wp-content/uploads/2015/12/logo_defibrillateur.jpg" alt="logo_defibrillateur" width="103" height="136" /></a>
+  <a href="./../../images/2015/12/logo_defibrillateur.jpg"><img class="aligncenter  wp-image-1974" src="./../../images/2015/12/logo_defibrillateur.jpg" alt="logo_defibrillateur" width="103" height="136" /></a>
 </p>
 
 <p style="text-align: justify;">

@@ -14,7 +14,7 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  <a href="http://blog.voisinsvigilants.org/wp-content/uploads/2015/09/20094-2011-07-securite-arnaque-carte-bleue-gang-femme-enceinte-jj-dijonscope-6.jpg"><img class="aligncenter  wp-image-1154" src="http://blog.voisinsvigilants.org/wp-content/uploads/2015/09/20094-2011-07-securite-arnaque-carte-bleue-gang-femme-enceinte-jj-dijonscope-6.jpg" alt="20094-2011-07-securite-arnaque-carte-bleue-gang-femme-enceinte-jj-dijonscope-6" width="843" height="476" /></a>
+  <a href="./../../images/2015/09/20094-2011-07-securite-arnaque-carte-bleue-gang-femme-enceinte-jj-dijonscope-6.jpg"><img class="aligncenter  wp-image-1154" src="./../../images/2015/09/20094-2011-07-securite-arnaque-carte-bleue-gang-femme-enceinte-jj-dijonscope-6.jpg" alt="20094-2011-07-securite-arnaque-carte-bleue-gang-femme-enceinte-jj-dijonscope-6" width="843" height="476" /></a>
 </p>
 
 <p style="text-align: justify;">

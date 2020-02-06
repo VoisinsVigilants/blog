@@ -13,7 +13,7 @@ tags:
 ---
 ##### Comme le rapporte le titre Midi Libre, le vendredi 22 septembre dans la salle du parc, une réunion était organisée pour redynamiser l’initiative lancée il y a déjà quelques temps de déployer à Lédenon le dispositif Voisins Vigilants
 
-[<img class="aligncenter size-full wp-image-3084" src="./../../images/2017/10/59d1f8efbbddbd422142b066.jpg" alt="59d1f8efbbddbd422142b066" width="667" height="333" />](./../../images/2017/10/59d1f8efbbddbd422142b066.jpg)
+[<img class="aligncenter size-full wp-image-3084" src="./../../images/2017/10/59d1f8efbbddbd422142b066.jpg" alt="59d1f8efbbddbd422142b066" />](./../../images/2017/10/59d1f8efbbddbd422142b066.jpg)
 
 &nbsp;
 

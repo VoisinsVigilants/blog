@@ -11,11 +11,7 @@ categories:
 ---
 ##### **A  l’approche des vacances d’été,  nous sommes nombreux à organiser nos vacances via des sites de réservations de voyages en ligne. Les sites de réservation de voyages en ligne sont dans le viseur de la Commission européenne. Et pour cause: deux tiers d’entre eux entretiennent le plus grand flou sur les prix finaux réels.Tels sont les résultats d’une enquête réalisée par la Commission européenne et les autorités chargées de la protection des consommateurs de 28 pays, comme le rapportait le Figaro dans un article publié début avril.**
 
-#### **[
-  
-](./../../images/2017/04/3000.jpg)** 
-
-[<img class="aligncenter wp-image-2945 size-full" src="./../../images/2017/04/3000.jpg" alt="3000" width="620" height="372" />](./../../images/2017/04/3000.jpg)
+[<img class="aligncenter wp-image-2945 size-full" src="./../../images/2017/04/3000.jpg" alt="3000" />](./../../images/2017/04/3000.jpg)
 
 ##### <span style="font-weight: normal; color: #767676;">                                        </span>
 

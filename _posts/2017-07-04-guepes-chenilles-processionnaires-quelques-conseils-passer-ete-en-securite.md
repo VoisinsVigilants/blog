@@ -12,7 +12,7 @@ categories:
 ---
 ##### Dès le retour des beaux jours, guêpes et  chenilles processionnaires entament la construction de leurs nids. Quelques précautions d&rsquo;usage vous permettront de passer un été en toute sécurité.
 
-#### [<img class="aligncenter size-full wp-image-2960" src="./../../images/2017/04/XVMa5fa8ff0-3045-11e5-9b82-bef3ef55d33f.jpg" alt="XVMa5fa8ff0-3045-11e5-9b82-bef3ef55d33f" width="805" height="453" />](./../../images/2017/04/XVMa5fa8ff0-3045-11e5-9b82-bef3ef55d33f.jpg)
+[<img class="aligncenter size-full wp-image-2960" src="./../../images/2017/04/XVMa5fa8ff0-3045-11e5-9b82-bef3ef55d33f.jpg" alt="XVMa5fa8ff0-3045-11e5-9b82-bef3ef55d33f"/>](./../../images/2017/04/XVMa5fa8ff0-3045-11e5-9b82-bef3ef55d33f.jpg)
 
 #### LES GUEPES
 

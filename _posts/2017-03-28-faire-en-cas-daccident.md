@@ -19,7 +19,7 @@ tags:
 </p>
 
 <p style="text-align: justify;">
-  <a href="./../../images/2017/03/malgre-737-accidents-enregistres-la-mortalite-est-en-baisse-avec-29-victimes-l-an-passe-contre-33-en-2015.jpg"><img class="aligncenter size-full wp-image-2908" src="./../../images/2017/03/malgre-737-accidents-enregistres-la-mortalite-est-en-baisse-avec-29-victimes-l-an-passe-contre-33-en-2015.jpg" alt="malgre-737-accidents-enregistres-la-mortalite-est-en-baisse-avec-29-victimes-l-an-passe-contre-33-en-2015" width="1000" height="625" /></a>
+  <a href="./../../images/2017/03/malgre-737-accidents-enregistres-la-mortalite-est-en-baisse-avec-29-victimes-l-an-passe-contre-33-en-2015.jpg"><img class="aligncenter size-full wp-image-2908" src="./../../images/2017/03/malgre-737-accidents-enregistres-la-mortalite-est-en-baisse-avec-29-victimes-l-an-passe-contre-33-en-2015.jpg" alt="malgre-737-accidents-enregistres-la-mortalite-est-en-baisse-avec-29-victimes-l-an-passe-contre-33-en-2015" /></a>
 </p>
 
 <h1 style="color: #4b5ebd; text-align: justify;">
@@ -89,7 +89,7 @@ tags:
     </div>
     
     <div style="text-align: justify;">
-      <span style="color: #000000;">Dans l&rsquo;article suivant, <a href="http://blog.voisinsvigilants.org/blog/urgence-quel-numero/">http://blog.voisinsvigilants.org/blog/urgence-quel-numero/</a>, les numéros à contacter en cas d&rsquo;urgence et les informations à détailler pour faciliter et accélérer le traitement de votre appel.</span>
+      <span style="color: #000000;">Dans l&rsquo;article suivant, <a href="http://blog.voisinsvigilants.org/blog/urgence-quel-numero/">les numéros d'urgence</a>, les numéros à contacter en cas d&rsquo;urgence et les informations à détailler pour faciliter et accélérer le traitement de votre appel.</span>
     </div>
   </div>
 </div>

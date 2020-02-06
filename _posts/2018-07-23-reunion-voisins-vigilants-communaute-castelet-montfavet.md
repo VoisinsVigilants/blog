@@ -13,7 +13,7 @@ categories:
 
 &nbsp;
 
-[<img class="aligncenter wp-image-3269 size-large" src="./../../images/2018/06/IMG_0810.jpg" alt="IMG_0810" width="640" height="404" />](./../../images/2018/06/IMG_0810.jpg)
+[<img class="aligncenter wp-image-3269 size-large" src="./../../images/2018/06/IMG_0810.jpg" alt="IMG_0810" />](./../../images/2018/06/IMG_0810.jpg)
 
 
 Les référents, c&rsquo;est à dire les maillons centraux du dispositif et interlocuteurs privilégiés de leurs voisins, de la Mairie et de la Police Municipale, Messieurs Julien Bencimon et Yves Ricaud après avoir remerciés leurs 49 adhérents anciens et tous ceux qui ont manifestés sur place le désir de les rejoindre, on rappelé le rôle des voisins vigilants : veiller mais ne pas surveiller, et face à un événement suspect alerter immédiatement par le système mis en place (SMS et internet) tous les voisins membres de la communauté ainsi que la police.

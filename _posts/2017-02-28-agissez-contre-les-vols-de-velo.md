@@ -16,13 +16,12 @@ tags:
   <strong style="color: #000000;">Pour lutter contre les 500 000 vols de vélos qui ont lieu tous les ans, la fédération française des usagers de la bicyclette, la police et la gendarmerie se mobilisent pour inciter au marquage des vélos.</strong>
 </p>
 
-<div id="attachment_2840" style="width: 3658px" class="wp-caption aligncenter">
-  <a href="./../../images/2017/02/marquage_num_ok_FUB_14.jpg"><img class="wp-image-2840 size-full" src="./../../images/2017/02/marquage_num_ok_FUB_14.jpg" alt="Le marquage de vélo" width="3648" height="2736" /></a>
+
+  <a href="./../../images/2017/02/marquage_num_ok_FUB_14.jpg"><img class="wp-image-2840 size-full" src="./../../images/2017/02/marquage_num_ok_FUB_14.jpg" alt="Le marquage de vélo"/></a>
   
   <p class="wp-caption-text">
     Illustration © Bicycode
   </p>
-</div>
 
 <h2 style="color: #4b5ebd; text-align: justify;">
   <strong><span style="color: #000000;">Le dispositif de marquage de vélo</span></strong>

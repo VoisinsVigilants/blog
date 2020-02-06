@@ -13,13 +13,12 @@ categories:
   <strong style="color: #000000;">Vous allez bientôt vous absenter et vous craignez pour la sécurité de votre domicile ? En complément du dispositif Voisins Vigilants en prévenant vos voisins de votre absence, vous pouvez demander à la police ou à la gendarmerie de surveiller votre domicile avec l&rsquo;Opération Tranquillité Vacances !</strong>
 </p>
 
-<div id="attachment_2620" style="width: 731px" class="wp-caption aligncenter">
-  <a href="./../../images/2016/05/8.png"><img class="wp-image-2620" src="./../../images/2016/05/8.png" alt="Opération Tranquillité Vacances" width="721" height="349" /></a>
+
+  <a href="./../../images/2016/05/8.png"><img class="wp-image-2620" src="./../../images/2016/05/8.png" alt="Opération Tranquillité Vacances" /></a>
   
   <p class="wp-caption-text">
     En complément du dispositif Voisins Vigilants, vous pouvez également bénéficier de l&rsquo;Opération Tranquillité Vacances.
   </p>
-</div>
 
 <h1 style="font-weight: inherit; text-align: justify;">
   <span style="color: #000000;"><strong style="font-style: inherit;">L&rsquo;Opération Tranquillité Vacances</strong></span>

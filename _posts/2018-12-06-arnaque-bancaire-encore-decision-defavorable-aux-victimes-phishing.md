@@ -15,7 +15,7 @@ tags:
 
 &nbsp;
 
-[<img class="aligncenter wp-image-3266 size-full" src="./../../images/2018/06/picture.jpg" alt="picture" width="750" height="375" />](./../../images/2018/06/picture.jpg)
+[<img class="aligncenter wp-image-3266 size-full" src="./../../images/2018/06/picture.jpg" alt="picture" />](./../../images/2018/06/picture.jpg)
 
 &nbsp;
 

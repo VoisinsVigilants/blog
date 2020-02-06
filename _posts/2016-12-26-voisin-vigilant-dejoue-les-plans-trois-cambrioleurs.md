@@ -18,13 +18,13 @@ tags:
   <strong><span style="color: #000000;">Trois hommes, dont deux mineurs, ont été arrêtés par les policiers du commissariat de Nevers dimanche soir, dans une maison inoccupée du quartier du 13e-de-Ligne à Nevers où ils étaient entrés par effraction pour la cambrioler. Le réflexe citoyen d’un voisin a mis un terme aux projets des cambrioleurs.</span></strong>
 </p>
 
-<div id="attachment_2723" style="width: 667px" class="wp-caption aligncenter">
-  <a href="./../../images/2016/12/illustration-cambriolage_2974455.jpeg"><img class="wp-image-2723 size-full" src="./../../images/2016/12/illustration-cambriolage_2974455.jpeg" alt="cambriolages" width="657" height="437" /></a>
+
+  <a href="./../../images/2016/12/illustration-cambriolage_2974455.jpeg"><img class="wp-image-2723 size-full" src="./../../images/2016/12/illustration-cambriolage_2974455.jpeg" alt="cambriolages" /></a>
   
   <p class="wp-caption-text">
     Les policiers du commissariat de Nevers se réjouissent d&rsquo;avoir pu interpeller trois individus en flagrant délit. L&rsquo;alerte d&rsquo;un voisin a payé. Photo d&rsquo;illustration © Camille Mazoyer
   </p>
-</div>
+
 
 <p style="text-align: justify;">
   L’après-midi, le déclenchement de l’alarme les avait fait fuir alors qu’ils s’étaient introduits en forçant un volet et en brisant une vitre. Un voisin, constatant l’effraction, avait refermé le volet et réparé sommairement le carreau avec un adhésif.<br style="color: #333f48;" /><br style="color: #333f48;" />Bien décidé à réussir son cambriolage, le trio a pénétré de nouveau dans la propriété, vers 19h. Cette fois, pas de cri strident d’alarme pour les affoler. Mais des aboiements inhabituels et répétitifs de son chien pour alerter le même voisin qui s’est précipité à nouveau sur les lieux.<br style="color: #333f48;" /><br style="color: #333f48;" />Il a surpris trois individus en flagrant délit et alerté la police. À sa ceinture, l’un portait un pistolet à billes avec cartouche de gaz&#8230;

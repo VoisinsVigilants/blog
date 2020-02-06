@@ -18,7 +18,7 @@ tags:
 </p>
 
 <p style="text-align: justify;">
-  <a href="./../../images/2016/12/actualites-a-canet-roussillon-loperation-voisins-vigilants-se-met-place-lobjectif-zero-phyto-bonne-voie-3.jpg"><img class="aligncenter  wp-image-2726" src="./../../images/2016/12/actualites-a-canet-roussillon-loperation-voisins-vigilants-se-met-place-lobjectif-zero-phyto-bonne-voie-3.jpg" alt="actualites-a-canet-roussillon-loperation-voisins-vigilants-se-met-place-lobjectif-zero-phyto-bonne-voie-3" width="687" height="467" /></a>
+  <a href="./../../images/2016/12/actualites-a-canet-roussillon-loperation-voisins-vigilants-se-met-place-lobjectif-zero-phyto-bonne-voie-3.jpg"><img class="aligncenter  wp-image-2726" src="./../../images/2016/12/actualites-a-canet-roussillon-loperation-voisins-vigilants-se-met-place-lobjectif-zero-phyto-bonne-voie-3.jpg" alt="actualites-a-canet-roussillon-loperation-voisins-vigilants-se-met-place-lobjectif-zero-phyto-bonne-voie-3"/></a>
 </p>
 
 <p style="color: #111111; text-align: justify;">

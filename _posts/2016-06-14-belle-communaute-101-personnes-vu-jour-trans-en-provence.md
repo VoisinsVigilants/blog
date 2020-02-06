@@ -16,7 +16,7 @@ tags:
 </p>
 
 <p style="text-align: justify;">
-  <a href="./../../images/2016/06/55182-O831O13.jpg"><img class="aligncenter wp-image-2650 size-full" src="./../../images/2016/06/55182-O831O13.jpg" alt="Une communauté de voisins vigilants à trans-En-Provence" width="800" height="439" /></a>
+  <a href="./../../images/2016/06/55182-O831O13.jpg"><img class="aligncenter wp-image-2650 size-full" src="./../../images/2016/06/55182-O831O13.jpg" alt="Une communauté de voisins vigilants à trans-En-Provence"/></a>
 </p>
 
 ## <span style="color: #000000;"><strong>Pourquoi avez-vous décidé de créer une communauté de voisins vigilants ?</strong></span>
@@ -54,7 +54,7 @@ tags:
 </p>
 
 <p style="color: #000000; text-align: justify;">
-  <span style="font-weight: inherit; font-style: inherit;">Qu’il s’agisse d’une anecdote, une histoire à raconter sur votre communauté de voisins, une technique de cambriolage, une solution anti-cambriolage que vous avez mise en place, n’hésitez pas à nous les communiquer en nous adressant un mail à <strong style="font-style: inherit;">communication</strong></span><strong style="font-style: inherit;">@voisinsvigilants.org</strong><span style="font-weight: inherit; font-style: inherit;">. Nous serons ravis de vous lire et diffuser vos Temoignages sur notre blog.</span>
+  <span style="font-weight: inherit; font-style: inherit;">Qu’il s’agisse d’une anecdote, une histoire à raconter sur votre communauté de voisins, une technique de cambriolage, une solution anti-cambriolage que vous avez mise en place, n’hésitez pas à nous les communiquer en nous adressant un mail à communication@voisinsvigilants.org. Nous serons ravis de vous lire et diffuser vos Temoignages sur notre blog.</span>
 </p>
 
 <p style="color: #000000; text-align: justify;">

@@ -30,3 +30,54 @@
   font-size: 2.1rem;
   font-weight:200;
 }
+
+.videocontent{
+	width: 80%;
+	max-width: 640px;
+	margin: 0 auto;
+}
+
+.video-vv{
+	width: 80%;
+	max-width: 640px;
+	max-height: 370px !important;
+}
+
+.iframe-video{
+	width: 80%;
+	max-width: 640px;
+	height: 315px;
+}
+
+@media (max-width: 755px) {
+	.video-vv{
+			height: 150px;
+	}
+
+	.iframe-video{
+		width: 230px;
+		height: 159px;
+	}
+
+	.logo{
+		width: 120px;
+	}
+
+	.logo-responsive{
+		display: none;
+	}
+
+}
+
+.site-footer{
+	.subtitle{
+		font-size: 1em;
+		margin-bottom: 0px;
+	}
+	h3.footer-heading{
+		font-size: 1em;
+		margin-bottom: 5px;
+	}
+}
+
+

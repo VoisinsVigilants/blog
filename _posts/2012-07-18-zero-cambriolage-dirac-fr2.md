@@ -15,4 +15,6 @@ tags:
 ---
 Zéro cambriolage à Dirac : en Poitou-Charentes, le dispositif Voisins Vigilants semble faire des miracles. Résultats spectaculaires et sécurité retrouvée !
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0sh4kqkSlrA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="videocontent">
+<iframe class="iframe-video" src="https://www.youtube.com/embed/0sh4kqkSlrA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>

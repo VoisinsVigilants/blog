@@ -9,8 +9,9 @@ permalink: /blog/methode-dheimlich/
 categories:
   - Sante
 ---
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mzqP_SaVdLI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="videocontent">
+<iframe class="iframe-video" src="https://www.youtube.com/embed/mzqP_SaVdLI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 <p style="text-align: justify;">
   <strong style="color: #000000;">Lorsqu&rsquo;une personne s&rsquo;étouffe, si la <a href="http://blog.voisinsvigilants.org"><span style="color: #000000;">méthode des 5 claques dans le dos</span></a> n&rsquo;a pas suffit, il faut faire 5 compressions abdominales selon la manœuvre d&rsquo;Heimlich.</strong>

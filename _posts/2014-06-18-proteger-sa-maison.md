@@ -21,4 +21,6 @@ La Maison France 5 revient sur les fondamentaux en matière de protection des r�
 
 Des solutions existent pour protéger sa maison et éviter les &laquo;&nbsp;visites&nbsp;&raquo; indésirables lorsque vous êtes absents ! Pour connaître tous les bons réflexes, découvrez le <a href="http://blog.voisinsvigilants.org/securite/" target="_blank">blog sécurité</a> !
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fjCaJ0_TNLY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="videocontent">
+<iframe class="iframe-video" src="https://www.youtube.com/embed/fjCaJ0_TNLY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>

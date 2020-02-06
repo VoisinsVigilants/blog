@@ -12,7 +12,9 @@ tags:
   - Entraide
   - Solidarite
 ---
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_VZ8aOW11ZI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="videocontent">
+<iframe class="iframe-video" src="https://www.youtube.com/embed/_VZ8aOW11ZI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 <div class="pub167894">
   <div style="text-align: justify;" align="justify">

@@ -12,8 +12,9 @@ categories:
 tags:
   - Prevention
 ---
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/WTBpY3LBd90" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="videocontent">
+<iframe class="iframe-video" src="https://www.youtube.com/embed/WTBpY3LBd90" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 29 avril 2014, un <a href="http://twitter.com/Gendarmerie/status/461084813579919360/photo/1" target="_blank">tweet</a> de la Gendarmerie Nationale (@Gendarmerie) défraye la chronique :
 

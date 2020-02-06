@@ -14,7 +14,7 @@ categories:
 </p>
 
 <p style="text-align: center;">
-  <span style="color: #333333;"><span style="color: #333333;"><a href="./../../images/2016/02/5453725_c91febb0-bb6e-11e5-a1af-00151780182c-1_545x460_autocrop.jpg"><img class="aligncenter wp-image-2308" src="./../../images/2016/02/5453725_c91febb0-bb6e-11e5-a1af-00151780182c-1_545x460_autocrop.jpg" alt="Voisins Vigilants à Nogent" width="723" height="541" /></a></span></span><strong>Nogent, ce jeudi soir.</strong> <em>Comme ici rue des Viselets, les voisins du quartier qui participeront à l’opération pourront poser ces autocollants dissuasifs sur leur grille ou leur boîte aux lettres. (Laure Parny)</em>
+  <span style="color: #333333;"><span style="color: #333333;"><a href="./../../images/2016/02/5453725_c91febb0-bb6e-11e5-a1af-00151780182c-1_545x460_autocrop.jpg"><img class="aligncenter wp-image-2308" src="./../../images/2016/02/5453725_c91febb0-bb6e-11e5-a1af-00151780182c-1_545x460_autocrop.jpg" alt="Voisins Vigilants à Nogent" /></a></span></span><strong>Nogent, ce jeudi soir.</strong> <em>Comme ici rue des Viselets, les voisins du quartier qui participeront à l’opération pourront poser ces autocollants dissuasifs sur leur grille ou leur boîte aux lettres. (Laure Parny)</em>
 </p>
 
 <p style="color: #00283c; text-align: justify;">
@@ -26,7 +26,7 @@ categories:
 </p>
 
 <p style="color: #00283c; text-align: center;">
-  <span style="color: #333333;"><a href="./../../images/2016/02/dddbbfc4-bb74-11e5-a1af-00151780182c_1.jpg"><span style="color: #333333;"><img class="aligncenter  wp-image-2312" src="./../../images/2016/02/dddbbfc4-bb74-11e5-a1af-00151780182c_1.jpg" alt="Nogent voisins vigilants" width="784" height="498" /></span></a></span>
+  <span style="color: #333333;"><a href="./../../images/2016/02/dddbbfc4-bb74-11e5-a1af-00151780182c_1.jpg"><span style="color: #333333;"><img class="aligncenter  wp-image-2312" src="./../../images/2016/02/dddbbfc4-bb74-11e5-a1af-00151780182c_1.jpg" alt="Nogent voisins vigilants"/></span></a></span>
 </p>
 
 <p style="color: #00283c; text-align: center;">

@@ -14,9 +14,7 @@ tags:
 ---
 ##### Comme le relate le site Centre-presse.fr, le vendredi 21 juillet 2017 les membres de la communauté &laquo;&nbsp;rue du rocher&nbsp;&raquo; à Lussac-les-Châteaux ont répondu favorablement à l&rsquo;invitation de leur référent Monsieur Axel SPITERI. Ce rassemblement marquait l&rsquo;inauguration de la communauté.
 
-[<img class="aligncenter size-full wp-image-3043" src="./../../images/2017/08/WP_20170721_19_03_29_Pro-Large1.jpg" alt="WP_20170721_19_03_29_Pro (Large)" width="1478" height="755" />](./../../images/2017/08/WP_20170721_19_03_29_Pro-Large1.jpg)
-
-#### 
+[<img class="aligncenter size-full wp-image-3043" src="./../../images/2017/08/WP_20170721_19_03_29_Pro-Large1.jpg" alt="WP_20170721_19_03_29_Pro" />](./../../images/2017/08/WP_20170721_19_03_29_Pro-Large1.jpg)
 
 #### Une prévention efficace des cambriolages
 

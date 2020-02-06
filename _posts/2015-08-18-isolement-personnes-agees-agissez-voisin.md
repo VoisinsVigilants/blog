@@ -17,7 +17,7 @@ tags:
 </p>
 
 <p style="text-align: justify;">
-  <a href="http://blog.voisinsvigilants.org/wp-content/uploads/2015/08/01solitudesenior-1050x700.jpg"><img class="aligncenter  wp-image-702" src="http://blog.voisinsvigilants.org/wp-content/uploads/2015/08/01solitudesenior-1050x700.jpg" alt="01solitudesenior-1050x700" width="731" height="487" /></a>
+  <a href="./../../images/2015/08/01solitudesenior-1050x700.jpg"><img class="aligncenter  wp-image-702" src="./../../images/2015/08/01solitudesenior-1050x700.jpg" alt="01solitudesenior-1050x700" /></a>
 </p>
 
 <p style="color: #444444; text-align: justify;">

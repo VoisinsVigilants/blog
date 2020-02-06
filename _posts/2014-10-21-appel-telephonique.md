@@ -22,7 +22,7 @@ Une fois ces informations obtenues, il a besoin de savoir quand est ce que votre
 Ce simple appel se transformera ainsi en véritable mine d’informations pour son éventuel larcin.
 
 > <p style="text-align: left">
->   <em><span style="color: #8d8d8d">&laquo;&nbsp;Monsieur Dupont,<img class="alignright wp-image-102" src="http://blog.voisinsvigilants.org/securite/wp-content/uploads/sites/6/2014/10/telephone_86-1024x781.jpg" alt="Appel téléphonique" width="227" height="173" /><br /> </span></em>
+>   <em><span style="color: #8d8d8d">&laquo;&nbsp;Monsieur Dupont,<img class="alignright wp-image-102" src="./../../images/2014/10/telephone_86.jpg" alt="Appel téléphonique"  /><br /> </span></em>
 > </p>
 > 
 > <p style="text-align: left">
@@ -37,7 +37,6 @@ Ce simple appel se transformera ainsi en véritable mine d’informations pour
 >   <em><span style="color: #8d8d8d">connaître vos dates de vacances&nbsp;&raquo;</span></em>
 > </p>
 
-**
   
 Il existe différentes versions**, le faux maire n’est qu’un exemple, cela peut être un installateur de fibre optique, agent de l’EDF-GDF, policier,… L’objectif est **d’obtenir votre confiance** afin que vous lui donniez un maximum d’informations.
 
@@ -47,4 +46,4 @@ Cette technique de repérage se base avant tout sur la confiance que vous faites
 
 D&rsquo;une façon générale ne communiquez **jamais** vos dates de vacances.
 
-_Cet article se base sur des Temoignages de Voisins Vigilants postés dans l’espace Technique de Cambriolages. N’hésitez pas à partager vous aussi votre expérience en vous connectant sur__ __<a style="font-style: inherit;font-weight: inherit" href="http://www.voisinsvigilants.org/">www.voisinsvigilants.org</a>._
+_Cet article se base sur des Temoignages de Voisins Vigilants postés dans l’espace Technique de Cambriolages. N’hésitez pas à partager vous aussi votre expérience en vous connectant sur <a style="font-style: inherit;font-weight: inherit" href="http://www.voisinsvigilants.org/">www.voisinsvigilants.org</a>._

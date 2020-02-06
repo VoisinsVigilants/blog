@@ -14,7 +14,7 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  <a href="./../../images/2017/03/car-jacking.jpg"><img class="aligncenter size-full wp-image-2904" src="./../../images/2017/03/car-jacking.jpg" alt="car-jacking" width="775" height="500" /></a>
+  <a href="./../../images/2017/03/car-jacking.jpg"><img class="aligncenter size-full wp-image-2904" src="./../../images/2017/03/car-jacking.jpg" alt="car-jacking"/></a>
 </p>
 
 <h2 style="text-align: justify;">

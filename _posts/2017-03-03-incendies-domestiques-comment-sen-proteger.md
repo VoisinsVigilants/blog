@@ -22,7 +22,7 @@ tags:
 </div>
 
 <div style="color: #4b5ebd; text-align: justify;">
-  <span style="color: #000000;"><a href="./../../images/2017/02/assurance-detecteur-fumee.jpg"><img class="aligncenter wp-image-2832 " src="./../../images/2017/02/assurance-detecteur-fumee.jpg" alt="Incendies domestiques" width="493" height="319" /></a></span>
+  <span style="color: #000000;"><a href="./../../images/2017/02/assurance-detecteur-fumee.jpg"><img class="aligncenter wp-image-2832 " src="./../../images/2017/02/assurance-detecteur-fumee.jpg" alt="Incendies domestiques" /></a></span>
 </div>
 
 <h2 style="color: #4b5ebd; text-align: justify;">
@@ -99,7 +99,7 @@ tags:
   </div>
   
   <div>
-    <span style="color: #000000;">- Fermez les portes.</span></p> 
+    <span style="color: #000000;">- Fermez les portes.</span> 
     
     <div style="text-align: justify;">
       <span style="color: #000000;">- Si la fumée passe sous la porte, arrosez la porte et colmatez-la avec des linges mouillés.</span><br /> <span style="color: #000000;">- Attendez les secours en vous manifestant à une fenêtre.</span><br /> <span style="color: #000000;">- Si la fumée envahit la pièce, rampez au sol et couvrez-vous le nez et la bouche avec un mouchoir humide.</span>
@@ -114,7 +114,7 @@ tags:
     </h2>
     
     <div>
-      <span style="color: #000000;">- Si le feu est sur vous, roulez-vous par terre.</span></p> 
+      <span style="color: #000000;">- Si le feu est sur vous, roulez-vous par terre.</span> 
       
       <div style="text-align: justify;">
         <span style="color: #000000;">- Si vous voyez le feu sur une personne, roulez-la dans une couverture ou un manteau non synthétique.</span><br /> <span style="color: #000000;">- N&rsquo;essayez pas d&rsquo;enlever des vêtements brûlés, ils collent à la peau.</span><br /> <span style="color: #000000;">- Le plus tôt possible arrosez la victime pour refroidir les éventuelles brûlures</span>

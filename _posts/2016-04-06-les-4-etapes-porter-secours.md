@@ -14,7 +14,7 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  <a href="./../../images/2016/04/premiers_secours.jpg"><img class="aligncenter wp-image-2522" title="Les gestes de premiers secours" src="./../../images/2016/04/premiers_secours.jpg" alt="Les gestes de premiers secours" width="657" height="493" /></a>
+  <a href="./../../images/2016/04/premiers_secours.jpg"><img class="aligncenter wp-image-2522" title="Les gestes de premiers secours" src="./../../images/2016/04/premiers_secours.jpg" alt="Les gestes de premiers secours"/></a>
 </p>
 
 <h1 style="text-align: justify;">

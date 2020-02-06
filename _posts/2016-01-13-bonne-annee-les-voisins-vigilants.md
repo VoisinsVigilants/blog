@@ -12,7 +12,7 @@ categories:
 **2016, une nouvelle année qui commence. On en profite pour vous souhaiter à nouveau une très bonne et heureuse année ! **
 
 <p style="text-align: justify;">
-  <a href="./../../images/2016/01/1462950_970688236338599_4256586120003246812_n.jpg"><img class="aligncenter size-full wp-image-2089" src="./../../images/2016/01/1462950_970688236338599_4256586120003246812_n.jpg" alt="1462950_970688236338599_4256586120003246812_n" width="418" height="444" /></a>
+  <a href="./../../images/2016/01/1462950_970688236338599_4256586120003246812_n.jpg"><img class="aligncenter size-full wp-image-2089" src="./../../images/2016/01/1462950_970688236338599_4256586120003246812_n.jpg" alt="1462950_970688236338599_4256586120003246812_n"/></a>
 </p>
 
 <p style="text-align: justify;">

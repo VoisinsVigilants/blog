@@ -14,7 +14,7 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  <a href="http://blog.voisinsvigilants.org/wp-content/uploads/2015/11/Sondage.jpg"><img class="aligncenter size-full wp-image-1817" src="http://blog.voisinsvigilants.org/wp-content/uploads/2015/11/Sondage.jpg" alt="Sondage" width="606" height="379" /></a>
+  <a href="./../../images/2015/11/Sondage.jpg"><img class="aligncenter size-full wp-image-1817" src="./../../images/2015/11/Sondage.jpg" alt="Sondage" /></a>
 </p>
 
 <p style="text-align: justify;">

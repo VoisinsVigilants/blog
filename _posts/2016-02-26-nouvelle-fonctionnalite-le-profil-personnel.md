@@ -16,7 +16,7 @@ tags:
 </p>
 
 <p style="text-align: justify;">
-  <a href="./../../images/2016/02/262.jpg"><img class="aligncenter size-full wp-image-2410" src="./../../images/2016/02/262.jpg" alt="26" width="936" height="639" /></a>
+  <a href="./../../images/2016/02/262.jpg"><img class="aligncenter size-full wp-image-2410" src="./../../images/2016/02/262.jpg" alt="26" /></a>
 </p>
 
 <p style="text-align: justify;">
@@ -44,5 +44,5 @@ tags:
 </p>
 
 <p style="color: #000000;">
-  <a href="https://www.voisinsvigilants.org/users/login"><img class="aligncenter  wp-image-2370" src="./../../images/2016/02/Personnages-1.jpg" alt="05_foodmix" width="396" height="82" /></a>
+  <a href="https://www.voisinsvigilants.org/users/login"><img class="aligncenter  wp-image-2370" src="./../../images/2016/02/Personnages-1.jpg" alt="05_foodmix"/></a>
 </p>

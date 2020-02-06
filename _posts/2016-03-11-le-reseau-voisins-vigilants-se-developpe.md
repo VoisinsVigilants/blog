@@ -17,7 +17,7 @@ tags:
 </p>
 
 <p style="color: #000000;">
-  <a href="./../../images/2016/03/1.png"><img class="aligncenter wp-image-2455 " src="./../../images/2016/03/1.png" alt="Sondage sur le dispositif Voisins Vigilants" width="989" height="568" /></a>
+  <a href="./../../images/2016/03/1.png"><img class="aligncenter wp-image-2455 " src="./../../images/2016/03/1.png" alt="Sondage sur le dispositif Voisins Vigilants" /></a>
 </p>
 
 <p style="color: #000000; text-align: justify;">

@@ -13,10 +13,10 @@ tags:
   - Delinquance
   - Mairie Vigilante et Solidaire
 ---
-<div id="attachment_222" style="width: 1010px" class="wp-caption alignnone">
-  <a href="http://blog.voisinsvigilants.org/wp-content/uploads/2014/09/Abécédaire-small.jpg"><img class="wp-image-222" src="http://blog.voisinsvigilants.org/wp-content/uploads/2014/09/Abécédaire-small.jpg" alt="Voisins Vigilants : efficace face à la délinquance dans les campagnes... mais aussi en villes !" width="1000" height="700" /></a>
+
+  <a href="./../../images/2014/09/Abecedaire-small.jpg"><img class="wp-image-222" src="./../../images/2014/09/Abecedaire-small.jpg" alt="Voisins Vigilants : efficace face à la délinquance dans les campagnes... mais aussi en villes !" /></a>
   
   <p class="wp-caption-text">
     Premières recommandations de la mission d&rsquo;information parlementaire de lutte contre l&rsquo;insécurité : face à la délinquance  « l&rsquo;initiative Voisins Vigilants gagnerait à être expérimentée en milieu urbain dense, dans les habitats collectifs »
   </p>
-</div>
+

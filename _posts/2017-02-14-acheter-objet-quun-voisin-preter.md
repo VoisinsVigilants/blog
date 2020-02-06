@@ -21,7 +21,7 @@ categories:
 </div>
 
 <div style="color: #4b5ebd; text-align: justify;">
-  <a href="./../../images/2016/12/20161227_120103-1.jpg"><img class="aligncenter size-full wp-image-2804" src="./../../images/2016/12/20161227_120103-1.jpg" alt="20161227_120103 (1)" width="4608" height="2592" /></a>
+  <a href="./../../images/2016/12/20161227_120103-1.jpg"><img class="aligncenter size-full wp-image-2804" src="./../../images/2016/12/20161227_120103-1.jpg" alt="20161227_120103 (1)" /></a>
 </div>
 
 <div style="color: #4b5ebd; text-align: justify;">

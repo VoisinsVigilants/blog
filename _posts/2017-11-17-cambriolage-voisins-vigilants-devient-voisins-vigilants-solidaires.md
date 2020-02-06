@@ -15,13 +15,11 @@ tags:
 ---
 ##### A l&rsquo;occasion de notre changement de nom le  site Breizh-info.com a édité un article sur le dispositif Voisins Vigilants et Solidaires.
 
-[<img class="aligncenter size-full wp-image-1645" src="http://blog.voisinsvigilants.org/presse/wp-content/uploads/sites/5/2017/11/BREIZH.jpg" alt="BREIZH" width="810" height="540" />](http://blog.voisinsvigilants.org/presse/wp-content/uploads/sites/5/2017/11/BREIZH.jpg)
+[<img class="aligncenter size-full wp-image-1645" src="./../../images/2017/11/BREIZH.jpg" alt="BREIZH" />](./../../images/2017/11/BREIZH.jpg)
 
 &nbsp;
 
 Voisins Vigilants et Solidaires, au travers de sa plateforme web <a href="http://www.voisinsvigilants.org/" target="_blank" data-wpel-link="external">www.voisinsvigilants.org</a>, est un réseau social de voisinage qui lutte contre les cambriolages en recréant du lien social avec ses voisins. Principalement connue comme une plateforme qui lutte contre l’insécurité , c’est également un outil d’entraide aux personnes isolées (téléassistance connectée au voisinage…) et de services de proximité entre voisins (petites annonces, covoiturage…).
-
-#### 
 
 #### LA SÉCURITÉ DE PROXIMITÉ
 

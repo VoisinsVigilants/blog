@@ -14,4 +14,6 @@ tags:
 ---
 Face à la flambée des cambriolages, les habitants se mobilisent et deviennent Voisins Vigilants en s&rsquo;inscrivant sur www.voisinsvigilants.org. Enquête.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JXa16hL432A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="videocontent">
+<iframe class="iframe-video" src="https://www.youtube.com/embed/JXa16hL432A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>

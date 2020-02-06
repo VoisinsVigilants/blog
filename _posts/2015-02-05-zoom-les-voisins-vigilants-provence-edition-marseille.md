@@ -12,6 +12,6 @@ tags:
   - La Provence
   - Voisins Vigilants et Solidaires
 ---
-[<img class="alignnone size-full wp-image-697" src="http://blog.voisinsvigilants.org/presse/wp-content/uploads/sites/5/2015/02/LP1.jpg" alt="LP1" width="921" height="810" />](http://blog.voisinsvigilants.org/presse/wp-content/uploads/sites/5/2015/02/LP1.jpg)
+[<img class="alignnone size-full wp-image-697" src="./../../images/2015/02/LP1.jpg" alt="LP1" />](./../../images/2015/02/LP1.jpg)
 
-[<img class="alignnone size-full wp-image-698" src="http://blog.voisinsvigilants.org/presse/wp-content/uploads/sites/5/2015/02/LP2.jpg" alt="LP2" width="910" height="506" />](http://blog.voisinsvigilants.org/presse/wp-content/uploads/sites/5/2015/02/LP2.jpg)
+[<img class="alignnone size-full wp-image-698" src="./../../images/2015/02/LP2.jpg" alt="LP2" />](./../../images/2015/02/LP2.jpg)

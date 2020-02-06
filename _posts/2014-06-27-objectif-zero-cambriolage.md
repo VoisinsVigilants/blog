@@ -14,9 +14,9 @@ tags:
   - Autocollants dissuasifs
   - Panneaux Voisins Vigilants et Solidaires
 ---
-<a href="http://blog.voisinsvigilants.org/presse/wp-content/uploads/sites/5/2014/09/Article-LE-PARISIEN-1.jpg" target="_blank"><img class="alignnone wp-image-367" src="http://blog.voisinsvigilants.org/presse/wp-content/uploads/sites/5/2014/09/Article-LE-PARISIEN-1-1024x672.jpg" alt="objectif zéro cambriolage 1" width="700" height="460" /></a>
+<a href="./../../images/2014/09/Article-LE-PARISIEN-1.jpg" target="_blank"><img class="alignnone wp-image-367" src="./../../images/2014/09/Article-LE-PARISIEN-1.jpg" alt="objectif zéro cambriolage 1"  /></a>
 
-<a href="http://blog.voisinsvigilants.org/presse/wp-content/uploads/sites/5/2014/09/Article-LE-PARISIEN-2-et-3.jpg" target="_blank"><img class="alignnone wp-image-368" src="http://blog.voisinsvigilants.org/presse/wp-content/uploads/sites/5/2014/09/Article-LE-PARISIEN-2-et-3-1024x707.jpg" alt="objectif zéro cambriolage 2" width="700" height="484" /></a>
+<a href="./../../images/2014/09/Article-LE-PARISIEN-2-et-3.jpg" target="_blank"><img class="alignnone wp-image-368" src="./../../images/2014/09/Article-LE-PARISIEN-2-et-3.jpg" alt="objectif zéro cambriolage 2"  /></a>
 
 <p style="text-align: center">
   A voir aussi : <a href="http://blog.voisinsvigilants.org/presse/2012/07/18/zero-cambriolage-dirac-fr2/" target="_blank">Zéro cambriolage à Dirac</a>

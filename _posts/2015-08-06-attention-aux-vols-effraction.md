@@ -11,7 +11,7 @@ categories:
 ---
 **Les vols avec effraction sont de plus en plus nombreux. Aujourd’hui****, l’équipe des Voisins Vigilants vous fait découvrir les techniques employées par les cambrioleurs.**
 
-[<img class="aligncenter size-full wp-image-692" src="http://blog.voisinsvigilants.org/wp-content/uploads/2015/08/Cambriolage.jpg" alt="Cambriolage" width="600" height="400" />](http://blog.voisinsvigilants.org/wp-content/uploads/2015/08/Cambriolage.jpg)
+[<img class="aligncenter size-full wp-image-692" src="./../../images/2015/08/Cambriolage.jpg" alt="Cambriolage" />](./../../images/2015/08/Cambriolage.jpg)
 
 <p style="text-align: justify;">
   <span style="color: #000000;">La plupart des cambrioleurs font comme tout un chacun : ils rentrent par la porte !</span><br style="color: #000000;" /><br style="color: #000000;" /><span style="color: #000000;">C&rsquo;est donc ce point sensible qu&rsquo;il faut renforcer en priorité. Si en maison individuelle ou au rez-de-chaussée une partie des intrusions ont lieu par les fenêtres</span><span style="color: #000000;">, en appartement c&rsquo;est la porte qui est visée dans plus de 90% des cambriolages.</span>

@@ -18,7 +18,7 @@ tags:
 </p>
 
 <p style="text-align: justify;">
-  <a href="http://blog.voisinsvigilants.org/wp-content/uploads/2015/08/2103327_434_10638975_800x400.jpg"><img class="aligncenter size-full wp-image-949" src="http://blog.voisinsvigilants.org/wp-content/uploads/2015/08/2103327_434_10638975_800x400.jpg" alt="2103327_434_10638975_800x400" width="800" height="400" /></a>
+  <a href="./../../images/2015/08/2103327_434_10638975_800x400.jpg"><img class="aligncenter size-full wp-image-949" src="./../../images/2015/08/2103327_434_10638975_800x400.jpg" alt="2103327_434_10638975_800x400" /></a>
 </p>
 
 <p style="text-align: justify;">

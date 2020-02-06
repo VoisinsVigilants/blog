@@ -18,15 +18,12 @@ categories:
   <span style="color: #ffffff;">voisins</span>
 </div>
 
-<div style="color: #4b5ebd; text-align: justify;">
-  <div id="attachment_2783" style="width: 539px" class="wp-caption aligncenter">
-    <a href="./../../images/2016/12/1.jpg"><img class="wp-image-2783 size-full" src="./../../images/2016/12/1.jpg" alt="Intoxication au monoxyde de carbone" width="529" height="198" /></a>
+<a href="./../../images/2016/12/1.jpg"><img class="wp-image-2783 size-full" src="./../../images/2016/12/1.jpg" alt="Intoxication au monoxyde de carbone"  /></a>
     
-    <p class="wp-caption-text">
-      Illustration © Inpes
-    </p>
-  </div>
-</div>
+<p class="wp-caption-text">
+   Illustration © Inpes
+</p>
+
 
 <h3 style="color: #4b5ebd; text-align: justify;">
   <span style="color: #000000;">Quels sont les symptômes d&rsquo;une intoxication au monoxyde de carbone ?</span>

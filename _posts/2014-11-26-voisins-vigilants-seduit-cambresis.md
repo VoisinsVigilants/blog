@@ -11,4 +11,4 @@ categories:
 tags:
   - La Voix du Nord
 ---
-[<img class="alignleft wp-image-296 size-full" src="http://blog.voisinsvigilants.org/wp-content/uploads/2014/11/Capture-2.jpg" alt="Capture 2" width="614" height="880" />](http://blog.voisinsvigilants.org/wp-content/uploads/2014/11/Capture-2.jpg)
+[<img class="alignleft wp-image-296 size-full" src="./../../images/2014/11/Capture-2.jpg" alt="Capture 2" />](./../../images/2014/11/Capture-2.jpg)

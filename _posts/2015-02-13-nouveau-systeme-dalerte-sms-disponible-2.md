@@ -13,5 +13,5 @@ tags:
   - Voisins Vigilants et Solidaires
 ---
 <p style="text-align: center;">
-  <a href="http://blog.voisinsvigilants.org/wp-content/uploads/2015/02/Image1.png"><img class="alignnone size-full wp-image-442" src="http://blog.voisinsvigilants.org/wp-content/uploads/2015/02/Image1.png" alt="Image1" width="846" height="834" /></a>
+  <a href="./../../images/2015/02/Image1.png"><img class="alignnone size-full wp-image-442" src="./../../images/2015/02/Image1.png" alt="Image1" /></a>
 </p>

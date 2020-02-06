@@ -14,7 +14,7 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  <a href="./../../images/2016/05/Fête-des-voisins.jpg"><img class="aligncenter wp-image-2560" src="./../../images/2016/05/Fête-des-voisins.jpg" alt="La fête des voisins dans un quartier" width="921" height="642" /></a>
+  <a href="./../../images/2016/05/Fete-des-voisins.jpg"><img class="aligncenter wp-image-2560" src="./../../images/2016/05/Fete-des-voisins.jpg" alt="La fête des voisins dans un quartier" /></a>
 </p>
 
 <p style="text-align: justify;">

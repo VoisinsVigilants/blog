@@ -16,7 +16,7 @@ tags:
 </p>
 
 <p style="color: #3e4b51;">
-  <a href="http://blog.voisinsvigilants.org/wp-content/uploads/2015/09/timthumb.jpg"><img class="aligncenter  wp-image-1238" src="http://blog.voisinsvigilants.org/wp-content/uploads/2015/09/timthumb.jpg" alt="timthumb" width="847" height="441" /></a>
+  <a href="./../../images/2015/09/timthumb.jpg"><img class="aligncenter  wp-image-1238" src="./../../images/2015/09/timthumb.jpg" alt="timthumb"/></a>
 </p>
 
 <p style="color: #3e4b51; text-align: justify;">

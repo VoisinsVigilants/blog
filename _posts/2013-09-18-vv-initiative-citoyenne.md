@@ -13,13 +13,13 @@ tags:
   - RMC
   - Initiative citoyenne
 ---
-<div id="attachment_165" style="width: 1447px" class="wp-caption aligncenter">
-  <a title="Opinion" href="http://blog.voisinsvigilants.org/wp-content/uploads/2014/09/Exclu-Facebook.jpg" target="_blank"><img class="size-full wp-image-165" src="http://blog.voisinsvigilants.org/wp-content/uploads/2014/09/Exclu-Facebook.jpg" alt="oisins Vigilants : une initiative citoyenne pour 91% des auditeurs" width="1437" height="803" /></a>
+
+  <a title="Opinion" href="./../../images/2014/09/Exclu-Facebook.jpg" target="_blank"><img class="size-full wp-image-165" src="./../../images/2014/09/Exclu-Facebook.jpg" alt="oisins Vigilants : une initiative citoyenne pour 91% des auditeurs" /></a>
   
   <p class="wp-caption-text">
     Opinion : pour 91% des auditeurs de RMC, Voisins Vigilants est une initiative citoyenne (18/08/2013)
   </p>
-</div>
+
 
 <p style="text-align: center">
   Et vous, qu&rsquo;en pensez-vous ?

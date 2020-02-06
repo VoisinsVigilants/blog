@@ -17,13 +17,12 @@ tags:
   <span style="color: #000000;"><strong>Montesson est la ville des Yvelines où les “voisins vigilants” sont le plus nombreux, avec </strong><strong>1119 voisins répartis à travers 15 communautés.</strong></span>
 </p>
 
-<div id="attachment_2549" style="width: 809px" class="wp-caption aligncenter">
-  <a href="./../../images/2016/04/Voisins-vigilants-630x0.jpg"><img class="wp-image-2549" src="./../../images/2016/04/Voisins-vigilants-630x0.jpg" alt="Un référent de communauté explique le dispositif" width="799" height="505" /></a>  
+
+  <a href="./../../images/2016/04/Voisins-vigilants-630x0.jpg"><img class="wp-image-2549" src="./../../images/2016/04/Voisins-vigilants-630x0.jpg" alt="Un référent de communauté explique le dispositif"/></a>  
      
   <p class="wp-caption-text">
     11 841 &laquo;&nbsp;Voisins Vigilants&nbsp;&raquo; sont répertoriés dans les Yvelines. (Crédit Jean-Christophe Magneret)
   </p>
-</div>
 
 <p class="bigger mts mbs" style="text-align: justify;" data-role="chapo">
   <span style="color: #000000;">Les débuts remontent à 2013. Le dispositif “Voisins Vigilants” a démarré dans le quartier des Rabaux. Des constructions nouvelles “Les Hautes Terres” voient le jour. Les habitants se sentent isolés. Ils veulent créer une communauté de voisins vigilants.</span>

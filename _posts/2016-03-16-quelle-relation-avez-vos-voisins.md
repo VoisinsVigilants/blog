@@ -9,6 +9,6 @@ permalink: /blog/quelle-relation-avez-vos-voisins/
 categories:
   - Voisins Vigilants et Solidaires
 ---
-[<img class="aligncenter size-full wp-image-2486" src="./../../images/2016/03/image-article.jpg" alt="Imprimir" width="800" height="624" />](./../../images/2016/03/image-article.jpg)
+[<img class="aligncenter size-full wp-image-2486" src="./../../images/2016/03/image-article.jpg" alt="Imprimir" />](./../../images/2016/03/image-article.jpg)
 
 <span style="color: #000000;">Si vous aussi vous souhaitez adhérer au dispositif Voisins Vigilants, inscrivez-vous sur le site </span><a style="font-weight: inherit; font-style: inherit; color: #fbc400;" href="http://www.voisinsvigilants.org/">www.voisinsvigilants.org</a><span style="color: #000000;"> pour rejoindre la communauté de voisins de votre quartier !</span>

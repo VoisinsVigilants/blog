@@ -20,7 +20,7 @@ tags:
 
 <div class="attribute-text" style="color: #424242;">
   <p style="text-align: justify;">
-    <a href="http://blog.voisinsvigilants.org/wp-content/uploads/2015/07/Opération-tranquilité-vacances-post.jpg"><img class="aligncenter size-full wp-image-678" src="http://blog.voisinsvigilants.org/wp-content/uploads/2015/07/Opération-tranquilité-vacances-post.jpg" alt="Opération tranquilité vacances post" width="660" height="330" /></a>
+    <a href="./../../images/2015/07/Operation-tranquilite-vacances-post.jpg"><img class="aligncenter size-full wp-image-678" src="./../../images/2015/07/Operation-tranquilite-vacances-post.jpg" alt="Opération tranquilité vacances post"/></a>
   </p>
   
   <p style="text-align: justify;">

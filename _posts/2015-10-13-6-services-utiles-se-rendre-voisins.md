@@ -17,7 +17,7 @@ tags:
 </p>
 
 <p style="text-align: justify;">
-  <a href="http://blog.voisinsvigilants.org/wp-content/uploads/2015/09/Fotolia_85375252_Subscription_Monthly_M.jpg"><img class="aligncenter size-full wp-image-1075" src="http://blog.voisinsvigilants.org/wp-content/uploads/2015/09/Fotolia_85375252_Subscription_Monthly_M.jpg" alt="Person Doing Shopping For Elderly Neighbour" width="1687" height="1126" /></a>
+  <a href="./../../images/2015/09/Fotolia_85375252_Subscription_Monthly_M.jpg"><img class="aligncenter size-full wp-image-1075" src="./../../images/2015/09/Fotolia_85375252_Subscription_Monthly_M.jpg" alt="Person Doing Shopping For Elderly Neighbour" /></a>
 </p>
 
 <h2 style="text-align: justify;">

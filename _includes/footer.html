@@ -1,28 +1,14 @@
 <footer class="site-footer">
 
   <div class="wrapper">
-
+		{% if site.subtitle %}<p class="subtitle">{{ site.subtitle }}</p>{% endif %}
     <h3 class="footer-heading">{{ site.title }}</h3>
 
-    <div class="site-navigation">
-
-      <p><strong>Site Map</strong></p>
-      <ul class="pages">
-				{% include nav_links.html %}
-      </ul>
-    </div>
-
     <div class="site-contact">
-
-      <p><strong>Contact</strong></p>
+      <p>
+				<strong>Contact</strong>:<br><a href="mailto:{{ site.email }}"><i class="fa fa-envelope-o"></i>&nbsp;<span class="username">{{ site.email }}</span></a>
+			</p>
       <ul class="social-media-list">
-        <li>
-          <a href="mailto:{{ site.email }}">
-            <i class="fa fa-envelope-o"></i>
-            <span class="username">{{ site.email }}</span>
-          </a>
-        </li>
-
         {% for social in site.social %}
           {% if social.url != "" %}
           <li>
@@ -37,10 +23,10 @@
       </ul>
     </div>
 
-    <div class="site-signature">
-      <p class="rss-subscribe text"><strong>Subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></strong></p>
-      <p class="text">{{ site.description }}</p>
-    </div>
+<!--    <div class="site-signature">-->
+<!--      <p class="rss-subscribe text"><strong>Subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></strong></p>-->
+<!--      <p class="text">{{ site.description }}</p>-->
+<!--    </div>-->
 
   </div>
 

@@ -49,10 +49,11 @@ pre code.hljs {
 .page-divider {
 	$divider-color: $light-gray;
   display: block;
-  width: 50%;
+  width: 100%;
   margin-left: auto;
   margin-right: auto;
   border-top: 1px solid $divider-color;
+	margin-top: 20px;
   .one {
     position: relative;
     top: -9px;
@@ -113,11 +114,11 @@ pre code.hljs {
 *	Header
 */
 .navigation {
-	box-shadow: 0 2px $highlight-color;
+	box-shadow: 0 4px $highlight-color;
 	padding: 0 1em;
 	margin: 0;
 	// Remove this to make header scrollable again
-	position: fixed;
+	//position: fixed;
 	top: 0;
 	left: 0;
 	right: 0;
@@ -215,7 +216,7 @@ pre code.hljs {
 */
 .page-content {
 	// Remove this to make header scrollable again
-	margin-top: 66px;
+	//margin-top: 250px;
 	.wrapper {
 		@include outer-container;
 		padding: 1em;

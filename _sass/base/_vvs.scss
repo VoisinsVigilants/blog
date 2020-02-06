@@ -49,6 +49,21 @@
 	height: 315px;
 }
 
+//.navigation{
+//	padding-bottom: 25px !important;
+//}
+
+.site-header{
+	text-align: center;
+	.subtitle{
+		font-size: 1.5rem;
+		font-weight:200;
+	}
+	h1.title{
+		font-size: 1.7em;
+	}
+}
+
 @media (max-width: 755px) {
 	.video-vv{
 			height: 150px;
@@ -65,6 +80,10 @@
 
 	.logo-responsive{
 		display: none;
+	}
+
+	h2{
+		font-size: 1.4em;
 	}
 
 }

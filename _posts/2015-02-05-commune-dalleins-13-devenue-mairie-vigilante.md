@@ -14,6 +14,6 @@ tags:
 ---
 **La Mairie d&rsquo;Alleins a à son tour succombé au dispositif des Voisins Vigilants et devient Mairie Vigilante ! **
 
-<img class="wp-image-652" src="http://blog.voisinsvigilants.org/presse/wp-content/uploads/sites/5/2015/02/alleins1.jpg" alt="La commune d'Alleins dans la Provence ! " width="860" height="730" />
+<img class="wp-image-652" src="./../../images/2015/02/alleins1.jpg" alt="La commune d'Alleins dans la Provence ! " />
 
-<img class="wp-image-653" src="http://blog.voisinsvigilants.org/presse/wp-content/uploads/sites/5/2015/02/alleins2.jpg" alt="Alleins, Mairie Vigilante" width="967" height="801" />
+<img class="wp-image-653" src="./../../images/2015/02/alleins2.jpg" alt="Alleins, Mairie Vigilante"/>

@@ -11,8 +11,8 @@ categories:
 tags:
   - FranceTV info
 ---
-<a title="Interview complète" href="http://blog.voisinsvigilants.org/presse/wp-content/uploads/sites/5/2014/09/Article-Web-Francetv-info.jpg" target="_blank"><img class="size-full wp-image-158 aligncenter" src="./../../images/2014/09/Short-Article-Web-Francetv-info.jpg" alt="Face à l'insécurité, les Voisins Vigilants se multiplient" width="662" height="638" /></a>
+<a title="Interview complète" href="./../../images/2014/09/Article-Web-Francetv-info.jpg" target="_blank"><img class="size-full wp-image-158 aligncenter" src="./../../images/2014/09/Short-Article-Web-Francetv-info.jpg" alt="Face à l'insécurité, les Voisins Vigilants se multiplient" /></a>
 
 <p style="text-align: center">
-  Pour accéder à l&rsquo;interview complète, cliquez <a href="http://blog.voisinsvigilants.org/presse/wp-content/uploads/sites/5/2014/09/Article-Web-Francetv-info.jpg" target="_blank">ici</a> ou sur l&rsquo;image.
+  Pour accéder à l&rsquo;interview complète, cliquez <a href="./../../images/2014/09/Article-Web-Francetv-info.jpg" target="_blank">ici</a> ou sur l&rsquo;image.
 </p>

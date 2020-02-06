@@ -15,7 +15,7 @@ tags:
 
 &nbsp;
 
-[<img class="alignnone size-full wp-image-316" src="./../../images/2015/01/ramassage-e1420642632474.jpg" alt="ramassage" width="640" height="480" />](./../../images/2015/01/ramassage-e1420642632474.jpg)
+[<img class="alignnone size-full wp-image-316" src="./../../images/2015/01/ramassage-e1420642632474.jpg" alt="ramassage" />](./../../images/2015/01/ramassage-e1420642632474.jpg)
 
 <p style="text-align: justify;">
   Le calendrier de la collecte des ordures ménagères dans les communes est un des indicateurs pour les cambrioleurs potentiels. Si une poubelle est déposée plusieurs jours au bord de la route avant le ramassage ou laissée seule alors que la collecte a eu lieu, cela constitue un signe d&rsquo;absence de ses propriétaires. En outre, comme souvent le numéro de la rue est indiqué sur les poubelles, il est facile pour les malfrats de trouver le logement en question. Ce qui leur permettra d’effectuer des repérages préalables avant de passer éventuellement à l’action.

@@ -11,14 +11,14 @@ categories:
 tags:
   - Le Figaro
 ---
-<img class="size-medium wp-image-130 alignleft" src="./../../images/2014/09/logo-300x58.jpg" alt="logo" width="300" height="58" />
+<img class="size-medium wp-image-130 alignleft" src="./../../images/2014/09/logo.jpg" alt="logo" />
 
 &nbsp;
 
-<div id="attachment_117" style="width: 2222px" class="wp-caption alignnone">
-  <a title="Le Figaro" href="./../../images/2014/09/Article-Le-Figaro-Big.jpg" target="_blank"><img class="wp-image-117 size-full" src="./../../images/2014/09/Article-Le-Figaro-Big.jpg" alt="VOISINS VIGILANTS ET FORCES DE L’ORDRE" width="2212" height="1633" /></a>
+
+  <a title="Le Figaro" href="./../../images/2014/09/Article-Le-Figaro-Big.jpg" target="_blank"><img class="wp-image-117 size-full" src="./../../images/2014/09/Article-Le-Figaro-Big.jpg" alt="VOISINS VIGILANTS ET FORCES DE L’ORDRE"/></a>
   
   <p class="wp-caption-text">
     Voisins Vigilants et Forces de l’Ordre travaillent ensemble à rendre leur commune plus sûre
   </p>
-</div>
+

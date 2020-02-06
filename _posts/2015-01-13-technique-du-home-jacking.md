@@ -15,7 +15,7 @@ tags:
 ---
 <em style="font-style: italic; color: #555555;">© </em><span style="color: #000000;">PHOTO Y. MIGNOT/PQR SUD OUEST</span>
 
-[<img class="wp-image-342 aligncenter" src="./../../images/2015/01/592262_18846154_460x306.jpg" alt="592262_18846154_460x306" width="648" height="431" />](./../../images/2015/01/592262_18846154_460x306.jpg)
+[<img class="wp-image-342 aligncenter" src="./../../images/2015/01/592262_18846154_460x306.jpg" alt="592262_18846154_460x306"  />](./../../images/2015/01/592262_18846154_460x306.jpg)
 
 <h2 style="text-align: justify;">
   <a href="./../../images/2015/01/592262_18846154_460x306.jpg"><br /> </a><strong>Le home-jacking est une technique de cambriolage dont vous avez certainement déjà entendu parler. En quoi consiste-t-elle exactement et comment faire pour l&rsquo;éviter ?</strong>

@@ -11,15 +11,15 @@ categories:
 tags:
   - Communautes
 ---
-<img class="aligncenter size-medium wp-image-123" src="./../../images/2014/09/Grazia-logo-300x92.jpg" alt="Grazia-logo" width="300" height="92" />
+<img class="aligncenter size-medium wp-image-123" src="./../../images/2014/09/Grazia-logo.jpg" alt="Grazia-logo" />
 
-<div id="attachment_124" style="width: 512px" class="wp-caption aligncenter">
-  <a title="Grazia" href="./../../images/2014/09/VV-Grazia.jpg" target="_blank"><img class="wp-image-124 size-full" src="./../../images/2014/09/VV-Grazia.jpg" alt="ZOOM SUR LE PHÉNOMÈNE VOISINS VIGILANTS" width="502" height="494" /></a>
+
+  <a title="Grazia" href="./../../images/2014/09/VV-Grazia.jpg" target="_blank"><img class="wp-image-124 size-full" src="./../../images/2014/09/VV-Grazia.jpg" alt="ZOOM SUR LE PHÉNOMÈNE VOISINS VIGILANTS" /></a>
   
   <p class="wp-caption-text">
     Depuis 2012, le phénomène Voisins Vigilants n’a cessé de prendre de l’ampleur face à la recrudescence des cambriolages
   </p>
-</div>
+
 
 <p style="text-align: center">
   <span style="color: #000000">Pour découvrir la carte des communautés aujourd’hui, cliquez </span><a style="color: #fbc400" href="http://www.voisinsvigilants.org/contacts/dispgmap" target="_blank">ici</a><span style="color: #000000">.</span>

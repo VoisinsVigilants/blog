@@ -270,6 +270,74 @@ img, picture {
     font-weight: 200;
 }
 
+.videocontent {
+    width: 80%;
+    max-width: 640px;
+    margin: 0 auto;
+}
+
+.video-vv {
+    width: 80%;
+    max-width: 640px;
+    max-height: 370px !important;
+}
+
+.iframe-video {
+    width: 80%;
+    max-width: 640px;
+    height: 315px;
+}
+
+.site-header {
+    text-align: center;
+}
+
+.site-header .subtitle {
+    font-size: 1.5rem;
+    font-weight: 200;
+}
+
+.site-header h1.title {
+    font-size: 1.7em;
+}
+
+@media (max-width: 755px) {
+    .video-vv {
+        height: 150px;
+    }
+
+    .iframe-video {
+        width: 230px;
+        height: 159px;
+    }
+
+    .logo {
+        width: 120px;
+    }
+
+    .logo-responsive {
+        display: none;
+    }
+
+    h2 {
+        font-size: 1.4em;
+    }
+
+    h1 {
+        font-size: 1.5em;
+    }
+}
+
+.site-footer .subtitle {
+    font-size: 1em;
+    margin-bottom: 0px;
+}
+
+.site-footer h3.footer-heading {
+    font-size: 1em;
+    margin-bottom: 5px;
+}
+
 html {
     box-sizing: border-box;
 }
@@ -311,10 +379,11 @@ pre code.hljs {
 
 .page-divider {
     display: block;
-    width: 50%;
+    width: 100%;
     margin-left: auto;
     margin-right: auto;
     border-top: 1px solid #ddd;
+    margin-top: 20px;
 }
 
 .page-divider .one {
@@ -384,10 +453,9 @@ pre code.hljs {
 *	Header
 */
 .navigation {
-    box-shadow: 0 2px #fcd754;
+    box-shadow: 0 4px #fcd754;
     padding: 0 1em;
     margin: 0;
-    position: fixed;
     top: 0;
     left: 0;
     right: 0;
@@ -508,7 +576,6 @@ pre code.hljs {
 *	Body
 */
 .page-content {
-    margin-top: 66px;
     /*
 *	index.html
 */

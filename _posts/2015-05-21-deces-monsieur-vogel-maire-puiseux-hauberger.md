@@ -24,5 +24,5 @@ permalink: /blog/deces-monsieur-vogel-maire-puiseux-hauberger/
 </div>
 
 <div style="color: #222222; text-align: justify;">
-  <span style="color: #ffffff;">v</span><a href="./../../images/2015/05/oeil-triste.jpg"><img class="wp-image-593 size-medium aligncenter" src="./../../images/2015/05/oeil-triste-300x288.jpg" alt="oeil triste" width="300" height="288" /></a></p>
+  <span style="color: #ffffff;">v</span><a href="./../../images/2015/05/oeil-triste.jpg"><img class="wp-image-593 size-medium aligncenter" src="./../../images/2015/05/oeil-triste.jpg" alt="oeil triste" /></a>
 </div>

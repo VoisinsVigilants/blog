@@ -12,9 +12,9 @@ tags:
   - France Dimanche
 ---
 <p style="text-align: center;">
-  <a href="./../../images/2015/03/francedimanche12.jpg"><img class="alignnone size-full wp-image-495" src="./../../images/2015/03/francedimanche12.jpg" alt="francedimanche1" width="607" height="835" /></a>
+  <a href="./../../images/2015/03/francedimanche12.jpg"><img class="alignnone size-full wp-image-495" src="./../../images/2015/03/francedimanche12.jpg" alt="francedimanche1" /></a>
 </p>
 
 <p style="text-align: center;">
-  <a href="./../../images/2015/03/francedimanche22.jpg"><img class="alignnone size-large wp-image-496" src="./../../images/2015/03/francedimanche22-399x1024.jpg" alt="francedimanche2" width="399" height="1024" /></a>
+  <a href="./../../images/2015/03/francedimanche22.jpg"><img class="alignnone size-large wp-image-496" src="./../../images/2015/03/francedimanche22.jpg" alt="francedimanche2" /></a>
 </p>

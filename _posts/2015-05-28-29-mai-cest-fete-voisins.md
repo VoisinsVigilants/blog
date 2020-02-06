@@ -14,7 +14,7 @@ categories:
 </h2>
 
 <p style="text-align: justify;">
-    <a href="./../../images/2015/05/fete-des-voisins-2012.jpg"><img class="alignleft wp-image-605 size-medium" src="./../../images/2015/05/fete-des-voisins-2012-300x187.jpg" alt="fete-des-voisins-2012" width="300" height="187" /></a>Célébrer la Fête des voisins avec votre communauté sera l&rsquo;occasion de passer un moment convivial avec vos voisins et renforcera entraide, solidarité et bienveillance. Peu importe la date officielle du 29 mai, organisez ce moment sympathique quand bon vous semble ! Vous pouvez planifier la fête grâce à l&rsquo;outil Gazette.
+    <a href="./../../images/2015/05/fete-des-voisins-2012.jpg"><img class="alignleft wp-image-605 size-medium" src="./../../images/2015/05/fete-des-voisins-2012.jpg" alt="fete-des-voisins-2012" /></a>Célébrer la Fête des voisins avec votre communauté sera l&rsquo;occasion de passer un moment convivial avec vos voisins et renforcera entraide, solidarité et bienveillance. Peu importe la date officielle du 29 mai, organisez ce moment sympathique quand bon vous semble ! Vous pouvez planifier la fête grâce à l&rsquo;outil Gazette.
 </p>
 
 <p style="text-align: center;">
@@ -31,7 +31,7 @@ categories:
 </h2>
 
 <h1 style="text-align: justify;">
-  <img class="alignleft wp-image-607 size-medium" src="./../../images/2015/05/flyer-300x168.jpg" alt="flyer" width="300" height="168" />
+  <img class="alignleft wp-image-607 size-medium" src="./../../images/2015/05/flyer.jpg" alt="flyer" />
 </h1>
 
 <p style="text-align: justify;">
@@ -50,7 +50,7 @@ categories:
   <span style="color: #ffcc00;"><strong>Envoyez vos photos à l&rsquo;équipe des Voisins Vigilants !</strong></span>
 </h2>
 
-[<img class="alignleft size-medium wp-image-606" src="./../../images/2015/05/01A7010F02069710-300x192.jpg" alt="01A7010F02069710" width="300" height="192" />](./../../images/2015/05/01A7010F02069710.jpg)
+[<img class="alignleft size-medium wp-image-606" src="./../../images/2015/05/01A7010F02069710.jpg" alt="01A7010F02069710" />](./../../images/2015/05/01A7010F02069710.jpg)
 
 <p style="text-align: justify;">
   Envoyez-nous les photos de votre Fête des voisins à support@voisinsvigilants.org. Nous les publierons sur Facebook et sur le blog officiel. Bonne Fête des voisins à tous !

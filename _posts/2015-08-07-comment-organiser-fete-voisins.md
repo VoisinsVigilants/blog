@@ -16,7 +16,7 @@ tags:
 </p>
 
 <p style="text-align: justify;">
-  <a href="./../../images/2015/08/IMG_5904.jpg"><img class="aligncenter size-full wp-image-748" src="./../../images/2015/08/IMG_5904.jpg" alt="IMG_5904" width="1280" height="960" /></a><i><b></b></i>
+  <a href="./../../images/2015/08/IMG_5904.jpg"><img class="aligncenter size-full wp-image-748" src="./../../images/2015/08/IMG_5904.jpg" alt="IMG_5904" /></a><i><b></b></i>
 </p>
 
 <p style="text-align: justify;">
@@ -48,7 +48,7 @@ tags:
 </div>
 
 <div style="color: #444444; text-align: justify;">
-  <a href="./../../images/2015/08/La-gazette.png"><img class="aligncenter size-full wp-image-749" src="./../../images/2015/08/La-gazette.png" alt="La gazette" width="402" height="525" /></a>
+  <a href="./../../images/2015/08/La-gazette.png"><img class="aligncenter size-full wp-image-749" src="./../../images/2015/08/La-gazette.png" alt="La gazette"/></a>
 </div>
 
 <div style="color: #444444; text-align: justify;">

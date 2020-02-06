@@ -15,4 +15,4 @@ tags:
 ---
 ## **Neuf-Marché (76) rejoint à son tour le service Mairie Vigilante.**
 
-<img class="aligncenter wp-image-616 size-full" src="./../../images/2015/05/Léclaireur-La-Dépêche-28-mai-2015.jpg" alt="L'éclaireur-La Dépêche-28 mai 2015" width="910" height="2449" />
+<img class="aligncenter wp-image-616 size-full" src="./../../images/2015/05/Leclaireur-La-Depeche-28-mai-2015.jpg" alt="L'éclaireur-La Dépêche-28 mai 2015" />

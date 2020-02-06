@@ -19,7 +19,7 @@ tags:
 </p>
 
 <p style="text-align: justify;">
-  <a href="./../../images/2015/08/cambrioleur.jpg"><img class="aligncenter size-full wp-image-740" src="./../../images/2015/08/cambrioleur.jpg" alt="Gefährlicher Eindringling" width="1690" height="1126" /></a>
+  <a href="./../../images/2015/08/cambrioleur.jpg"><img class="aligncenter size-full wp-image-740" src="./../../images/2015/08/cambrioleur.jpg" alt="Gefährlicher Eindringling" /></a>
 </p>
 
 <div class="im" style="color: #444444; text-align: justify;">

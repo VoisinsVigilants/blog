@@ -14,7 +14,7 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  <a href="./../../images/2016/03/MESSAGERIE.jpg"><img class="aligncenter size-full wp-image-2427" src="./../../images/2016/03/MESSAGERIE.jpg" alt="CITY" width="800" height="514" /></a>
+  <a href="./../../images/2016/03/MESSAGERIE.jpg"><img class="aligncenter size-full wp-image-2427" src="./../../images/2016/03/MESSAGERIE.jpg" alt="CITY" /></a>
 </p>
 
 # **Un repas original et convivial**

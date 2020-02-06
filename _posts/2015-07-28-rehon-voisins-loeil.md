@@ -14,7 +14,7 @@ tags:
   - Entraide
   - Voisins Vigilants et Solidaires
 ---
-[<img class="aligncenter  wp-image-663" src="http://blog.voisinsvigilants.org/wp-content/uploads/2015/07/jean-pierre-weber-premier-adjoint-est-l-un-des-trois-elus-referents-de-la-commune-pour-l-operation-voisins-vigilants-photo-samuel-moreau.jpg" alt="jean-pierre-weber-premier-adjoint-est-l-un-des-trois-elus-referents-de-la-commune-pour-l-operation-voisins-vigilants-photo-samuel-moreau" width="649" height="388" />](http://blog.voisinsvigilants.org/wp-content/uploads/2015/07/jean-pierre-weber-premier-adjoint-est-l-un-des-trois-elus-referents-de-la-commune-pour-l-operation-voisins-vigilants-photo-samuel-moreau.jpg)
+[<img class="aligncenter  wp-image-663" src="./../../images/2015/07/jean-pierre-weber-premier-adjoint-est-l-un-des-trois-elus-referents-de-la-commune-pour-l-operation-voisins-vigilants-photo-samuel-moreau.jpg" alt="jean-pierre-weber-premier-adjoint-est-l-un-des-trois-elus-referents-de-la-commune-pour-l-operation-voisins-vigilants-photo-samuel-moreau" />](./../../images/2015/07/jean-pierre-weber-premier-adjoint-est-l-un-des-trois-elus-referents-de-la-commune-pour-l-operation-voisins-vigilants-photo-samuel-moreau.jpg)
 
 <p style="text-align: justify;">
   Jean-Pierre Weber, premier adjoint, est l&rsquo;un des trois élus référents de la commune pour l&rsquo;opération Voisins Vigilants. <em>Photo Samuel MOREAU</em>

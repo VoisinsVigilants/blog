@@ -19,7 +19,7 @@ tags:
 
 ## <span style="font-weight: bold; color: #f0b91f;">Réunion apéro tous les mois</span>
 
-<img class="alignleft wp-image-530 size-thumbnail" src="http://blog.voisinsvigilants.org/wp-content/uploads/2015/04/soiree-entre-amis-150x150.jpg" alt="soiree-entre-amis" width="150" height="150" />
+<img class="alignleft wp-image-530 size-thumbnail" src="./../../images/2015/04/soiree-entre-amis.jpg" alt="soiree-entre-amis" />
 
 <p style="text-align: justify;">
   Voici un témoignage de Fabrice, référent d&rsquo;une communauté dans les Alpes Maritimes :
@@ -40,7 +40,7 @@ tags:
 ## <span style="font-weight: bold; color: #f0b91f;">Jeu-concours pour les fêtes de Pâques</span>
 
 <div style="color: #000000; text-align: left;">
-  <a href="http://blog.voisinsvigilants.org/wp-content/uploads/2015/04/paques-oeufs-lapin-enfants-171818.jpg"><img class="alignleft wp-image-531 size-thumbnail" src="http://blog.voisinsvigilants.org/wp-content/uploads/2015/04/paques-oeufs-lapin-enfants-171818-150x150.jpg" alt="Fêtes de Pâques jeu-concours" width="150" height="150" /></a>
+  <a href="./../../images/2015/04/paques-oeufs-lapin-enfants-171818.jpg"><img class="alignleft wp-image-531 size-thumbnail" src="./../../images/2015/04/paques-oeufs-lapin-enfants-171818.jpg" alt="Fêtes de Pâques jeu-concours" /></a>
 </div>
 
 <div style="color: #000000; text-align: justify;">

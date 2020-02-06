@@ -13,14 +13,14 @@ tags:
   - Mairie Vigilante et Solidaire
   - Voisins Vigilants et Solidaires
 ---
-[<img class="aligncenter  wp-image-1351" src="http://blog.voisinsvigilants.org/wp-content/uploads/2015/10/Sans-titre.png" alt="Sans titre" width="1035" height="140" />](http://blog.voisinsvigilants.org/wp-content/uploads/2015/10/Sans-titre.png)
+[<img class="aligncenter  wp-image-1351" src="./../../images/2015/10/Sans-titre.png" alt="Sans titre" />](./../../images/2015/10/Sans-titre.png)
 
 <p style="text-align: justify;">
   <span style="color: #000000;"><strong>Comme le signalent les panneaux à chaque entrée de la commune, le dispositif « Voisins Vigilants » est désormais actif à Coutras !</strong></span>
 </p>
 
 <p style="text-align: justify;">
-  <a href="http://blog.voisinsvigilants.org/wp-content/uploads/2015/10/Panneaux-coutras.jpg"><img class="aligncenter size-full wp-image-1353" src="http://blog.voisinsvigilants.org/wp-content/uploads/2015/10/Panneaux-coutras.jpg" alt="Panneaux coutras" width="800" height="400" /></a>
+  <a href="./../../images/2015/10/Panneaux-coutras.jpg"><img class="aligncenter size-full wp-image-1353" src="./../../images/2015/10/Panneaux-coutras.jpg" alt="Panneaux coutras" /></a>
 </p>
 
 <p style="text-align: center;">

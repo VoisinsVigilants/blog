@@ -17,7 +17,7 @@ tags:
 </p>
 
 <p style="text-align: justify;">
-  <a href="http://blog.voisinsvigilants.org/securite/wp-content/uploads/sites/6/2015/11/18-conseils-pour-vous-protéger2.jpg"><img class="aligncenter  wp-image-831" src="http://blog.voisinsvigilants.org/securite/wp-content/uploads/sites/6/2015/11/18-conseils-pour-vous-protéger2.jpg" alt="18 conseils pour vous protéger" width="810" height="405" /></a>
+  <a href="./../../images/2015/11/18-conseils-pour-vous-proteger2.jpg"><img class="aligncenter  wp-image-831" src="./../../images/2015/11/18-conseils-pour-vous-proteger2.jpg" alt="18 conseils pour vous protéger" /></a>
 </p>
 
 <h1 style="text-align: justify;">

@@ -16,7 +16,7 @@ categories:
 </div>
 
 <h3 style="color: #4b5ebd;">
-  <a href="./../../images/2017/01/froid.png"><img class="wp-image-2818 alignleft" src="./../../images/2017/01/froid.png" alt="froid" width="376" height="526" /></a>
+  <a href="./../../images/2017/01/froid.png"><img class="wp-image-2818 alignleft" src="./../../images/2017/01/froid.png" alt="froid"/></a>
 </h3>
 
 <p style="color: #4b5ebd; text-align: justify;">

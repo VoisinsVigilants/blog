@@ -18,11 +18,11 @@ tags:
 </p>
 
 <p style="text-align: justify;">
-  <a href="http://blog.voisinsvigilants.org/wp-content/uploads/2015/08/La-Provence-Marseille-21-08.jpg"><img class="aligncenter size-full wp-image-943" src="http://blog.voisinsvigilants.org/wp-content/uploads/2015/08/La-Provence-Marseille-21-08.jpg" alt="La Provence - Marseille 21-08" width="748" height="520" /></a>
+  <a href="./../../images/2015/08/La-Provence-Marseille-21-08.jpg"><img class="aligncenter size-full wp-image-943" src="./../../images/2015/08/La-Provence-Marseille-21-08.jpg" alt="La Provence - Marseille 21-08"/></a>
 </p>
 
 <p style="text-align: justify;">
-  <a href="http://blog.voisinsvigilants.org/wp-content/uploads/2015/08/Sans-titre.png"><img class="aligncenter size-full wp-image-944" src="http://blog.voisinsvigilants.org/wp-content/uploads/2015/08/Sans-titre.png" alt="Sans titre" width="600" height="67" /></a>
+  <a href="./../../images/2015/08/Sans-titre.png"><img class="aligncenter size-full wp-image-944" src="./../../images/2015/08/Sans-titre.png" alt="Sans titre" /></a>
 </p>
 
 <p style="color: #1d2528; text-align: justify;">
@@ -53,9 +53,9 @@ tags:
   <strong><span style="color: #000000;">Travailler main dans la main avec la police</span></strong>
 </h2>
 
-[<img class="aligncenter size-full wp-image-945" src="http://blog.voisinsvigilants.org/wp-content/uploads/2015/08/20150821_1_5_1_1_0_obj9650476_1.jpg" alt="20150821_1_5_1_1_0_obj9650476_1" width="426" height="520" />](http://blog.voisinsvigilants.org/wp-content/uploads/2015/08/20150821_1_5_1_1_0_obj9650476_1.jpg)
+[<img class="aligncenter size-full wp-image-945" src="./../../images/2015/08/20150821_1_5_1_1_0_obj9650476_1.jpg" alt="20150821_1_5_1_1_0_obj9650476_1" />](./../../images/2015/08/20150821_1_5_1_1_0_obj9650476_1.jpg)
 
-[<img class="aligncenter size-full wp-image-946" src="http://blog.voisinsvigilants.org/wp-content/uploads/2015/08/Sans-titre1.png" alt="Sans titre1" width="489" height="85" />](http://blog.voisinsvigilants.org/wp-content/uploads/2015/08/Sans-titre1.png)
+[<img class="aligncenter size-full wp-image-946" src="./../../images/2015/08/Sans-titre1.png" alt="Sans titre1" />](./../../images/2015/08/Sans-titre1.png)
 
 <p style="text-align: justify;">
   <span style="color: #1d2528;">D&rsquo;après Sébastien Abarasz, le site permet de &laquo;&nbsp;</span><em style="color: #1d2528;">recréer une entraide et de la solidarité dans les quartiers, grâce à une plate-forme qui fluidifie les échanges</em><span style="color: #1d2528;">&laquo;&nbsp;. Mais cette solidarité et le succès de l&rsquo;entreprise reposent fondamentalement sur un sentiment d&rsquo;insécurité grandissant dans la société, de l&rsquo;aveu même du cofondateur : &laquo;&nbsp;</span><em style="color: #1d2528;">La seule convivialité ne fonctionne pas, comme le montrent les sites de nos concurrents. Les gens ont besoin de se sentir moins seuls dans leurs quartiers pour effacer le sentiment d&rsquo;insécurité. C&rsquo;est une motivation forte. Les voisins entrent pour la sécurité, mais restent pour la convivialité&nbsp;&raquo;.</em>

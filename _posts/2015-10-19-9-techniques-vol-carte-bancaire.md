@@ -15,7 +15,7 @@ tags:
   <strong>Les escrocs ne sont jamais à court d&rsquo;imagination pour s&rsquo;en mettre plein les poches en se servant directement sur nos comptes bancaires. Voici 7 techniques de vol de carte bancaire et nos conseils pour s&rsquo;en protéger.</strong>
 </p>
 
-[<img class="aligncenter size-full wp-image-1173" src="http://blog.voisinsvigilants.org/wp-content/uploads/2015/09/cyber-attaque-arnaque-vol-escroc-©-A.-Dréan-Fotolia.com_.jpg" alt="pirate informatique utilise une carte de crédit sur internet" width="600" height="400" />](http://blog.voisinsvigilants.org/wp-content/uploads/2015/09/cyber-attaque-arnaque-vol-escroc-©-A.-Dréan-Fotolia.com_.jpg)
+[<img class="aligncenter size-full wp-image-1173" src="./../../images/2015/09/cyber-attaque-arnaque-vol-escroc-A.-Drean-Fotolia.com_.jpg" alt="pirate informatique utilise une carte de crédit sur internet" />](./../../images/2015/09/cyber-attaque-arnaque-vol-escroc-A.-Drean-Fotolia.com_.jpg)
 
 <h2 style="text-align: justify;">
   <span style="color: #000000;">         1. Vous n&rsquo;avez pas reçu le produit commandé sur le Net</span>

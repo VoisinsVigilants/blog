@@ -16,7 +16,7 @@ tags:
 </p>
 
 <p style="text-align: justify;">
-  <a href="http://blog.voisinsvigilants.org/wp-content/uploads/2015/11/1.jpg"><img class="aligncenter size-full wp-image-1757" src="http://blog.voisinsvigilants.org/wp-content/uploads/2015/11/1.jpg" alt="1" width="921" height="523" /></a>
+  <a href="./../../images/2015/11/1.jpg"><img class="aligncenter size-full wp-image-1757" src="./../../images/2015/11/1.jpg" alt="1"/></a>
 </p>
 
 <p style="text-align: justify;">

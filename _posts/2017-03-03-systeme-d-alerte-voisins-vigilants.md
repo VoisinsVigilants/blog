@@ -16,7 +16,7 @@ tags:
 </p>
 
 <p style="text-align: justify;">
-  <strong><a href="./../../images/2017/03/alerte_voisins_vigilants.jpg"><img class="aligncenter wp-image-2860" src="./../../images/2017/03/alerte_voisins_vigilants.jpg" alt="Le système d'alerte Voisins Vigilants" width="809" height="625" /></a></strong>
+  <strong><a href="./../../images/2017/03/alerte_voisins_vigilants.jpg"><img class="aligncenter wp-image-2860" src="./../../images/2017/03/alerte_voisins_vigilants.jpg" alt="Le système d'alerte Voisins Vigilants"/></a></strong>
 </p>
 
 <h1 style="text-align: justify;">
@@ -68,7 +68,7 @@ tags:
 </p>
 
 <p style="text-align: justify;">
-  <a href="https://www.voisinsvigilants.org/appsignup/etape01a01"><img class="aligncenter  wp-image-2866" src="./../../images/2017/03/inscription.png" alt="inscription" width="311" height="36" /></a>
+  <a href="https://www.voisinsvigilants.org/appsignup/etape01a01"><img class="aligncenter  wp-image-2866" src="./../../images/2017/03/inscription.png" alt="inscription" /></a>
 </p>
 
 <p style="text-align: justify;">

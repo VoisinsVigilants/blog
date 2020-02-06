@@ -17,13 +17,12 @@ tags:
   <strong style="color: #000000;">Jean-Claude Labat vient de créer la première communauté &laquo;&nbsp;Voisins Vigilants&nbsp;&raquo; à Saint-Faust pour lutter contre les cambriolages.</strong>
 </p>
 
-<div id="attachment_2855" style="width: 774px" class="wp-caption aligncenter">
-  <a href="./../../images/2017/02/montrant-le-logo-appose-sur-sa-boite-aux-lettres-un-voisin-vigilant-se-sent-rassure-par-le-dispositif.jpg"><img class="wp-image-2855 " src="./../../images/2017/02/montrant-le-logo-appose-sur-sa-boite-aux-lettres-un-voisin-vigilant-se-sent-rassure-par-le-dispositif.jpg" alt="Le dispositif Voisins Vigilants à Saint-Faust" width="764" height="478" /></a>
+
+  <a href="./../../images/2017/02/montrant-le-logo-appose-sur-sa-boite-aux-lettres-un-voisin-vigilant-se-sent-rassure-par-le-dispositif.jpg"><img class="wp-image-2855 " src="./../../images/2017/02/montrant-le-logo-appose-sur-sa-boite-aux-lettres-un-voisin-vigilant-se-sent-rassure-par-le-dispositif.jpg" alt="Le dispositif Voisins Vigilants à Saint-Faust"/></a>
   
   <p class="wp-caption-text">
     Montrant le logo apposé sur sa boîte aux lettres, un &laquo;&nbsp;voisin vigilant&nbsp;&raquo; se sent rassuré par le dispositif. © Gérard Pommès
   </p>
-</div>
 
 <p style="text-align: justify;">
   Jean-Claude Labat, maire de 1977 à 1995, vient de créer la première communauté &laquo;&nbsp;Voisins Vigilants&nbsp;&raquo;. Membre référent dans son quartier, il est prêt à aider toute personne désirant mettre en place le même dispositif dans son propre quartier.

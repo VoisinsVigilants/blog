@@ -18,7 +18,7 @@ tags:
 </p>
 
 <p style="text-align: justify;">
-  <a href="http://blog.voisinsvigilants.org/wp-content/uploads/2015/08/Vol-à-la-portière1.jpg"><img class="aligncenter  wp-image-923" src="http://blog.voisinsvigilants.org/wp-content/uploads/2015/08/Vol-à-la-portière1.jpg" alt="Vol à la portière" width="685" height="348" /></a>
+  <a href="./../../images/2015/08/Vol-a-la-portiere1.jpg"><img class="aligncenter  wp-image-923" src="./../../images/2015/08/Vol-a-la-portiere1.jpg" alt="Vol à la portière" /></a>
 </p>
 
 <h2 style="text-align: justify;">

@@ -14,7 +14,7 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  <a href="./../../images/2016/01/Macbook-+-iphone6.png"><img class="aligncenter  wp-image-2208" src="./../../images/2016/01/Macbook-+-iphone6.png" alt="Macbook + iphone" width="998" height="578" /></a>
+  <a href="./../../images/2016/01/Macbook-+-iphone6.png"><img class="aligncenter  wp-image-2208" src="./../../images/2016/01/Macbook-+-iphone6.png" alt="Macbook + iphone"/></a>
 </p>
 
 <h1 style="text-align: justify;">
@@ -72,9 +72,9 @@ Les informations liées au mode de paiement ne transitent pas par notre site mai
 </p>
 
 <p style="text-align: justify;">
-  <a href="http://www.voisinsvigilants.org"><strong><img class="aligncenter wp-image-2196 size-full" src="./../../images/2016/01/Sans-titre-1.jpg" alt="La sécurité du site web" width="454" height="40" /></strong></a>
+  <a href="http://www.voisinsvigilants.org"><strong><img class="aligncenter wp-image-2196 size-full" src="./../../images/2016/01/Sans-titre-1.jpg" alt="La sécurité du site web"/></strong></a>
 </p>
 
 **Et maintenant rendez-vous dans votre communauté de voisins en toute sécurité. **
 
-[<img class="aligncenter size-full wp-image-2238" src="./../../images/2016/01/Sans-titre1.png" alt="Sans titre" width="316" height="68" />](https://www.voisinsvigilants.org)
+[<img class="aligncenter size-full wp-image-2238" src="./../../images/2016/01/Sans-titre1.png" alt="Sans titre"/>](https://www.voisinsvigilants.org)

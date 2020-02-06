@@ -16,44 +16,47 @@ tags:
 « Ici 1 habitant sur 4 utilise ce système »  
 « Qui connait le mieux son quartier que celui qui y habite ? »  
 
-Partie 1 
+Partie 1
+<div class="videocontent"> 
 <video
     id="tmc-90-enquete-ep1"
-    class="video-js"
+    class="video-js video-vv"    
+    responsive="true"
     controls
     preload="auto"
-    width="640"
-    height="370"
     poster="./../../images/2019/01/90_enquetes_ep1.jpg"
     data-setup="{}"
   >
     <source src="./../../images/2019/01/90_enquetes_ep1.webm" type="video/webm" />    
   </video>
-
-Partie 2 
+</div>
+<br>
+Partie 2
+<div class="videocontent"> 
 <video
     id="tmc-90-enquete-ep2"
-    class="video-js"
+    class="video-js video-vv"
     controls
-    preload="auto"
-    width="640"
-    height="370"
+    preload="auto"    
+    responsive="true"
     poster="./../../images/2019/01/90_enquetes_ep2.jpg"
     data-setup="{}"
   >
     <source src="./../../images/2019/01/90_enquetes_ep2.webm" type="video/webm" />    
   </video> 
-
+</div>
+<br>
 Dernière partie
+<div class="videocontent">
 <video
     id="tmc-90-enquete-ep3"
-    class="video-js"
+    class="video-js video-vv"
     controls
-    preload="auto"
-    width="640"
-    height="370"
+    preload="auto"    
+    responsive="true"
     poster="./../../images/2019/01/90_enquetes_ep3.jpg"
     data-setup="{}"
   >
     <source src="./../../images/2019/01/90_enquetes_ep3.webm" type="video/webm" />    
   </video> 
+</div>

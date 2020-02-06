@@ -14,7 +14,7 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  <a href="./../../images/2015/12/Commune-de-Boismorand.jpg"><img class="aligncenter  wp-image-2054" src="./../../images/2015/12/Commune-de-Boismorand.jpg" alt="Commune de Boismorand" width="813" height="458" /></a>Récemment, les voisins vigilants, qui réunissent les habitants du quartier de Kerdurod et du quartier des Lilas, ainsi que les rues de Bretagne, du Blavet, de Brocéliande, se sont mobilisés pour assurer la sécurité des piétons.
+  <a href="./../../images/2015/12/Commune-de-Boismorand.jpg"><img class="aligncenter  wp-image-2054" src="./../../images/2015/12/Commune-de-Boismorand.jpg" alt="Commune de Boismorand" /></a>Récemment, les voisins vigilants, qui réunissent les habitants du quartier de Kerdurod et du quartier des Lilas, ainsi que les rues de Bretagne, du Blavet, de Brocéliande, se sont mobilisés pour assurer la sécurité des piétons.
 </p>
 
 <p style="text-align: justify;">

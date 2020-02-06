@@ -14,7 +14,7 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  <a href="./../../images/2016/02/P1010737.jpg"><img class="aligncenter size-full wp-image-2333" src="./../../images/2016/02/P1010737.jpg" alt="P1010737" width="3216" height="856" /></a>
+  <a href="./../../images/2016/02/P1010737.jpg"><img class="aligncenter size-full wp-image-2333" src="./../../images/2016/02/P1010737.jpg" alt="P1010737" /></a>
 </p>
 
 <h2 style="text-align: justify;">

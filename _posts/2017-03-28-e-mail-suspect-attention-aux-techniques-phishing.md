@@ -18,7 +18,7 @@ tags:
 </p>
 
 <p style="text-align: justify;">
-  <a href="./../../images/2017/03/phishing1.jpg"><img class="aligncenter  wp-image-2922" src="./../../images/2017/03/phishing1.jpg" alt="phishing1" width="717" height="387" /></a>
+  <a href="./../../images/2017/03/phishing1.jpg"><img class="aligncenter  wp-image-2922" src="./../../images/2017/03/phishing1.jpg" alt="phishing1"/></a>
 </p>
 
 <h1 style="color: #4b5ebd;">

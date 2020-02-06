@@ -12,7 +12,7 @@ categories:
 tags:
   - Alerte
 ---
-[<img class="aligncenter wp-image-3220 size-large" src="./../../images/2018/03/demarcheurs.jpg" alt="démarcheurs" width="640" height="359" />](./../../images/2018/03/demarcheurs.jpg)
+[<img class="aligncenter wp-image-3220 size-large" src="./../../images/2018/03/demarcheurs.jpg" alt="démarcheurs" />](./../../images/2018/03/demarcheurs.jpg)
 
 &nbsp;
 

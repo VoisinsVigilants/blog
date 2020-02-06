@@ -21,10 +21,9 @@ tags:
   - Panneaux Voisins Vigilants et Solidaires
   - Participation Citoyenne
 ---
-<div style="width: 640px; max-width: 100%;" class="wp-video">
-  <!--[if lt IE 9]><![endif]--><video class="wp-video-shortcode" id="video-189-1" width="640" height="360" preload="metadata" controls="controls"><source type="video/mp4" src="http://www.voisinsvigilants.org/video/tf1.mp4?_=1" />
-  
-  <a href="http://www.voisinsvigilants.org/video/tf1.mp4">http://www.voisinsvigilants.org/video/tf1.mp4</a></video>
+<div class="videocontent">
+<video class="video-js video-vv" id="video-189-1" preload="metadata" controls="controls"><source type="video/mp4" src="http://www.voisinsvigilants.org/video/tf1.mp4?_=1" />
 </div>
+  
 
 Dans ce 13h, Jean-Pierre Pernaut revient sur le phénomène Voisins Vigilants avec l&rsquo;exemple d&rsquo;une commune du Var, Montauroux.

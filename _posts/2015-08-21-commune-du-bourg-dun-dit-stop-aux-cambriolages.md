@@ -18,5 +18,5 @@ tags:
 </p>
 
 <p style="text-align: justify;">
-  <a href="http://blog.voisinsvigilants.org/wp-content/uploads/2015/08/presse1.jpg"><img class="aligncenter size-full wp-image-908" src="http://blog.voisinsvigilants.org/wp-content/uploads/2015/08/presse1.jpg" alt="presse1" width="1387" height="992" /></a>
+  <a href="./../../images/2015/08/presse1.jpg"><img class="aligncenter size-full wp-image-908" src="./../../images/2015/08/presse1.jpg" alt="presse1" /></a>
 </p>

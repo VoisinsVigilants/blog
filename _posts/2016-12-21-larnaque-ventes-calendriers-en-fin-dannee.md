@@ -17,13 +17,11 @@ tags:
   <strong style="color: #4b5ebd;"><span style="color: #000000;">Ils se disent éboueurs, facteurs, agents EDF ou pompiers, et profitent des fêtes de fin d&rsquo;année pour vendre des calendriers, mais derrière ces vendeurs se cachent parfois des démarcheurs mal intentionnés. Il ne s&rsquo;agit pas de tomber dans la paranoïa mais soyons vigilants.</span></strong>
 </p>
 
-<div id="attachment_2720" style="width: 730px" class="wp-caption aligncenter">
-  <a href="./../../images/2016/12/1488065_798465206884343_7853428184194786371_n.jpg"><img class="wp-image-2720 size-full" src="./../../images/2016/12/1488065_798465206884343_7853428184194786371_n.jpg" alt="Vente de calendriers" width="720" height="507" /></a>
+<a href="./../../images/2016/12/1488065_798465206884343_7853428184194786371_n.jpg"><img class="wp-image-2720 size-full" src="./../../images/2016/12/1488065_798465206884343_7853428184194786371_n.jpg" alt="Vente de calendriers" /></a>
   
   <p class="wp-caption-text">
     Illustration © T. Coudière &#8211; © C. Gonçalves
   </p>
-</div>
 
 <h3 style="color: #4b5ebd; text-align: justify;">
   <span style="color: #000000;">Un mode opératoire souvent simple</span>

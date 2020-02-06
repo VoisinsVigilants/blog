@@ -15,7 +15,7 @@ tags:
   <strong style="color: #4b5ebd;"><span style="color: #000000;">Des particuliers, des bandes organisées ou certains professionnels cherchent à écouler auprès du public des accessoires provenant de vols et de trafics.</span></strong>
 </p>
 
-[<img class="aligncenter size-full wp-image-2826" src="./../../images/2017/02/declaration-tardive-cambriolage-assurance-habitation.jpg" alt="declaration-tardive-cambriolage-assurance-habitation" width="848" height="361" />](./../../images/2017/02/declaration-tardive-cambriolage-assurance-habitation.jpg)
+[<img class="aligncenter size-full wp-image-2826" src="./../../images/2017/02/declaration-tardive-cambriolage-assurance-habitation.jpg" alt="declaration-tardive-cambriolage-assurance-habitation"/>](./../../images/2017/02/declaration-tardive-cambriolage-assurance-habitation.jpg)
 
 <div style="color: #4b5ebd; text-align: justify;">
   <span style="color: #000000;">Pour lutter contre ce phénomène, voici 8 conseils préconisés par le Ministère de l&rsquo;Intérieur :</span>

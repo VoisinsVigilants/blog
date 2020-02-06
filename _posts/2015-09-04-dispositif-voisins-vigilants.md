@@ -17,7 +17,7 @@ tags:
   <span style="color: #000000;"><strong>Voisins Vigilants (et son site internet <a href="http://www.voisinsvigilants.org">voisinsvigilants.org</a> bien sûr !) est le premier réseau social de voisinage en France. Il permet la mise en relation des habitants d&rsquo;un même quartier pour lutter ensemble contre le fléau des cambriolages de manière simple et gratuite. </strong></span>
 </p>
 
-[<img class="aligncenter size-full wp-image-771" src="http://blog.voisinsvigilants.org/wp-content/uploads/2015/08/logo.jpg" alt="logo" width="1734" height="672" />](http://blog.voisinsvigilants.org/wp-content/uploads/2015/08/logo.jpg)
+[<img class="aligncenter size-full wp-image-771" src="./../../images/2015/08/logo.jpg" alt="logo" />](./../../images/2015/08/logo.jpg)
 
 # Pourquoi devenir Voisin Vigilant ?
 

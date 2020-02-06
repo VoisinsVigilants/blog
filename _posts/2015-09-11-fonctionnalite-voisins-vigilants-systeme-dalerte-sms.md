@@ -19,7 +19,7 @@ tags:
 </p>
 
 <p style="text-align: justify;">
-  <a href="http://blog.voisinsvigilants.org/wp-content/uploads/2015/08/alerte_voisins_vigilants.jpg"><img class="aligncenter  wp-image-915" src="http://blog.voisinsvigilants.org/wp-content/uploads/2015/08/alerte_voisins_vigilants.jpg" alt="alerte_voisins_vigilants" width="533" height="412" /></a>
+  <a href="./../../images/2015/08/alerte_voisins_vigilants.jpg"><img class="aligncenter  wp-image-915" src="./../../images/2015/08/alerte_voisins_vigilants.jpg" alt="alerte_voisins_vigilants" /></a>
 </p>
 
 <p style="text-align: justify;">

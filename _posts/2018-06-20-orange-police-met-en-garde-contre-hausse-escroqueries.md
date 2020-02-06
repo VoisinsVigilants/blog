@@ -11,7 +11,7 @@ categories:
   - Securite
 ---
 
-[<img class="aligncenter size-full wp-image-3278" src="./../../images/2018/06/20180504_1_1_3_1_1_obj17417867_1.jpg" alt="Orange : la police met en garde contre une hausse des escroqueries" width="750" height="375" />](./../../images/2018/06/20180504_1_1_3_1_1_obj17417867_1.jpg)
+[<img class="aligncenter size-full wp-image-3278" src="./../../images/2018/06/20180504_1_1_3_1_1_obj17417867_1.jpg" alt="Orange : la police met en garde contre une hausse des escroqueries" />](./../../images/2018/06/20180504_1_1_3_1_1_obj17417867_1.jpg)
 &nbsp;
 
 Les délinquants n&rsquo;ont pas de limite quand il s&rsquo;agit d&rsquo;aller cueillir ici et là, quelques centaines d&rsquo;euros. Et les plaintiers du commissariat de police d&rsquo;Orange sont les témoins directs des abus mis au point par les professionnels de l&rsquo;arnaque.Et en ce moment, les policiers observent d&rsquo;ailleurs une recrudescence des escroqueries. &laquo;&nbsp;Depuis quelques semaines, les plaignants sont de plus en plus nombreux&nbsp;&raquo;, constate le capitaine Malerba.

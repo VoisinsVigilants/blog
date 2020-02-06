@@ -14,7 +14,7 @@ tags:
 ---
 ##### **Dans un article publié le 30 mars, le site 60 millions de consommateurs nous met en garde contre les arnaques aux faux virus qui ont pour but de vous faire perdre ou de vous réclamer de l’argent**
 
-#### **[<img class="aligncenter size-full wp-image-2957" src="./../../images/2017/04/B9711212485Z.1_20170223100048_000+G7Q8J0QH1.1-0.jpg" alt="B9711212485Z.1_20170223100048_000+G7Q8J0QH1.1-0" width="1350" height="759" />](./../../images/2017/04/B9711212485Z.1_20170223100048_000+G7Q8J0QH1.1-0.jpg)**
+[<img class="aligncenter size-full wp-image-2957" src="./../../images/2017/04/B9711212485Z.1_20170223100048_000+G7Q8J0QH1.1-0.jpg" alt="B9711212485Z.1_20170223100048_000+G7Q8J0QH1.1-0" />](./../../images/2017/04/B9711212485Z.1_20170223100048_000+G7Q8J0QH1.1-0.jpg)**
 
 #### **PAYER POUR RÉCUPÉRER L’USAGE DE SON ORDINATEUR** 
 

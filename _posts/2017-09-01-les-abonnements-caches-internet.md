@@ -12,7 +12,7 @@ categories:
 ---
 ##### Comme le rapporte  l&rsquo;UFC Que Choisir  le centre européen de la consommation met en garde les consommateurs contre les abonnements qui peuvent parfois se cacher derrière des offres alléchantes publiées sur internet.
 
-#### [<img class="aligncenter size-full wp-image-2998" src="./../../images/2017/06/office-620822_960_720.jpg" alt="office-620822_960_720" width="960" height="637" />](./../../images/2017/06/office-620822_960_720.jpg)
+#### [<img class="aligncenter size-full wp-image-2998" src="./../../images/2017/06/office-620822_960_720.jpg" alt="office-620822_960_720" />](./../../images/2017/06/office-620822_960_720.jpg)
 
 #### UNE TECHNIQUE BIEN RODÉE
 

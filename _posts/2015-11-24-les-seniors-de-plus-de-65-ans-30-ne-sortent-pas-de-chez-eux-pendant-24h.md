@@ -16,7 +16,7 @@ tags:
 </p>
 
 <p class="chapo" style="font-weight: 400; text-align: justify;">
-  <span style="color: #000000;"><a href="http://blog.voisinsvigilants.org/wp-content/uploads/2015/10/Pieton-senior.jpg"><span style="color: #000000;"><img class="aligncenter  wp-image-1429" src="http://blog.voisinsvigilants.org/wp-content/uploads/2015/10/Pieton-senior.jpg" alt="Pieton-senior" width="849" height="558" /></span></a></span>
+  <span style="color: #000000;"><a href="./../../images/2015/10/Pieton-senior.jpg"><span style="color: #000000;"><img class="aligncenter  wp-image-1429" src="./../../images/2015/10/Pieton-senior.jpg" alt="Pieton-senior" /></span></a></span>
 </p>
 
 <p style="text-align: justify;">

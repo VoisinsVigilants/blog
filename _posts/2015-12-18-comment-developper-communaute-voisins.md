@@ -14,7 +14,7 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  <em><a href="http://blog.voisinsvigilants.org/wp-content/uploads/2015/12/1.jpg"><img class="aligncenter size-full wp-image-1914" src="http://blog.voisinsvigilants.org/wp-content/uploads/2015/12/1.jpg" alt="1" width="887" height="638" /></a></em>Pour vous aider à développer votre communauté, nous avons mis en place une note d&rsquo;information à distribuer à vos voisins.
+  <em><a href="./../../images/2015/12/1.jpg"><img class="aligncenter size-full wp-image-1914" src="./../../images/2015/12/1.jpg" alt="1" /></a></em>Pour vous aider à développer votre communauté, nous avons mis en place une note d&rsquo;information à distribuer à vos voisins.
 </p>
 
 <h1 style="text-align: justify;">

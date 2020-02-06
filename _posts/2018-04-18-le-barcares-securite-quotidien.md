@@ -11,13 +11,13 @@ categories:
 tags:
   - Voisins Vigilants et Solidaires
 ---
-<div id="attachment_3213" style="width: 650px" class="wp-caption aligncenter">
-  <a href="./../../images/2018/03/JPP_pour_LPJ.jpg"><img class="wp-image-3213 size-large" src="./../../images/2018/03/JPP_pour_LPJ.jpg" alt="JPP_pour_LPJ" width="640" height="425" /></a>
+
+ <img class="wp-image-3213 size-large" src="./../../images/2018/03/JPP_pour_LPJ.jpg" alt="JPP_pour_LPJ"/>
   
   <p class="wp-caption-text">
     Jean-Pierre Petitnicolas en présence de l&rsquo;élu à la sécurité Martial Guérin et d&rsquo;un membre de la police municipale
   </p>
-</div>
+
 
 ##### UNE ADHESION MASSIVE DE LA POPULATION
 

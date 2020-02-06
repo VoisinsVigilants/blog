@@ -19,7 +19,7 @@ tags:
 </p>
 
 <p style="text-align: justify;">
-  <a href="http://blog.voisinsvigilants.org/wp-content/uploads/2015/09/648x415_jeune-femme-parc-fait-voler-telephone-portable.jpg"><img class="aligncenter size-full wp-image-962" src="http://blog.voisinsvigilants.org/wp-content/uploads/2015/09/648x415_jeune-femme-parc-fait-voler-telephone-portable.jpg" alt="648x415_jeune-femme-parc-fait-voler-telephone-portable" width="648" height="415" /></a>
+  <a href="./../../images/2015/09/648x415_jeune-femme-parc-fait-voler-telephone-portable.jpg"><img class="aligncenter size-full wp-image-962" src="./../../images/2015/09/648x415_jeune-femme-parc-fait-voler-telephone-portable.jpg" alt="648x415_jeune-femme-parc-fait-voler-telephone-portable" /></a>
 </p>
 
 <p style="text-align: justify;">

@@ -17,9 +17,7 @@ tags:
   <strong><span style="color: #000000;">Guy Blanc, et son groupe de Voisins Vigilants, unissent au quotidien leurs forces pour lutter contre la délinquance à Riom et cultiver le</span><span style="font-style: inherit; color: #000000;"> lien social.</span></strong>
 </p>
 
-<p style="text-align: justify;">
-  <a href="http://blog.voisinsvigilants.org/presse/wp-content/uploads/sites/5/2016/04/2603764-1.jpeg"><img class="aligncenter wp-image-1434" src="http://blog.voisinsvigilants.org/presse/wp-content/uploads/sites/5/2016/04/2603764-1.jpeg" alt="Des panneaux son installés pour décourager les voleurs" width="679" height="614" /></a>
-</p>
+[<img class="aligncenter size-full wp-image-2826" src="./../../images/2016/04/2603764-1.jpeg" alt="declaration-tardive-cambriolage-assurance-habitation"/>](./../../images/2016/04/2603764-1.jpeg)
 
 <p style="font-weight: inherit; font-style: inherit; color: #464646; text-align: justify;">
   <span style="color: #000000;">Huguette, membre du réseau des Voisins Vigilants des quartiers des Pervenches, de la chapelle Saint-Don, de la Croix de fer et de Ronchalon, apprécie le <strong>sentiment de sécurité généré par le dispositif</strong>. Mais son plaisir ne s&rsquo;arrête pas là.</span>

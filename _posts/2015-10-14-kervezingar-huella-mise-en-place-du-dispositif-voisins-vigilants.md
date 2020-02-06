@@ -16,7 +16,7 @@ tags:
   - Voisins Vigilants et Solidaires
 ---
 <p style="text-align: center;">
-  <a href="http://blog.voisinsvigilants.org/wp-content/uploads/2015/09/Image5.png"><img class="aligncenter size-full wp-image-1337" src="http://blog.voisinsvigilants.org/wp-content/uploads/2015/09/Image5.png" alt="Image5" width="1004" height="380" /></a><a href="http://blog.voisinsvigilants.org/wp-content/uploads/2015/09/11.png"><br /> </a><a href="http://blog.voisinsvigilants.org/wp-content/uploads/2015/09/21.png"><img class="aligncenter size-full wp-image-1060" src="http://blog.voisinsvigilants.org/wp-content/uploads/2015/09/21.png" alt="2" width="683" height="530" /></a><em>Les premiers « voisins vigilants » de Kervézingar Huella étaient présents dès 18 h, vendredi, pour accueillir les retardataires en toute convivialité. « Voisins vigilants », site web communautaire, permet de mettre en relation les habitants d&rsquo;un même  quartier</em>
+  <a href="./../../images/2015/09/Image5.png"><img class="aligncenter size-full wp-image-1337" src="./../../images/2015/09/Image5.png" alt="Image5" /></a><a href="./../../images/2015/09/11.png"><br /> </a><a href="./../../images/2015/09/21.png"><img class="aligncenter size-full wp-image-1060" src="./../../images/2015/09/21.png" alt="2" /></a><em>Les premiers « voisins vigilants » de Kervézingar Huella étaient présents dès 18 h, vendredi, pour accueillir les retardataires en toute convivialité. « Voisins vigilants », site web communautaire, permet de mettre en relation les habitants d&rsquo;un même  quartier</em>
 </p>
 
 <p style="text-align: justify;">
@@ -45,4 +45,4 @@ tags:
 
 [
   
-](http://blog.voisinsvigilants.org/wp-content/uploads/2015/09/1.png)
+](./../../images/2015/09/1.png)

@@ -16,7 +16,7 @@ tags:
 </p>
 
 <p style="color: #000000; text-align: justify;">
-  <a href="http://blog.voisinsvigilants.org/wp-content/uploads/2015/09/Les-seniors-gardent-le-moral-grace-aux-liens-sociaux_exact441x300.jpg"><img class="aligncenter  wp-image-1221" src="http://blog.voisinsvigilants.org/wp-content/uploads/2015/09/Les-seniors-gardent-le-moral-grace-aux-liens-sociaux_exact441x300.jpg" alt="Les-seniors-gardent-le-moral-grace-aux-liens-sociaux_exact441x300" width="838" height="570" /></a>
+  <a href="./../../images/2015/09/Les-seniors-gardent-le-moral-grace-aux-liens-sociaux_exact441x300.jpg"><img class="aligncenter  wp-image-1221" src="./../../images/2015/09/Les-seniors-gardent-le-moral-grace-aux-liens-sociaux_exact441x300.jpg" alt="Les-seniors-gardent-le-moral-grace-aux-liens-sociaux_exact441x300"/></a>
 </p>
 
 <p style="color: #000000; text-align: justify;">

@@ -13,14 +13,14 @@ tags:
   - Securite
   - Voisins Vigilants et Solidaires
 ---
-[<img class="wp-image-1507 alignleft" src="http://blog.voisinsvigilants.org/wp-content/uploads/2015/10/logo-la-voix-du-nord-1.jpg" alt="logo-la-voix-du-nord (1)" width="830" height="139" />](http://blog.voisinsvigilants.org/wp-content/uploads/2015/10/logo-la-voix-du-nord-1.jpg)
+[<img class="wp-image-1507 alignleft" src="./../../images/2015/10/logo-la-voix-du-nord-1.jpg" alt="logo-la-voix-du-nord (1)" />](./../../images/2015/10/logo-la-voix-du-nord-1.jpg)
 
 <p class="chapo" style="color: #505050; text-align: justify;">
   <span style="color: #000000;"><strong>La commune se lance dans le dispositif des Voisins Vigilants. Une réunion d’information s’est tenue la semaine dernière pour informer les habitants. Ces derniers semblent prêts à s’investir pour que le village retrouve sa tranquillité.</strong></span>
 </p>
 
 <p class="chapo" style="color: #505050; text-align: justify;">
-  <a href="http://blog.voisinsvigilants.org/presse/wp-content/uploads/sites/5/2015/10/Panneau-ville-de-Masny.jpg"><img class="aligncenter  wp-image-1154" src="http://blog.voisinsvigilants.org/presse/wp-content/uploads/sites/5/2015/10/Panneau-ville-de-Masny.jpg" alt="Panneau ville de Masny" width="818" height="466" /></a>
+  <a href="./../../images/2015/10/Panneau-ville-de-Masny.jpg"><img class="aligncenter  wp-image-1154" src="./../../images/2015/10/Panneau-ville-de-Masny.jpg" alt="Panneau ville de Masny" /></a>
 </p>
 
 <p style="color: #2a2a2a; text-align: justify;">

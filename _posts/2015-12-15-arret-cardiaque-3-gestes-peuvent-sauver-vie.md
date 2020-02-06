@@ -56,7 +56,7 @@ categories:
 </h2>
 
 <p style="text-align: justify;">
-  <a href="http://blog.voisinsvigilants.org/wp-content/uploads/2015/11/1-11.jpg"><img class="aligncenter size-full wp-image-1859" src="http://blog.voisinsvigilants.org/wp-content/uploads/2015/11/1-11.jpg" alt="1 (1)" width="721" height="193" /></a>
+  <a href="./../../images/2015/11/1-11.jpg"><img class="aligncenter size-full wp-image-1859" src="./../../images/2015/11/1-11.jpg" alt="1 (1)" /></a>
 </p>
 
 <h2 style="text-align: justify;">

@@ -18,7 +18,7 @@ tags:
 </p>
 
 <p style="text-align: justify;">
-  <a href="./../../images/2015/09/Prevention-des-seniors.jpg"><img class="aligncenter  wp-image-970" src="./../../images/2015/09/Prevention-des-seniors.jpg" alt="Prevention-des-seniors" width="699" height="466" /></a>
+  <a href="./../../images/2015/09/Prevention-des-seniors.jpg"><img class="aligncenter  wp-image-970" src="./../../images/2015/09/Prevention-des-seniors.jpg" alt="Prevention-des-seniors"/></a>
 </p>
 
 <p style="text-align: justify;">

@@ -16,7 +16,7 @@ tags:
 </p>
 
 <p style="text-align: justify;">
-  <a href="./../../images/2015/08/La-téléassistance.jpg"><img class="aligncenter  wp-image-899" src="./../../images/2015/08/La-téléassistance.jpg" alt="La téléassistance" width="828" height="452" /></a>
+  <a href="./../../images/2015/08/La-teleassistance.jpg"><img class="aligncenter  wp-image-899" src="./../../images/2015/08/La-teleassistance.jpg" alt="La téléassistance" /></a>
 </p>
 
 <p style="text-align: justify;">

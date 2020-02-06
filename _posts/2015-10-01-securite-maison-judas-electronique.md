@@ -18,7 +18,7 @@ tags:
 </p>
 
 <p style="text-align: justify;">
-  <a href="./../../images/2015/09/judas-numerique-alarme71-600x320.png"><img class="aligncenter size-full wp-image-1085" src="./../../images/2015/09/judas-numerique-alarme71-600x320.png" alt="judas-numerique-alarme71-600x320" width="600" height="320" /></a>
+  <a href="./../../images/2015/09/judas-numerique-alarme71-600x320.png"><img class="aligncenter size-full wp-image-1085" src="./../../images/2015/09/judas-numerique-alarme71-600x320.png" alt="judas-numerique-alarme71-600x320" /></a>
 </p>
 
 <p style="color: #000000; text-align: justify;">

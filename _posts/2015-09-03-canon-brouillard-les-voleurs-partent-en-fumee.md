@@ -17,7 +17,7 @@ tags:
 </p>
 
 <p style="text-align: justify;">
-  <a href="./../../images/2015/08/Canons-à-fumée1.jpg"><img class="aligncenter  wp-image-911" src="./../../images/2015/08/Canons-à-fumée1.jpg" alt="Canons à fumée" width="748" height="380" /></a>
+  <a href="./../../images/2015/08/Canons-a-fumee1.jpg"><img class="aligncenter  wp-image-911" src="./../../images/2015/08/Canons-a-fumee1.jpg" alt="Canons à fumée" /></a>
 </p>
 
 <p style="text-align: justify;">

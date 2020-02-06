@@ -14,7 +14,7 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  <span style="color: #000000;"><strong><a href="./../../images/2015/09/Sans-titre.jpg"><img class="aligncenter size-full wp-image-979" src="./../../images/2015/09/Sans-titre.jpg" alt="Sans titre" width="925" height="541" /></a></strong></span>Vous pouvez y publier toutes les informations que vous souhaitez communiquer à l’ensemble de vos voisins : une petite annonce, un bon plan, une anecdote sur la vie du quartier, des photos…
+  <span style="color: #000000;"><strong><a href="./../../images/2015/09/Sans-titre.jpg"><img class="aligncenter size-full wp-image-979" src="./../../images/2015/09/Sans-titre.jpg" alt="Sans titre" /></a></strong></span>Vous pouvez y publier toutes les informations que vous souhaitez communiquer à l’ensemble de vos voisins : une petite annonce, un bon plan, une anecdote sur la vie du quartier, des photos…
 </p>
 
 <p style="text-align: justify;">

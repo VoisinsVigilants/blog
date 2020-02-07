@@ -27,7 +27,7 @@ Partie 1
     poster="./../../images/2019/01/90_enquetes_ep1.jpg"
     data-setup="{}"
   >
-    <source src="./../../images/2019/01/90_enquetes_ep1.webm" type="video/webm" />    
+    <source src="./../../images/2019/01/90min_enquetes_ep1.mp4" type="video/mp4" />    
   </video>
 </div>
 <br>
@@ -42,7 +42,7 @@ Partie 2
     poster="./../../images/2019/01/90_enquetes_ep2.jpg"
     data-setup="{}"
   >
-    <source src="./../../images/2019/01/90_enquetes_ep2.webm" type="video/webm" />    
+    <source src="./../../images/2019/01/90min_enquetes_ep2.mp4" type="video/mp4" />    
   </video> 
 </div>
 <br>
@@ -57,6 +57,6 @@ Dernière partie
     poster="./../../images/2019/01/90_enquetes_ep3.jpg"
     data-setup="{}"
   >
-    <source src="./../../images/2019/01/90_enquetes_ep3.webm" type="video/webm" />    
+    <source src="./../../images/2019/01/90min_enquetes_ep3.mp4" type="video/mp4" />    
   </video> 
 </div>

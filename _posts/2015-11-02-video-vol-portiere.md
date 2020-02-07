@@ -29,9 +29,6 @@ tags:
   <span style="color: #000000;">Mais comment se protéger du vol à la portière ?</span>
 </h2>
 
-<p style="text-align: justify;">
-  <span style="color: #000000;">Dans un précédent article publié, vous trouverez tous nos <a href="http://blog.voisinsvigilants.org/securite/2015/09/07/comment-se-proteger-du-vol-portiere/">conseils pour se protéger du vol à la portière</a>, vol commis la plupart du temps avec violence et par surprise.</span>
-</p>
 
 <p style="text-align: justify;">
   <span style="color: #000000;">Si le lieu du vol est à proximité de votre quartier, connectez-vous sur la plateforme </span><a style="color: #fbc400;" href="http://www.voisinsvigilants.org/">Voisins Vigilants</a><span style="color: #000000;"> et envoyez une alerte aux membres de votre communauté pour les informer.</span>

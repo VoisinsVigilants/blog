@@ -12,9 +12,9 @@ tags:
   - Communaute
   - Voisins Vigilants et Solidaires
 ---
-##### La communauté des voisins vigilants du quartier la gondole à Montélimar compte à ce jour pas moins de 226 membres.  Le référent, Monsieur Michel MEIGNANT, organisait le 16 juin 2017 l&rsquo;inauguration de sa communauté.
+**La communauté des voisins vigilants du quartier la gondole à Montélimar compte à ce jour pas moins de 226 membres.  Le référent, Monsieur Michel MEIGNANT, organisait le 16 juin 2017 l&rsquo;inauguration de sa communauté.**
 
-#### [<img class="aligncenter size-large wp-image-3078" src="./../../images/2017/08/INAUG-V-V-LA-GONDOLE-16-JUIN-2017-61.jpg" alt="INAUG V-V LA GONDOLE  16 JUIN 2017"/>](./../../images/2017/08/INAUG-V-V-LA-GONDOLE-16-JUIN-2017-61.jpg)
+[<img class="aligncenter size-large wp-image-3078" src="./../../images/2017/08/INAUG-V-V-LA-GONDOLE-16-JUIN-2017-61.jpg" alt="INAUG V-V LA GONDOLE  16 JUIN 2017"/>](./../../images/2017/08/INAUG-V-V-LA-GONDOLE-16-JUIN-2017-61.jpg)
 
 #### UNE COMMUNAUTE TRES DYNAMIQUE
 

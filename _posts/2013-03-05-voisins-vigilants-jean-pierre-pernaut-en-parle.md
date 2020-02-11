@@ -22,7 +22,7 @@ tags:
   - Participation Citoyenne
 ---
 <div class="videocontent">
-<video class="video-js video-vv" id="video-189-1" preload="metadata" controls="controls"><source type="video/mp4" src="http://www.voisinsvigilants.org/video/tf1.mp4?_=1" />
+<video class="video-js video-vv vjs-big-play-centered" id="video-189-1" preload="metadata" controls="controls"><source type="video/mp4" src="http://www.voisinsvigilants.org/video/tf1.mp4?_=1" />
 </div>
   
 

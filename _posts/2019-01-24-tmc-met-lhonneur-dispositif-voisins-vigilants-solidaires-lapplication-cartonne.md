@@ -1,13 +1,13 @@
 ---
-id: 3299
-title: 'Le magazine 90′ enquêtes sur TMC consacré 10 minutes aux Voisins Vigilants et Solidaires'
-date: 2019-01-24T16:28:04+00:00
-author: Voisins Vigilants
-layout: post
-guid: http://blog.voisinsvigilants.org/?p=3299
+id: 3299  
+title: 'Le magazine 90′ enquêtes sur TMC consacré 10 minutes aux Voisins Vigilants et Solidaires'  
+date: 2019-01-24T16:28:04+00:00  
+author: Voisins Vigilants  
+layout: post  
+guid: http://blog.voisinsvigilants.org/?p=3299  
 permalink: blog/tmc-met-lhonneur-dispositif-voisins-vigilants-solidaires-lapplication-cartonne/  
 categories:
-  - TV
+  - TV  
 tags:
   - TMC
   - Reportage  
@@ -20,7 +20,7 @@ Partie 1
 <div class="videocontent"> 
 <video
     id="tmc-90-enquete-ep1"
-    class="video-js video-vv"    
+    class="video-js video-vv vjs-big-play-centered"    
     responsive="true"
     controls
     preload="auto"
@@ -35,7 +35,7 @@ Partie 2
 <div class="videocontent"> 
 <video
     id="tmc-90-enquete-ep2"
-    class="video-js video-vv"
+    class="video-js video-vv vjs-big-play-centered"
     controls
     preload="auto"    
     responsive="true"
@@ -50,7 +50,7 @@ Dernière partie
 <div class="videocontent">
 <video
     id="tmc-90-enquete-ep3"
-    class="video-js video-vv"
+    class="video-js video-vv vjs-big-play-centered"
     controls
     preload="auto"    
     responsive="true"
@@ -59,4 +59,4 @@ Dernière partie
   >
     <source src="./../../images/2019/01/90min_enquetes_ep3.mp4" type="video/mp4" />    
   </video> 
-</div>
+</div>  

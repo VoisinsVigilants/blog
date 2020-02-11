@@ -31,5 +31,3 @@ Plusieurs étapes sont à respecter si vous souhaitez vous défaire de cet abonn
 2.Renvoyez les colis reçus, faites opposition auprès de votre banque. Vous pouvez dans certains cas bénéficier de la procédure de « chargeback » qui permet d&rsquo;obtenir le remboursement directement par votre banque.
 
 3.Enfin, s&rsquo;il s&rsquo;agit d&rsquo;une entreprise basée en Europe, Islande ou Norvège, n&rsquo;hésitez pas à contacter le Centre Européen des Consommateurs France.
-
-#####

@@ -1,25 +1,18 @@
 <header class="navigation" role="banner">
   <div class="navigation-wrapper">
+		<div class="header-logo">
     <a href="{{ site.baseurl }}/" class="logo">
-      {% if site.logo %}
       <img src="{{ site.logo | prepend: site.baseurl }}" alt="{{ site.title }}">
-      {% else %}
-      <span>{{ site.title }}</span>
-      {% endif %}
     </a>
+		</div>
     <div class="site-branding">
-      <div class="link-vv">
-				<a href="http://www.voisinsvigilants.org">
-        	<img style="width: 15px;" src="{{ '/assets/oeil.png' | prepend: site.baseurl }}">
-					<span class="logo-responsive">
-        		accéder au site voisinsvigilants.org
-					</span>
-				</a>
-      </div>
+			<h1 class="title">{{ site.title }}</h1>
     </div>
+		<div class="link-vv">
+			<a href="http://www.voisinsvigilants.org">
+				<span class="logo-responsive">Accéder au site voisinsvigilants.org
+					</span>
+			</a>
+		</div>
   </div>
-	<div class="site-header">
-		<h3 class="subtitle">{{ site.subtitle }}</h3>
-		<h1 class="title">{{ site.title }}</h1>
-	</div>
 </header>

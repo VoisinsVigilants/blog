@@ -27,5 +27,3 @@ Il n&rsquo;est en aucun cas question d&rsquo;exercer une surveillance exacerbée
 Maire de la commune, Annie Lagrange, ainsi que plusieurs membres du conseil municipal ont participé à la réunion et assuré la nouvelle communauté de leur coopération. La gendarmerie n&rsquo;a pas pu être représentée, mais son soutien a été confirmé par Annie Lagrange.
 
 N&rsquo;hésitez pas à organiser l&rsquo;inauguration de votre communauté depuis votre espace personnel [voisinsvigilants.org](http://voisinsvigilants.org)
-
-&nbsp;

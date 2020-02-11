@@ -47,13 +47,13 @@ pre code.hljs {
 }
 
 .page-divider {
-	$divider-color: $light-gray;
+	$divider-color: $yellowvvs;
   display: block;
   width: 100%;
   margin-left: auto;
   margin-right: auto;
-  border-top: 1px solid $divider-color;
-	margin-top: 20px;
+  border-top: 2px solid $divider-color;
+	margin-top: 50px;
   .one {
     position: relative;
     top: -9px;
@@ -67,11 +67,11 @@ pre code.hljs {
   }
   .two {
     position: relative;
-    top: -26px;
+    top: -25px;
     display: block;
     background: $white;
-    width: 16px;
-    height: 16px;
+    width: 14px;
+    height: 14px;
     margin-left: auto;
     margin-right: auto;
     border-radius: 50%;
@@ -114,15 +114,16 @@ pre code.hljs {
 *	Header
 */
 .navigation {
-	box-shadow: 0 4px $highlight-color;
+	box-shadow: 0 4px $yellowvvs;
 	padding: 0 1em;
+	height: 200px;
 	margin: 0;
 	// Remove this to make header scrollable again
 	//position: fixed;
 	top: 0;
 	left: 0;
 	right: 0;
-	background: $white;
+	background: $yellowvvsclair;
 	z-index: 1;
 	/*
 	*	Navigation Menu - http://refills.bourbon.io/unstyled/ (see "Navigation")
@@ -143,10 +144,11 @@ pre code.hljs {
   	@include outer-container;
     @include clearfix;
     position: relative;
+		padding-top: 40px;
   }
   .logo {
     float: left;
-    height: 4em;
+    //height: 2em;
     @include media ($tablet) {
     	padding-left: $em-base;
     }
@@ -272,7 +274,7 @@ pre code.hljs {
 	img {
 		display: block;
 		margin: auto;
-		width: 90%;
+		width: 100%;
 	}
 	/*
 	*	Posts

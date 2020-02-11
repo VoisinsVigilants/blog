@@ -22,12 +22,12 @@ pagination:
 				{% when '4' %}Avril
 				{% when '5' %}Mai
 				{% when '6' %}Juin
-				{% when '7' %}Juillert
+				{% when '7' %}Juillet
 				{% when '8' %}Août
 				{% when '9' %}Septembre
-				{% when '10' %}October
+				{% when '10' %}Octobre
 				{% when '11' %}Novembre
-				{% when '12' %}Decembre
+				{% when '12' %}Décembre
 				{% endcase %} {{ post.date | date: "%Y" }}</div>
 <!--			<div class="post-categories">-->
 <!--				{% if post.categories.size > 0 %} {% for cat in post.categories %}-->
@@ -61,35 +61,35 @@ pagination:
 			<a class="newer-posts" href="{{ site.baseurl }}{{ paginator.previous_page_path }}">
         <span class="fa-stack fa-lg">
           <i class="fa fa-square fa-stack-2x"></i>
-          <i class="fa fa-angle-double-left fa-stack-1x fa-inverse"></i>
+          <i class="fa fa-angle-left fa-stack-1x fa-inverse"></i>
         </span>
       </a>
 			{% else %}
-			<a class="newer-posts" href="{{ site.baseurl }}{{ paginator.next_page_path }}">
+			<a class="newer-posts" href="{{ site.baseurl }}{{ paginator.previous_page_path }}">
 				<span class="fa-stack fa-lg">
 					<i class="fa fa-square fa-stack-2x"></i>
-					<i class="fa fa-angle-double-left fa-stack-1x fa-inverse"></i>
+					<i class="fa fa-angle-left fa-stack-1x fa-inverse"></i>
 				</span>
 			</a>
 			{% endif %}
 		{% else %}
 		<span class="fa-stack fa-lg">
       <i class="fa fa-square fa-stack-2x"></i>
-      <i class="fa fa-angle-double-left fa-stack-1x fa-inverse"></i>
+      <i class="fa fa-angle-left fa-stack-1x fa-inverse"></i>
     </span>
 		{% endif %}
-		<span class="page-number">Page {{ paginator.page }} of {{ paginator.total_pages }}</span>
+		<span class="page-number">Page {{ paginator.page }} sur {{ paginator.total_pages }}</span>
 		{% if paginator.next_page %}
 		<a class="newer-posts" href="{{ site.baseurl }}{{ paginator.next_page_path }}">
       <span class="fa-stack fa-lg">
         <i class="fa fa-square fa-stack-2x"></i>
-        <i class="fa fa-angle-double-right fa-stack-1x fa-inverse"></i>
+        <i class="fa fa-angle-right fa-stack-1x fa-inverse"></i>
       </span>
     </a>
 		{% else %}
 		<span class="fa-stack fa-lg">
       <i class="fa fa-square fa-stack-2x"></i>
-      <i class="fa fa-angle-double-right fa-stack-1x fa-inverse"></i>
+      <i class="fa fa-angle-right fa-stack-1x fa-inverse"></i>
     </span>
 		{% endif %}
 	</p>

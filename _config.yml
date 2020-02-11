@@ -7,15 +7,15 @@ exclude:
   - "/vendor/"
 
 # Site settings
-title: Voisins Vigilants et Solidaires
-subtitle: Le blog officiel
+title: Le blog  de la solidarité <br>et de la vigilance de voisinage
+#subtitle: Le blog officiel
 email: support@voisinsvigilants.org
 name: Voisins Vigilants et Solidaires
 
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 cover: "/assets/header_voisinsvigilantsorg.jpg"
-logo: "/assets/logoBlog.png"
+logo: "/assets/logo_VVS_carre_150.png"
 iconevvs: "/assets/oeil.png"
 
 markdown: kramdown

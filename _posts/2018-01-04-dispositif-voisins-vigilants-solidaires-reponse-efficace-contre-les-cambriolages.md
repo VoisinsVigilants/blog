@@ -11,15 +11,9 @@ categories:
 tags:
   - Cambriolage
 ---
-##### Monsieur SALLE Stéphane, habitant de la commune de Montévrain en Seine et Marne, a rejoint le dispositif Voisins Vigilants et Solidaires en 2016. Grace au système d’alertes SMS, proposé par Voisins Vigilants et Solidaires, les forces de l’ordre ont pu mettre fin à un repérage du garage de son immeuble en vue d’un cambriolage.
-
-&nbsp;
+**Monsieur SALLE Stéphane, habitant de la commune de Montévrain en Seine et Marne, a rejoint le dispositif Voisins Vigilants et Solidaires en 2016. Grace au système d’alertes SMS, proposé par Voisins Vigilants et Solidaires, les forces de l’ordre ont pu mettre fin à un repérage du garage de son immeuble en vue d’un cambriolage.**
 
 [<img class="aligncenter wp-image-3186 size-full" src="./../../images/2018/01/mon.jpg" alt="mon" />](./../../images/2018/01/mon.jpg)
-
-&nbsp;
-
-&nbsp;
 
 **Comment avez-vous connu le dispositif Voisins Vigilants et Solidaires ?**
 
@@ -44,5 +38,3 @@ J’ai appris par la suite que la police était intervenue et qu’il s’agissa
 **Quel bilan faites-vous de la mise en place du dispositif Voisins Vigilants et Solidaires sur votre commune ?**
 
 Eh bien, je note une réelle amélioration. Le dispositif Voisins Vigilants est rassurant et apporte un sentiment de sécurité. Cela a également permis une réelle proximité entre les administrés et la police municipale. La police municipale est très réactive en cas d’alerte SMS. Cependant j’aimerais souligner que de mon point de vue les incivilités et les cambriolages se produisent en grande partie à cause d’un manque de diffusion et de partage de l’information entre habitants, entre voisins. Il faut être actif sur le site voisinsvigilants.org et ne pas hésiter à signaler ce que l’on voit, ce que l’on remarque.
-
-&nbsp;

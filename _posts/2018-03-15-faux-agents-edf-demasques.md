@@ -12,9 +12,9 @@ categories:
 tags:
   - Alerte
 ---
+
 [<img class="aligncenter wp-image-3220 size-large" src="./../../images/2018/03/demarcheurs.jpg" alt="démarcheurs" />](./../../images/2018/03/demarcheurs.jpg)
 
-&nbsp;
 
 En quelques heures, l’alerte a circulé sur un groupe dédié aux villes de Gargenville et Juziers et sur la plateforme Voisins Vigilants et Solidaires comme le rapporte le site lagazette-yvelines.fr
 
@@ -27,7 +27,3 @@ Une Gargenvilloise fournira leur description et leur itinéraire :  &laquo;&nbs
 Bien que deux personnes âgées &laquo;&nbsp;se sont faites avoir&nbsp;&raquo;, comme le déplore une retraitée juziéroise, il est certain que la diffusion d&rsquo;alertes concernant ces faux démarcheurs a permis que le nombre de personnes lésées soit réduit.
 
 Depuis quelques mois, la direction départementale de sécurité publique (DDSP) yvelinoise multiplie les réunions de prévention contre les vols à la fausse qualité, en particulier auprès des personnes âgées. Parmi les conseils distillés, la DDSP recommande notamment de « conserver près de votre téléphone une feuille avec les numéros utiles pour pouvoir faire les vérifications » auprès des entreprises dont se revendiquent les démarcheurs.
-
-&nbsp;
-
-&nbsp;

@@ -109,7 +109,12 @@ h2{
 		font-size: 1.5rem;
 		font-weight:200;
 	}
+}
 
+.link-vv{
+	.logo-responsive{
+		font-size: 1.18em;
+	}
 }
 
 @media (max-width: 700px) {
@@ -125,10 +130,6 @@ h2{
 	.iframe-video{
 		width: 230px;
 		height: 159px;
-	}
-
-	.logo{
-		width: 120px;
 	}
 
 	h2{

@@ -9,7 +9,7 @@ permalink: /blog/lien-social-cultive-grace-aux-jardins-partages/
 categories:
   - Conseils
 ---
-##### Des habitants d&rsquo;un même immeuble ou d&rsquo;un même quartier aménagent un terrain à proximité, pour y créer un jardin. Bien plus que des légumes ou des fleurs, c&rsquo;est surtout la solidarité qui se cultive au sein d&rsquo;un jardin partagé.
+**Des habitants d&rsquo;un même immeuble ou d&rsquo;un même quartier aménagent un terrain à proximité, pour y créer un jardin. Bien plus que des légumes ou des fleurs, c&rsquo;est surtout la solidarité qui se cultive au sein d&rsquo;un jardin partagé.**
 
 [<img class="aligncenter size-full wp-image-2935" src="./../../images/2017/04/les-citadins-mettent-paris-en-campagneM218018.jpg" alt="les-citadins-mettent-paris-en-campagne,M218018" />](./../../images/2017/04/les-citadins-mettent-paris-en-campagneM218018.jpg)
 

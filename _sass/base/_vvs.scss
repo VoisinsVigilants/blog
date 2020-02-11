@@ -4,19 +4,19 @@
 .link-vv {
     font-family: 'calibri';
     text-align: right;
-    font-size: small;    
+    font-size: small;
+		margin-top: 30px;
 }
 
 .link-vv a {
   color: $dark-gray;
-  text-decoration: none;
+  text-decoration: underline;
   // transition: color 0.1s linear;
 
   &:active,
   &:focus,
   &:hover {
     color: darken($dark-gray, 10%);
-    text-decoration: underline;
   }
 
   &:active,
@@ -25,33 +25,83 @@
   }
 }    
 
-.subtitle{
-  font-family: 'Lobster', cursive;
+.title{
+  font-family: 'Courgette', cursive;
   font-size: 2.1rem;
   font-weight:200;
 }
 
 .videocontent{
-	width: 80%;
-	max-width: 640px;
+	width: 100%;
+	max-width: 736px;
 	margin: 0 auto;
 }
 
 .video-vv{
-	width: 80%;
-	max-width: 640px;
-	max-height: 370px !important;
+	width: 100%;
+	max-width: 736px;
+	max-height: 437px !important;
+
+	button{
+		background-color: #ff3030 !important;
+		border: #ff3030 !important;
+	}
+
+	button:hover{
+		border: #ff3030 !important;
+		background-color: #ff3030 !important;
+	}
+}
+
+.header-divider {
+	$divider-color: $yellowvvs;
+	display: block;
+	width: 100%;
+	margin-left: auto;
+	margin-right: auto;
+	border-top: 2px solid $divider-color;
+	.one {
+		position: relative;
+		top: -9px;
+		display: block;
+		background: $divider-color;
+		width: 18px;
+		height: 18px;
+		margin-left: auto;
+		margin-right: auto;
+		border-radius: 50%;
+	}
+	.two {
+		position: relative;
+		top: -25px;
+		display: block;
+		background: $white;
+		width: 14px;
+		height: 14px;
+		margin-left: auto;
+		margin-right: auto;
+		border-radius: 50%;
+	}
 }
 
 .iframe-video{
-	width: 80%;
-	max-width: 640px;
-	height: 315px;
+	width: 100%;
+	max-width: 736px;
+	height: 437px;
 }
 
-//.navigation{
-//	padding-bottom: 25px !important;
-//}
+h1.title{
+	font-family: 'Lobster', cursive;
+	font-size: 2.1rem;
+	font-weight:200;
+	color: #000;
+	line-height: 1em;
+	padding-top: 25px;
+}
+
+h2{
+	line-height: 1.1em;
+}
 
 .site-header{
 	text-align: center;
@@ -59,12 +109,15 @@
 		font-size: 1.5rem;
 		font-weight:200;
 	}
-	h1.title{
-		font-size: 1.7em;
-	}
+
 }
 
-@media (max-width: 755px) {
+@media (max-width: 700px) {
+	h1.title{
+		font-size: 1.23rem;
+		padding-top: 20px;
+	}
+
 	.video-vv{
 			height: 150px;
 	}
@@ -78,16 +131,19 @@
 		width: 120px;
 	}
 
-	.logo-responsive{
-		display: none;
-	}
-
 	h2{
 		font-size: 1.4em;
+		line-height: 1.15;
 	}
 
 	h1{
 		font-size: 1.5em;
+	}
+
+	.link-vv{
+		.logo-responsive{
+			font-size: 1em;
+		}
 	}
 
 }
@@ -100,6 +156,12 @@
 	h3.footer-heading{
 		font-size: 1em;
 		margin-bottom: 5px;
+	}
+}
+
+.post-excerpt{
+	p{
+		text-align: justify;
 	}
 }
 
